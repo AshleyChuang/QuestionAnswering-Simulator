@@ -1,0 +1,62 @@
+Ruan Yushan,28,26,3.0, 1.0,68
+Liao Xun weight,0,424,0.0, 4.0,16
+Martha Fu,0,0,4.0, 0.0,40
+Li Yuzhe,0,0,4.0, 0.0,20
+Chang Chun Peng,36,0,4.0, 0.0,56
+Liu Yi Ning,0,0,4.0, 0.0,24
+Qiu Italian View,0,0,4.0, 0.0,32
+Xiang Yang Min,0,0,4.0, 0.0,28
+Su Yang Xi,0,0,4.0, 0.0,36
+Liuling Jun,0,0,0.0, 4.0,32
+Andy Chung,28,0,4.0, 0.0,48
+Yushi Yeap,36,0,4.0, 0.0,80
+Zhang Liangwei,0,0,4.0, 0.0,28
+Zou Yun Yun,476,420,1.0, 2.8901734104046244,508
+Zhong Xuan can,144,0,4.0, 0.0,172
+Yang Zhuoyun,0,0,4.0, 0.0,16
+Jason Lin,0,0,4.0, 0.0,32
+Deng Yizhen,44,0,1.3157894736842106, 1.7916666666666667,68
+Lin Zhen,108,0,4.0, 0.0,144
+Huang Zhijun,0,0,4.0, 0.0,8
+Winnie Chang,88,0,4.0, 0.0,120
+Stephanie Kao,0,0,4.0, 0.0,32
+Chenjia Ru,42,0,1.0, 2.206896551724138,78
+Harry Chen,0,0,4.0, 0.0,24
+Jimmy Yuan,636,0,3.0194805194805197, 1.0051546391752577,660
+Chen Weijun,76,0,2.0, 2.0,112
+Lin Chunan,0,0,4.0, 0.0,12
+Huang Han,0,0,4.0, 0.0,20
+Carisa Hung,0,0,4.0, 0.0,28
+Yu Chen Chen,0,0,0.0, 0.0,0
+Liu Ting Yi,0,0,4.0, 0.0,32
+Yang Junwei,0,0,4.0, 0.0,28
+Lin Wan Xuan,0,0,1.0, 3.0,28
+High Ze Quan,5,0,1.0, 2.3333333333333335,45
+Liu Fengxuan,100,0,0.0, 1.2244897959183674,120
+Zhang Yan Yu,192,0,4.0, 0.0,216
+Kang Mingxi,0,0,2.0, 2.0,48
+Huang Tingbai,0,0,0.0, 4.0,32
+Hung Yu Heng,0,0,4.0, 0.0,24
+Bai Li Jian,0,0,4.0, 0.0,20
+Chen Yi Ling,25,423,1.0, 1.3333333333333333,45
+Alex Chiang,0,0,4.0, 0.0,12
+Huang Zhenting,0,0,4.0, 0.0,24
+Song Pei Hoon,90,0,1.2307692307692308, 2.0,126
+Yang Hyun Christine,0,0,0.0, 4.0,24
+Zhong Jiajun,0,0,4.0, 0.0,24
+Lizi Xuan,22,0,0.0, 3.125,50
+Peng Wei Wang,0,0,4.0, 0.0,40
+Yun Yun Tsai,0,0,1.0, 3.0,36
+Guo Baiyu,0,0,4.0, 0.0,28
+He Yuting,0,0,0.0, 0.0,0
+Wong Yang,0,0,4.0, 0.0,32
+Wu Chenxi,0,0,4.0, 0.0,44
+Guan Ai Wu,0,0,4.0, 0.0,32
+Wen Shi Kai,108,0,4.0, 0.0,136
+Lin Zonghan,10,0,1.0, 1.75,34
+Li Jingying,0,0,4.0, 0.0,24
+Fuzi Rui,139,419,1.0, 1.177304964539007,175
+Howard Hsu,0,0,4.0, 0.0,40
+Zhang Qi,0,0,4.0, 0.0,28
+Weng Zaihao,99,0,1.0, 1.8620689655172413,111
+Liven Pan,14,0,2.0, 2.0,58

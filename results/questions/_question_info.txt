@@ -1,0 +1,2735 @@
+0,Martha Fu,0,0,[],4
+1,Martha Fu,0,0,[],4
+2,Martha Fu,0,0,[],4
+3,Martha Fu,0,0,[],4
+4,Martha Fu,0,0,[],4
+5,Martha Fu,0,0,[],4
+6,Martha Fu,0,0,[],4
+7,Martha Fu,0,0,[],4
+8,Martha Fu,0,0,[],4
+9,Martha Fu,0,0,[],4
+10,Martha Fu,0,0,[],4
+11,Martha Fu,0,0,[],4
+12,Martha Fu,0,0,[],4
+13,Martha Fu,0,0,[],4
+14,Martha Fu,0,0,[],4
+15,Martha Fu,0,0,[],4
+16,Martha Fu,0,0,[],4
+17,Martha Fu,0,0,[],4
+18,Martha Fu,0,0,[],4
+19,Martha Fu,0,0,[],4
+20,Martha Fu,0,0,[],4
+21,Martha Fu,0,0,[],4
+22,Martha Fu,0,0,[],4
+23,Martha Fu,0,0,[],4
+24,Martha Fu,0,0,[],4
+25,Martha Fu,0,0,[],4
+26,Martha Fu,0,0,[],4
+27,Martha Fu,0,0,[],4
+28,Martha Fu,0,0,[],4
+29,Martha Fu,0,0,[],4
+30,Martha Fu,0,0,[],4
+31,Martha Fu,0,0,[],4
+32,Martha Fu,0,0,[],4
+33,Martha Fu,0,0,[],4
+34,Martha Fu,0,0,[],4
+35,Martha Fu,0,0,[],4
+36,Martha Fu,0,0,[],4
+37,Martha Fu,0,0,[],4
+38,Martha Fu,0,0,[],4
+39,Martha Fu,0,0,[],4
+40,Martha Fu,0,0,[],4
+41,Martha Fu,0,0,[],4
+42,Martha Fu,0,0,[],4
+43,Martha Fu,0,0,[],4
+44,Martha Fu,0,0,[],4
+45,Martha Fu,0,0,[],4
+46,Martha Fu,0,0,[],4
+47,Martha Fu,0,0,[],4
+48,Martha Fu,0,0,[],4
+49,Jimmy Yuan,0,0,[],4
+50,Jimmy Yuan,0,0,[],4
+51,Jimmy Yuan,0,0,[],4
+52,Jimmy Yuan,0,0,[],4
+53,Jimmy Yuan,0,0,[],4
+54,Jimmy Yuan,0,0,[],4
+55,Jimmy Yuan,0,0,[],4
+56,Jimmy Yuan,0,0,[],4
+57,Jimmy Yuan,0,0,[],4
+58,Jimmy Yuan,0,0,[],4
+59,Jimmy Yuan,0,0,[],4
+60,Jimmy Yuan,0,0,[],4
+61,Jimmy Yuan,0,0,[],4
+62,Jimmy Yuan,0,0,[],4
+63,Jimmy Yuan,0,0,[],4
+64,Jimmy Yuan,0,0,[],4
+65,Jimmy Yuan,0,0,[],4
+66,Jimmy Yuan,0,0,[],4
+67,Jimmy Yuan,0,0,[],4
+68,Jimmy Yuan,0,0,[],4
+69,Jimmy Yuan,0,0,[],4
+70,Jimmy Yuan,0,0,[],4
+71,Jimmy Yuan,0,0,[],4
+72,Jimmy Yuan,0,0,[],4
+73,Jimmy Yuan,0,0,[],4
+74,Jimmy Yuan,0,0,[],4
+75,Jimmy Yuan,0,0,[],4
+76,Jimmy Yuan,0,0,[],4
+77,Jimmy Yuan,0,0,[],4
+78,Jimmy Yuan,0,0,[],4
+79,Jimmy Yuan,0,0,[],4
+80,Jimmy Yuan,0,0,[],4
+81,Jimmy Yuan,0,0,[],4
+82,Jimmy Yuan,0,0,[],4
+83,Jimmy Yuan,0,0,[],4
+84,Jimmy Yuan,0,0,[],4
+85,Jimmy Yuan,0,0,[],4
+86,Jimmy Yuan,0,0,[],4
+87,Jimmy Yuan,0,0,[],4
+88,Jimmy Yuan,0,0,[],4
+89,Jimmy Yuan,0,0,[],4
+90,Jimmy Yuan,0,0,[],4
+91,Jimmy Yuan,0,0,[],4
+92,Jimmy Yuan,0,0,[],4
+93,Jimmy Yuan,0,0,[],4
+94,Jimmy Yuan,0,0,[],4
+95,Jimmy Yuan,0,0,[],4
+96,Jimmy Yuan,0,0,[],4
+97,Jimmy Yuan,0,0,[],4
+98,Jimmy Yuan,0,0,[],4
+99,Chen Yi Ling,0,0,[],4
+100,Chen Yi Ling,0,0,[],4
+101,Chen Yi Ling,0,0,[],4
+102,Chen Yi Ling,0,0,[],4
+103,Chen Yi Ling,0,0,[],4
+104,Chen Yi Ling,0,0,[],4
+105,Chen Yi Ling,0,0,[],4
+106,Chen Yi Ling,0,0,[],4
+107,Chen Yi Ling,0,0,[],4
+108,Chen Yi Ling,0,0,[],4
+109,Chen Yi Ling,0,0,[],4
+110,Chen Yi Ling,0,0,[],4
+111,Chen Yi Ling,0,0,[],4
+112,Chen Yi Ling,0,0,[],4
+113,Chen Yi Ling,0,0,[],4
+114,Chen Yi Ling,0,0,[],4
+115,Chen Yi Ling,0,0,[],4
+116,Chen Yi Ling,0,0,[],4
+117,Chen Yi Ling,0,0,[],4
+118,Chen Yi Ling,0,0,[],4
+119,Chen Yi Ling,0,0,[],4
+120,Chen Yi Ling,0,0,[],4
+121,Chen Yi Ling,0,0,[],4
+122,Chen Yi Ling,0,0,[],4
+123,Chen Yi Ling,0,0,[],4
+124,Chen Yi Ling,0,0,[],4
+125,Chen Yi Ling,0,0,[],4
+126,Chen Yi Ling,0,0,[],4
+127,Chen Yi Ling,0,0,[],4
+128,Chen Yi Ling,0,0,[],4
+129,Chen Yi Ling,0,0,[],4
+130,Chen Yi Ling,0,0,[],4
+131,Chen Yi Ling,0,0,[],4
+132,Chen Yi Ling,0,0,[],4
+133,Chen Yi Ling,0,0,[],4
+134,Chen Yi Ling,0,0,[],4
+135,Chen Yi Ling,0,0,[],4
+136,Chen Yi Ling,0,0,[],4
+137,Chen Yi Ling,0,0,[],4
+138,Chen Yi Ling,0,0,[],4
+139,Chen Yi Ling,0,0,[],4
+140,Chen Yi Ling,0,0,[],4
+141,Chen Yi Ling,0,0,[],4
+142,Chen Yi Ling,0,0,[],4
+143,Chen Yi Ling,0,0,[],4
+144,Chen Yi Ling,0,0,[],4
+145,Chen Yi Ling,0,0,[],4
+146,Chen Yi Ling,0,0,[],4
+147,Chen Yi Ling,0,0,[],4
+148,Harry Chen,0,0,[],4
+149,Harry Chen,0,0,[],4
+150,Harry Chen,0,0,[],4
+151,Harry Chen,0,0,[],4
+152,Harry Chen,0,0,[],4
+153,Harry Chen,0,0,[],4
+154,Harry Chen,0,0,[],4
+155,Harry Chen,0,0,[],4
+156,Harry Chen,0,0,[],4
+157,Harry Chen,0,0,[],4
+158,Harry Chen,0,0,[],4
+159,Harry Chen,0,0,[],4
+160,Harry Chen,0,0,[],4
+161,Harry Chen,0,0,[],4
+162,Harry Chen,0,0,[],4
+163,Harry Chen,0,0,[],4
+164,Harry Chen,0,0,[],4
+165,Harry Chen,0,0,[],4
+166,Harry Chen,0,0,[],4
+167,Harry Chen,0,0,[],4
+168,Harry Chen,0,0,[],4
+169,Harry Chen,0,0,[],4
+170,Harry Chen,0,0,[],4
+171,Harry Chen,0,0,[],4
+172,Harry Chen,0,0,[],4
+173,Harry Chen,0,0,[],4
+174,Harry Chen,0,0,[],4
+175,Harry Chen,0,0,[],4
+176,Harry Chen,0,0,[],4
+177,Harry Chen,0,0,[],4
+178,Harry Chen,0,0,[],4
+179,Harry Chen,0,0,[],4
+180,Harry Chen,0,0,[],4
+181,Harry Chen,0,0,[],4
+182,Harry Chen,0,0,[],4
+183,Harry Chen,0,0,[],4
+184,Harry Chen,0,0,[],4
+185,Harry Chen,0,0,[],4
+186,Harry Chen,0,0,[],4
+187,Harry Chen,0,0,[],4
+188,Harry Chen,0,0,[],4
+189,Harry Chen,0,0,[],4
+190,Harry Chen,0,0,[],4
+191,Peng Wei Wang,0,0,[],4
+192,Peng Wei Wang,0,0,[],4
+193,Peng Wei Wang,0,0,[],4
+194,Peng Wei Wang,0,0,[],4
+195,Peng Wei Wang,0,0,[],4
+196,Peng Wei Wang,0,0,[],4
+197,Peng Wei Wang,0,0,[],4
+198,Peng Wei Wang,0,0,[],4
+199,Peng Wei Wang,0,0,[],4
+200,Peng Wei Wang,0,0,[],4
+201,Peng Wei Wang,0,0,[],4
+202,Peng Wei Wang,0,0,[],4
+203,Peng Wei Wang,0,0,[],4
+204,Peng Wei Wang,0,0,[],4
+205,Peng Wei Wang,0,0,[],4
+206,Peng Wei Wang,0,0,[],4
+207,Peng Wei Wang,0,0,[],4
+208,Peng Wei Wang,0,0,[],4
+209,Peng Wei Wang,0,0,[],4
+210,Peng Wei Wang,0,0,[],4
+211,Peng Wei Wang,0,0,[],4
+212,Peng Wei Wang,0,0,[],4
+213,Peng Wei Wang,0,0,[],4
+214,Peng Wei Wang,0,0,[],4
+215,Peng Wei Wang,0,0,[],4
+216,Peng Wei Wang,0,0,[],4
+217,Peng Wei Wang,0,0,[],4
+218,Peng Wei Wang,0,0,[],4
+219,Peng Wei Wang,0,0,[],4
+220,Peng Wei Wang,0,0,[],4
+221,Peng Wei Wang,0,0,[],4
+222,Peng Wei Wang,0,0,[],4
+223,Peng Wei Wang,0,0,[],4
+224,Peng Wei Wang,0,0,[],4
+225,Peng Wei Wang,0,0,[],4
+226,Peng Wei Wang,0,0,[],4
+227,Peng Wei Wang,0,0,[],4
+228,Peng Wei Wang,0,0,[],4
+229,Peng Wei Wang,0,0,[],4
+230,Yang Junwei,0,0,[],4
+231,Yang Junwei,0,0,[],4
+232,Yang Junwei,0,0,[],4
+233,Yang Junwei,0,0,[],4
+234,Yang Junwei,0,0,[],4
+235,Yang Junwei,0,0,[],4
+236,Yang Junwei,0,0,[],4
+237,Yang Junwei,0,0,[],4
+238,Yang Junwei,0,0,[],4
+239,Yang Junwei,0,0,[],4
+240,Yang Junwei,0,0,[],4
+241,Yang Junwei,0,0,[],4
+242,Yang Junwei,0,0,[],4
+243,Yang Junwei,0,0,[],4
+244,Yang Junwei,0,0,[],4
+245,Yang Junwei,0,0,[],4
+246,Yang Junwei,0,0,[],4
+247,Yang Junwei,0,0,[],4
+248,Yang Junwei,0,0,[],4
+249,Yang Junwei,0,0,[],4
+250,Yang Junwei,0,0,[],4
+251,Yang Junwei,0,0,[],4
+252,Yang Junwei,0,0,[],4
+253,Yang Junwei,0,0,[],4
+254,Yang Junwei,0,0,[],4
+255,Yang Junwei,0,0,[],4
+256,Yang Junwei,0,0,[],4
+257,Yang Junwei,0,0,[],4
+258,Yang Junwei,0,0,[],4
+259,Yang Junwei,0,0,[],4
+260,Yang Junwei,0,0,[],4
+261,Yang Junwei,0,0,[],4
+262,Yang Junwei,0,0,[],4
+263,Yang Junwei,0,0,[],4
+264,Yang Junwei,0,0,[],4
+265,Yang Junwei,0,0,[],4
+266,Yang Junwei,0,0,[],4
+267,Yang Junwei,0,0,[],4
+268,Yang Junwei,0,0,[],4
+269,Yang Junwei,0,0,[],4
+270,Yang Junwei,0,0,[],4
+271,Yang Junwei,0,0,[],4
+272,Yang Junwei,0,0,[],4
+273,Yang Junwei,0,0,[],4
+274,Yang Junwei,0,0,[],4
+275,Yang Junwei,0,0,[],4
+276,Zhong Jiajun,0,0,[],4
+277,Zhong Jiajun,0,0,[],4
+278,Zhong Jiajun,0,0,[],4
+279,Zhong Jiajun,0,0,[],4
+280,Zhong Jiajun,0,0,[],4
+281,Zhong Jiajun,0,0,[],4
+282,Zhong Jiajun,0,0,[],4
+283,Zhong Jiajun,0,0,[],4
+284,Zhong Jiajun,0,0,[],4
+285,Zhong Jiajun,0,0,[],4
+286,Zhong Jiajun,0,0,[],4
+287,Zhong Jiajun,0,0,[],4
+288,Zhong Jiajun,0,0,[],4
+289,Zhong Jiajun,0,0,[],4
+290,Zhong Jiajun,0,0,[],4
+291,Zhong Jiajun,0,0,[],4
+292,Zhong Jiajun,0,0,[],4
+293,Zhong Jiajun,0,0,[],4
+294,Zhong Jiajun,0,0,[],4
+295,Zhong Jiajun,0,0,[],4
+296,Zhong Jiajun,0,0,[],4
+297,Zhong Jiajun,0,0,[],4
+298,Zhong Jiajun,0,0,[],4
+299,Zhong Jiajun,0,0,[],4
+300,Zhong Jiajun,0,0,[],4
+301,Zhong Jiajun,0,0,[],4
+302,Zhong Jiajun,0,0,[],4
+303,Zhong Jiajun,0,0,[],4
+304,Zhong Jiajun,0,0,[],4
+305,Zhong Jiajun,0,0,[],4
+306,Zhong Jiajun,0,0,[],4
+307,Zhong Jiajun,0,0,[],4
+308,Zhong Jiajun,0,0,[],4
+309,Zhong Jiajun,0,0,[],4
+310,Zhong Jiajun,0,0,[],4
+311,Zhong Jiajun,0,0,[],4
+312,Zhong Jiajun,0,0,[],4
+313,Zhong Jiajun,0,0,[],4
+314,Zhong Jiajun,0,0,[],4
+315,Zhong Jiajun,0,0,[],4
+316,Yun Yun Tsai,0,0,[],4
+317,Yun Yun Tsai,0,0,[],4
+318,Yun Yun Tsai,0,0,[],4
+319,Yun Yun Tsai,0,0,[],4
+320,Yun Yun Tsai,0,0,[],4
+321,Yun Yun Tsai,0,0,[],4
+322,Yun Yun Tsai,0,0,[],4
+323,Yun Yun Tsai,0,0,[],4
+324,Yun Yun Tsai,0,0,[],4
+325,Yun Yun Tsai,0,0,[],4
+326,Yun Yun Tsai,0,0,[],4
+327,Yun Yun Tsai,0,0,[],4
+328,Yun Yun Tsai,0,0,[],4
+329,Yun Yun Tsai,0,0,[],4
+330,Yun Yun Tsai,0,0,[],4
+331,Yun Yun Tsai,0,0,[],4
+332,Yun Yun Tsai,0,0,[],4
+333,Yun Yun Tsai,0,0,[],4
+334,Yun Yun Tsai,0,0,[],4
+335,Yun Yun Tsai,0,0,[],4
+336,Yun Yun Tsai,0,0,[],4
+337,Yun Yun Tsai,0,0,[],4
+338,Yun Yun Tsai,0,0,[],4
+339,Yun Yun Tsai,0,0,[],4
+340,Yun Yun Tsai,0,0,[],4
+341,Yun Yun Tsai,0,0,[],4
+342,Yun Yun Tsai,0,0,[],4
+343,Yun Yun Tsai,0,0,[],4
+344,Yun Yun Tsai,0,0,[],4
+345,Yun Yun Tsai,0,0,[],4
+346,Yun Yun Tsai,0,0,[],4
+347,Yun Yun Tsai,0,0,[],4
+348,Yun Yun Tsai,0,0,[],4
+349,Yun Yun Tsai,0,0,[],4
+350,Yun Yun Tsai,0,0,[],4
+351,Yun Yun Tsai,0,0,[],4
+352,Yun Yun Tsai,0,0,[],4
+353,Yun Yun Tsai,0,0,[],4
+354,Yun Yun Tsai,0,0,[],4
+355,Yun Yun Tsai,0,0,[],4
+356,Yun Yun Tsai,0,0,[],4
+357,Yun Yun Tsai,0,0,[],4
+358,Yun Yun Tsai,0,0,[],4
+359,Yun Yun Tsai,0,0,[],4
+360,Yun Yun Tsai,0,0,[],4
+361,Yun Yun Tsai,0,0,[],4
+362,Yun Yun Tsai,0,0,[],4
+363,Jason Lin,0,0,[],4
+364,Jason Lin,0,0,[],4
+365,Jason Lin,0,0,[],4
+366,Jason Lin,0,0,[],4
+367,Jason Lin,0,0,[],4
+368,Jason Lin,0,0,[],4
+369,Jason Lin,0,0,[],4
+370,Jason Lin,0,0,[],4
+371,Jason Lin,0,0,[],4
+372,Jason Lin,0,0,[],4
+373,Jason Lin,0,0,[],4
+374,Jason Lin,0,0,[],4
+375,Jason Lin,0,0,[],4
+376,Jason Lin,0,0,[],4
+377,Jason Lin,0,0,[],4
+378,Jason Lin,0,0,[],4
+379,Jason Lin,0,0,[],4
+380,Jason Lin,0,0,[],4
+381,Jason Lin,0,0,[],4
+382,Jason Lin,0,0,[],4
+383,Jason Lin,0,0,[],4
+384,Jason Lin,0,0,[],4
+385,Jason Lin,0,0,[],4
+386,Jason Lin,0,0,[],4
+387,Jason Lin,0,0,[],4
+388,Jason Lin,0,0,[],4
+389,Jason Lin,0,0,[],4
+390,Jason Lin,0,0,[],4
+391,Jason Lin,0,0,[],4
+392,Jason Lin,0,0,[],4
+393,Jason Lin,0,0,[],4
+394,Jason Lin,0,0,[],4
+395,Jason Lin,0,0,[],4
+396,Jason Lin,0,0,[],4
+397,Jason Lin,0,0,[],4
+398,Jason Lin,0,0,[],4
+399,Alex Chiang,0,0,[],4
+400,Alex Chiang,0,0,[],4
+401,Alex Chiang,0,0,[],4
+402,Alex Chiang,0,0,[],4
+403,Alex Chiang,0,0,[],4
+404,Alex Chiang,0,0,[],4
+405,Alex Chiang,0,0,[],4
+406,Alex Chiang,0,0,[],4
+407,Alex Chiang,0,0,[],4
+408,Alex Chiang,0,0,[],4
+409,Alex Chiang,0,0,[],4
+410,Alex Chiang,0,0,[],4
+411,Alex Chiang,0,0,[],4
+412,Alex Chiang,0,0,[],4
+413,Alex Chiang,0,0,[],4
+414,Alex Chiang,0,0,[],4
+415,Alex Chiang,0,0,[],4
+416,Alex Chiang,0,0,[],4
+417,Alex Chiang,0,0,[],4
+418,Alex Chiang,0,0,[],4
+419,Alex Chiang,0,0,[],4
+420,Alex Chiang,0,0,[],4
+421,Alex Chiang,0,0,[],4
+422,Alex Chiang,0,0,[],4
+423,Alex Chiang,0,0,[],4
+424,Alex Chiang,0,0,[],4
+425,Alex Chiang,0,0,[],4
+426,Alex Chiang,0,0,[],4
+427,Alex Chiang,0,0,[],4
+428,Alex Chiang,0,0,[],4
+429,Alex Chiang,0,0,[],4
+430,Alex Chiang,0,0,[],4
+431,Alex Chiang,0,0,[],4
+432,Alex Chiang,0,0,[],4
+433,Alex Chiang,0,0,[],4
+434,Alex Chiang,0,0,[],4
+435,Alex Chiang,0,0,[],4
+436,Alex Chiang,0,0,[],4
+437,Alex Chiang,0,0,[],4
+438,Alex Chiang,0,0,[],4
+439,Alex Chiang,0,0,[],4
+440,Alex Chiang,0,0,[],4
+441,Alex Chiang,0,0,[],4
+442,Zhang Qi,0,0,[],4
+443,Zhang Qi,0,0,[],4
+444,Zhang Qi,0,0,[],4
+445,Zhang Qi,0,0,[],4
+446,Zhang Qi,0,0,[],4
+447,Zhang Qi,0,0,[],4
+448,Zhang Qi,0,0,[],4
+449,Zhang Qi,0,0,[],4
+450,Zhang Qi,0,0,[],4
+451,Zhang Qi,0,0,[],4
+452,Zhang Qi,0,0,[],4
+453,Zhang Qi,0,0,[],4
+454,Zhang Qi,0,0,[],4
+455,Zhang Qi,0,0,[],4
+456,Zhang Qi,0,0,[],4
+457,Zhang Qi,0,0,[],4
+458,Zhang Qi,0,0,[],4
+459,Zhang Qi,0,0,[],4
+460,Zhang Qi,0,0,[],4
+461,Zhang Qi,0,0,[],4
+462,Zhang Qi,0,0,[],4
+463,Zhang Qi,0,0,[],4
+464,Zhang Qi,0,0,[],4
+465,Zhang Qi,0,0,[],4
+466,Zhang Qi,0,0,[],4
+467,Zhang Qi,0,0,[],4
+468,Zhang Qi,0,0,[],4
+469,Zhang Qi,0,0,[],4
+470,Zhang Qi,0,0,[],4
+471,Zhang Qi,0,0,[],4
+472,Zhang Qi,0,0,[],4
+473,Zhang Qi,0,0,[],4
+474,Zhang Qi,0,0,[],4
+475,Zhang Qi,0,0,[],4
+476,Zhang Qi,0,0,[],4
+477,Zhang Qi,0,0,[],4
+478,Zhang Qi,0,0,[],4
+479,Zhang Qi,0,0,[],4
+480,Zhang Qi,0,0,[],4
+481,Zhang Qi,0,0,[],4
+482,Zhang Qi,0,0,[],4
+483,Zhang Qi,0,0,[],4
+484,Zhang Qi,0,0,[],4
+485,Zhang Qi,0,0,[],4
+486,Zhang Liangwei,0,0,[],4
+487,Zhang Liangwei,0,0,[],4
+488,Zhang Liangwei,0,0,[],4
+489,Zhang Liangwei,0,0,[],4
+490,Zhang Liangwei,0,0,[],4
+491,Zhang Liangwei,0,0,[],4
+492,Zhang Liangwei,0,0,[],4
+493,Zhang Liangwei,0,0,[],4
+494,Zhang Liangwei,0,0,[],4
+495,Zhang Liangwei,0,0,[],4
+496,Zhang Liangwei,0,0,[],4
+497,Zhang Liangwei,0,0,[],4
+498,Zhang Liangwei,0,0,[],4
+499,Zhang Liangwei,0,0,[],4
+500,Zhang Liangwei,0,0,[],4
+501,Zhang Liangwei,0,0,[],4
+502,Zhang Liangwei,0,0,[],4
+503,Zhang Liangwei,0,0,[],4
+504,Zhang Liangwei,0,0,[],4
+505,Zhang Liangwei,0,0,[],4
+506,Zhang Liangwei,0,0,[],4
+507,Zhang Liangwei,0,0,[],4
+508,Zhang Liangwei,0,0,[],4
+509,Zhang Liangwei,0,0,[],4
+510,Zhang Liangwei,0,0,[],4
+511,Zhang Liangwei,0,0,[],4
+512,Zhang Liangwei,0,0,[],4
+513,Zhang Liangwei,0,0,[],4
+514,Zhang Liangwei,0,0,[],4
+515,Zhang Liangwei,0,0,[],4
+516,Zhang Liangwei,0,0,[],4
+517,Zhang Liangwei,0,0,[],4
+518,Zhang Liangwei,0,0,[],4
+519,Zhang Liangwei,0,0,[],4
+520,Zhang Liangwei,0,0,[],4
+521,Zhang Liangwei,0,0,[],4
+522,Zhang Liangwei,0,0,[],4
+523,Zhang Liangwei,0,0,[],4
+524,Zhang Liangwei,0,0,[],4
+525,Li Jingying,0,0,[],4
+526,Li Jingying,0,0,[],4
+527,Li Jingying,0,0,[],4
+528,Li Jingying,0,0,[],4
+529,Li Jingying,0,0,[],4
+530,Li Jingying,0,0,[],4
+531,Li Jingying,0,0,[],4
+532,Li Jingying,0,0,[],4
+533,Li Jingying,0,0,[],4
+534,Li Jingying,0,0,[],4
+535,Li Jingying,0,0,[],4
+536,Li Jingying,0,0,[],4
+537,Li Jingying,0,0,[],4
+538,Li Jingying,0,0,[],4
+539,Li Jingying,0,0,[],4
+540,Li Jingying,0,0,[],4
+541,Li Jingying,0,0,[],4
+542,Li Jingying,0,0,[],4
+543,Li Jingying,0,0,[],4
+544,Li Jingying,0,0,[],4
+545,Li Jingying,0,0,[],4
+546,Li Jingying,0,0,[],4
+547,Li Jingying,0,0,[],4
+548,Li Jingying,0,0,[],4
+549,Li Jingying,0,0,[],4
+550,Li Jingying,0,0,[],4
+551,Li Jingying,0,0,[],4
+552,Li Jingying,0,0,[],4
+553,Li Jingying,0,0,[],4
+554,Li Jingying,0,0,[],4
+555,Li Jingying,0,0,[],4
+556,Li Jingying,0,0,[],4
+557,Li Jingying,0,0,[],4
+558,Li Jingying,0,0,[],4
+559,Li Jingying,0,0,[],4
+560,Li Jingying,0,0,[],4
+561,Li Jingying,0,0,[],4
+562,Li Jingying,0,0,[],4
+563,Li Jingying,0,0,[],4
+564,Li Jingying,0,0,[],4
+565,Li Jingying,0,0,[],4
+566,Li Jingying,0,0,[],4
+567,Li Jingying,0,0,[],4
+568,Li Jingying,0,0,[],4
+569,Li Jingying,0,0,[],4
+570,Li Jingying,0,0,[],4
+571,Li Jingying,0,0,[],4
+572,Li Jingying,0,0,[],4
+573,Zou Yun Yun,0,0,[],4
+574,Zou Yun Yun,0,0,[],4
+575,Zou Yun Yun,0,0,[],4
+576,Zou Yun Yun,0,0,[],4
+577,Zou Yun Yun,0,0,[],4
+578,Zou Yun Yun,0,0,[],4
+579,Zou Yun Yun,0,0,[],4
+580,Zou Yun Yun,0,0,[],4
+581,Zou Yun Yun,0,0,[],4
+582,Zou Yun Yun,0,0,[],4
+583,Zou Yun Yun,0,0,[],4
+584,Zou Yun Yun,0,0,[],4
+585,Zou Yun Yun,0,0,[],4
+586,Zou Yun Yun,0,0,[],4
+587,Zou Yun Yun,0,0,[],4
+588,Zou Yun Yun,0,0,[],4
+589,Zou Yun Yun,0,0,[],4
+590,Zou Yun Yun,0,0,[],4
+591,Zou Yun Yun,0,0,[],4
+592,Zou Yun Yun,0,0,[],4
+593,Zou Yun Yun,0,0,[],4
+594,Zou Yun Yun,0,0,[],4
+595,Zou Yun Yun,0,0,[],4
+596,Zou Yun Yun,0,0,[],4
+597,Zou Yun Yun,0,0,[],4
+598,Zou Yun Yun,0,0,[],4
+599,Zou Yun Yun,0,0,[],4
+600,Zou Yun Yun,0,0,[],4
+601,Zou Yun Yun,0,0,[],4
+602,Zou Yun Yun,0,0,[],4
+603,Zou Yun Yun,0,0,[],4
+604,Zou Yun Yun,0,0,[],4
+605,Zou Yun Yun,0,0,[],4
+606,Zou Yun Yun,0,0,[],4
+607,Zou Yun Yun,0,0,[],4
+608,Zou Yun Yun,0,0,[],4
+609,Zou Yun Yun,0,0,[],4
+610,Zou Yun Yun,0,0,[],4
+611,Zou Yun Yun,0,0,[],4
+612,Zou Yun Yun,0,0,[],4
+613,Huang Zhenting,0,0,[],4
+614,Huang Zhenting,0,0,[],4
+615,Huang Zhenting,0,0,[],4
+616,Huang Zhenting,0,0,[],4
+617,Huang Zhenting,0,0,[],4
+618,Huang Zhenting,0,0,[],4
+619,Huang Zhenting,0,0,[],4
+620,Huang Zhenting,0,0,[],4
+621,Huang Zhenting,0,0,[],4
+622,Huang Zhenting,0,0,[],4
+623,Huang Zhenting,0,0,[],4
+624,Huang Zhenting,0,0,[],4
+625,Huang Zhenting,0,0,[],4
+626,Huang Zhenting,0,0,[],4
+627,Huang Zhenting,0,0,[],4
+628,Huang Zhenting,0,0,[],4
+629,Huang Zhenting,0,0,[],4
+630,Huang Zhenting,0,0,[],4
+631,Huang Zhenting,0,0,[],4
+632,Huang Zhenting,0,0,[],4
+633,Huang Zhenting,0,0,[],4
+634,Huang Zhenting,0,0,[],4
+635,Huang Zhenting,0,0,[],4
+636,Huang Zhenting,0,0,[],4
+637,Huang Zhenting,0,0,[],4
+638,Huang Zhenting,0,0,[],4
+639,Huang Zhenting,0,0,[],4
+640,Huang Zhenting,0,0,[],4
+641,Huang Zhenting,0,0,[],4
+642,Huang Zhenting,0,0,[],4
+643,Huang Zhenting,0,0,[],4
+644,Huang Zhenting,0,0,[],4
+645,Huang Zhenting,0,0,[],4
+646,Huang Zhenting,0,0,[],4
+647,Huang Zhenting,0,0,[],4
+648,Huang Zhenting,0,0,[],4
+649,Huang Zhenting,0,0,[],4
+650,Huang Zhenting,0,0,[],4
+651,Huang Zhenting,0,0,[],4
+652,Huang Zhenting,0,0,[],4
+653,Huang Zhenting,0,0,[],4
+654,Huang Zhenting,0,0,[],4
+655,Huang Zhenting,0,0,[],4
+656,Huang Zhenting,0,0,[],4
+657,Huang Zhenting,0,0,[],4
+658,Huang Zhenting,0,0,[],4
+659,Huang Zhenting,0,0,[],4
+660,Huang Zhenting,0,0,[],4
+661,Howard Hsu,0,0,[],4
+662,Howard Hsu,0,0,[],4
+663,Howard Hsu,0,0,[],4
+664,Howard Hsu,0,0,[],4
+665,Howard Hsu,0,0,[],4
+666,Howard Hsu,0,0,[],4
+667,Howard Hsu,0,0,[],4
+668,Howard Hsu,0,0,[],4
+669,Howard Hsu,0,0,[],4
+670,Howard Hsu,0,0,[],4
+671,Howard Hsu,0,0,[],4
+672,Howard Hsu,0,0,[],4
+673,Howard Hsu,0,0,[],4
+674,Howard Hsu,0,0,[],4
+675,Howard Hsu,0,0,[],4
+676,Howard Hsu,0,0,[],4
+677,Howard Hsu,0,0,[],4
+678,Howard Hsu,0,0,[],4
+679,Howard Hsu,0,0,[],4
+680,Howard Hsu,0,0,[],4
+681,Howard Hsu,0,0,[],4
+682,Howard Hsu,0,0,[],4
+683,Howard Hsu,0,0,[],4
+684,Howard Hsu,0,0,[],4
+685,Howard Hsu,0,0,[],4
+686,Howard Hsu,0,0,[],4
+687,Howard Hsu,0,0,[],4
+688,Howard Hsu,0,0,[],4
+689,Howard Hsu,0,0,[],4
+690,Howard Hsu,0,0,[],4
+691,Howard Hsu,0,0,[],4
+692,Howard Hsu,0,0,[],4
+693,Howard Hsu,0,0,[],4
+694,Howard Hsu,0,0,[],4
+695,Howard Hsu,0,0,[],4
+696,Howard Hsu,0,0,[],4
+697,Howard Hsu,0,0,[],4
+698,Howard Hsu,0,0,[],4
+699,Howard Hsu,0,0,[],4
+700,Liven Pan,0,0,[],4
+701,Liven Pan,0,0,[],4
+702,Liven Pan,0,0,[],4
+703,Liven Pan,0,0,[],4
+704,Liven Pan,0,0,[],4
+705,Liven Pan,0,0,[],4
+706,Liven Pan,0,0,[],4
+707,Liven Pan,0,0,[],4
+708,Liven Pan,0,0,[],4
+709,Liven Pan,0,0,[],4
+710,Liven Pan,0,0,[],4
+711,Liven Pan,0,0,[],4
+712,Liven Pan,0,0,[],4
+713,Liven Pan,0,0,[],4
+714,Liven Pan,0,0,[],4
+715,Liven Pan,0,0,[],4
+716,Liven Pan,0,0,[],4
+717,Liven Pan,0,0,[],4
+718,Liven Pan,0,0,[],4
+719,Liven Pan,0,0,[],4
+720,Liven Pan,0,0,[],4
+721,Liven Pan,0,0,[],4
+722,Liven Pan,0,0,[],4
+723,Liven Pan,0,0,[],4
+724,Liven Pan,0,0,[],4
+725,Liven Pan,0,0,[],4
+726,Liven Pan,0,0,[],4
+727,Liven Pan,0,0,[],4
+728,Liven Pan,0,0,[],4
+729,Liven Pan,0,0,[],4
+730,Liven Pan,0,0,[],4
+731,Liven Pan,0,0,[],4
+732,Liven Pan,0,0,[],4
+733,Liven Pan,0,0,[],4
+734,Liven Pan,0,0,[],4
+735,Liven Pan,0,0,[],4
+736,Liven Pan,0,0,[],4
+737,Liven Pan,0,0,[],4
+738,Liven Pan,0,0,[],4
+739,Liven Pan,0,0,[],4
+740,Liven Pan,0,0,[],4
+741,Liven Pan,0,0,[],4
+742,Liven Pan,0,0,[],4
+743,Liven Pan,0,0,[],4
+744,Liven Pan,0,0,[],4
+745,Liven Pan,0,0,[],4
+746,Liven Pan,0,0,[],4
+747,Liven Pan,0,0,[],4
+748,Liven Pan,0,0,[],4
+749,Zhong Xuan can,0,0,[],4
+750,Zhong Xuan can,0,0,[],4
+751,Zhong Xuan can,0,0,[],4
+752,Zhong Xuan can,0,0,[],4
+753,Zhong Xuan can,0,0,[],4
+754,Zhong Xuan can,0,0,[],4
+755,Zhong Xuan can,0,0,[],4
+756,Zhong Xuan can,0,0,[],4
+757,Zhong Xuan can,0,0,[],4
+758,Zhong Xuan can,0,0,[],4
+759,Zhong Xuan can,0,0,[],4
+760,Zhong Xuan can,0,0,[],4
+761,Zhong Xuan can,0,0,[],4
+762,Zhong Xuan can,0,0,[],4
+763,Zhong Xuan can,0,0,[],4
+764,Zhong Xuan can,0,0,[],4
+765,Zhong Xuan can,0,0,[],4
+766,Zhong Xuan can,0,0,[],4
+767,Zhong Xuan can,0,0,[],4
+768,Zhong Xuan can,0,0,[],4
+769,Zhong Xuan can,0,0,[],4
+770,Zhong Xuan can,0,0,[],4
+771,Zhong Xuan can,0,0,[],4
+772,Zhong Xuan can,0,0,[],4
+773,Zhong Xuan can,0,0,[],4
+774,Zhong Xuan can,0,0,[],4
+775,Zhong Xuan can,0,0,[],4
+776,Zhong Xuan can,0,0,[],4
+777,Zhong Xuan can,0,0,[],4
+778,Zhong Xuan can,0,0,[],4
+779,Zhong Xuan can,0,0,[],4
+780,Zhong Xuan can,0,0,[],4
+781,Zhong Xuan can,0,0,[],4
+782,Lin Chunan,0,0,[],4
+783,Lin Chunan,0,0,[],4
+784,Lin Chunan,0,0,[],4
+785,Lin Chunan,0,0,[],4
+786,Lin Chunan,0,0,[],4
+787,Lin Chunan,0,0,[],4
+788,Lin Chunan,0,0,[],4
+789,Lin Chunan,0,0,[],4
+790,Lin Chunan,0,0,[],4
+791,Lin Chunan,0,0,[],4
+792,Lin Chunan,0,0,[],4
+793,Lin Chunan,0,0,[],4
+794,Lin Chunan,0,0,[],4
+795,Lin Chunan,0,0,[],4
+796,Lin Chunan,0,0,[],4
+797,Lin Chunan,0,0,[],4
+798,Lin Chunan,0,0,[],4
+799,Lin Chunan,0,0,[],4
+800,Lin Chunan,0,0,[],4
+801,Lin Chunan,0,0,[],4
+802,Lin Chunan,0,0,[],4
+803,Lin Chunan,0,0,[],4
+804,Lin Chunan,0,0,[],4
+805,Lin Chunan,0,0,[],4
+806,Lin Chunan,0,0,[],4
+807,Lin Chunan,0,0,[],4
+808,Lin Chunan,0,0,[],4
+809,Lin Chunan,0,0,[],4
+810,Lin Chunan,0,0,[],4
+811,Lin Chunan,0,0,[],4
+812,Lin Chunan,0,0,[],4
+813,Lin Chunan,0,0,[],4
+814,Lin Chunan,0,0,[],4
+815,Lin Chunan,0,0,[],4
+816,Lin Chunan,0,0,[],4
+817,Lin Chunan,0,0,[],4
+818,Lin Chunan,0,0,[],4
+819,Lin Chunan,0,0,[],4
+820,Lin Chunan,0,0,[],4
+821,Lin Chunan,0,0,[],4
+822,Lin Chunan,0,0,[],4
+823,Song Pei Hoon,0,0,[],4
+824,Song Pei Hoon,0,0,[],4
+825,Song Pei Hoon,0,0,[],4
+826,Song Pei Hoon,0,0,[],4
+827,Song Pei Hoon,0,0,[],4
+828,Song Pei Hoon,0,0,[],4
+829,Song Pei Hoon,0,0,[],4
+830,Song Pei Hoon,0,0,[],4
+831,Song Pei Hoon,0,0,[],4
+832,Song Pei Hoon,0,0,[],4
+833,Song Pei Hoon,0,0,[],4
+834,Song Pei Hoon,0,0,[],4
+835,Song Pei Hoon,0,0,[],4
+836,Song Pei Hoon,0,0,[],4
+837,Song Pei Hoon,0,0,[],4
+838,Song Pei Hoon,0,0,[],4
+839,Song Pei Hoon,0,0,[],4
+840,Song Pei Hoon,0,0,[],4
+841,Song Pei Hoon,0,0,[],4
+842,Song Pei Hoon,0,0,[],4
+843,Song Pei Hoon,0,0,[],4
+844,Song Pei Hoon,0,0,[],4
+845,Song Pei Hoon,0,0,[],4
+846,Song Pei Hoon,0,0,[],4
+847,Song Pei Hoon,0,0,[],4
+848,Song Pei Hoon,0,0,[],4
+849,Song Pei Hoon,0,0,[],4
+850,Song Pei Hoon,0,0,[],4
+851,Song Pei Hoon,0,0,[],4
+852,Song Pei Hoon,0,0,[],4
+853,Song Pei Hoon,0,0,[],4
+854,Song Pei Hoon,0,0,[],4
+855,Song Pei Hoon,0,0,[],4
+856,Song Pei Hoon,0,0,[],4
+857,Song Pei Hoon,0,0,[],4
+858,Song Pei Hoon,0,0,[],4
+859,Song Pei Hoon,0,0,[],4
+860,Song Pei Hoon,0,0,[],4
+861,Song Pei Hoon,0,0,[],4
+862,Song Pei Hoon,0,0,[],4
+863,Song Pei Hoon,0,0,[],4
+864,Song Pei Hoon,0,0,[],4
+865,Song Pei Hoon,0,0,[],4
+866,Song Pei Hoon,0,0,[],4
+867,Song Pei Hoon,0,0,[],4
+868,Guo Baiyu,0,0,[],4
+869,Guo Baiyu,0,0,[],4
+870,Guo Baiyu,0,0,[],4
+871,Guo Baiyu,0,0,[],4
+872,Guo Baiyu,0,0,[],4
+873,Guo Baiyu,0,0,[],4
+874,Guo Baiyu,0,0,[],4
+875,Guo Baiyu,0,0,[],4
+876,Guo Baiyu,0,0,[],4
+877,Guo Baiyu,0,0,[],4
+878,Guo Baiyu,0,0,[],4
+879,Guo Baiyu,0,0,[],4
+880,Guo Baiyu,0,0,[],4
+881,Guo Baiyu,0,0,[],4
+882,Guo Baiyu,0,0,[],4
+883,Guo Baiyu,0,0,[],4
+884,Guo Baiyu,0,0,[],4
+885,Guo Baiyu,0,0,[],4
+886,Guo Baiyu,0,0,[],4
+887,Guo Baiyu,0,0,[],4
+888,Guo Baiyu,0,0,[],4
+889,Guo Baiyu,0,0,[],4
+890,Guo Baiyu,0,0,[],4
+891,Guo Baiyu,0,0,[],4
+892,Guo Baiyu,0,0,[],4
+893,Guo Baiyu,0,0,[],4
+894,Guo Baiyu,0,0,[],4
+895,Guo Baiyu,0,0,[],4
+896,Guo Baiyu,0,0,[],4
+897,Guo Baiyu,0,0,[],4
+898,Guo Baiyu,0,0,[],4
+899,Guo Baiyu,0,0,[],4
+900,Guo Baiyu,0,0,[],4
+901,Guo Baiyu,0,0,[],4
+902,Guo Baiyu,0,0,[],4
+903,Guo Baiyu,0,0,[],4
+904,Guo Baiyu,0,0,[],4
+905,Guo Baiyu,0,0,[],4
+906,Guo Baiyu,0,0,[],4
+907,Guo Baiyu,0,0,[],4
+908,Guo Baiyu,0,0,[],4
+909,Guo Baiyu,0,0,[],4
+910,Guo Baiyu,0,0,[],4
+911,Guo Baiyu,0,0,[],4
+912,Guo Baiyu,0,0,[],4
+913,Guo Baiyu,0,0,[],4
+914,Guo Baiyu,0,0,[],4
+915,Guo Baiyu,0,0,[],4
+916,Guo Baiyu,0,0,[],4
+917,Guo Baiyu,0,0,[],4
+918,Guo Baiyu,0,0,[],4
+919,Guo Baiyu,0,0,[],4
+920,Guo Baiyu,0,0,[],4
+921,Guo Baiyu,0,0,[],4
+922,Chang Chun Peng,0,0,[],4
+923,Chang Chun Peng,0,0,[],4
+924,Chang Chun Peng,0,0,[],4
+925,Chang Chun Peng,0,0,[],4
+926,Chang Chun Peng,0,0,[],4
+927,Chang Chun Peng,0,0,[],4
+928,Chang Chun Peng,0,0,[],4
+929,Chang Chun Peng,0,0,[],4
+930,Chang Chun Peng,0,0,[],4
+931,Chang Chun Peng,0,0,[],4
+932,Chang Chun Peng,0,0,[],4
+933,Chang Chun Peng,0,0,[],4
+934,Chang Chun Peng,0,0,[],4
+935,Chang Chun Peng,0,0,[],4
+936,Chang Chun Peng,0,0,[],4
+937,Chang Chun Peng,0,0,[],4
+938,Chang Chun Peng,0,0,[],4
+939,Chang Chun Peng,0,0,[],4
+940,Chang Chun Peng,0,0,[],4
+941,Chang Chun Peng,0,0,[],4
+942,Chang Chun Peng,0,0,[],4
+943,Chang Chun Peng,0,0,[],4
+944,Chang Chun Peng,0,0,[],4
+945,Chang Chun Peng,0,0,[],4
+946,Chang Chun Peng,0,0,[],4
+947,Chang Chun Peng,0,0,[],4
+948,Chang Chun Peng,0,0,[],4
+949,Chang Chun Peng,0,0,[],4
+950,Chang Chun Peng,0,0,[],4
+951,Chang Chun Peng,0,0,[],4
+952,Chang Chun Peng,0,0,[],4
+953,Yang Zhuoyun,0,0,[],4
+954,Yang Zhuoyun,0,0,[],4
+955,Yang Zhuoyun,0,0,[],4
+956,Yang Zhuoyun,0,0,[],4
+957,Yang Zhuoyun,0,0,[],4
+958,Yang Zhuoyun,0,0,[],4
+959,Yang Zhuoyun,0,0,[],4
+960,Yang Zhuoyun,0,0,[],4
+961,Yang Zhuoyun,0,0,[],4
+962,Yang Zhuoyun,0,0,[],4
+963,Yang Zhuoyun,0,0,[],4
+964,Yang Zhuoyun,0,0,[],4
+965,Yang Zhuoyun,0,0,[],4
+966,Yang Zhuoyun,0,0,[],4
+967,Yang Zhuoyun,0,0,[],4
+968,Yang Zhuoyun,0,0,[],4
+969,Yang Zhuoyun,0,0,[],4
+970,Yang Zhuoyun,0,0,[],4
+971,Yang Zhuoyun,0,0,[],4
+972,Yang Zhuoyun,0,0,[],4
+973,Yang Zhuoyun,0,0,[],4
+974,Yang Zhuoyun,0,0,[],4
+975,Yang Zhuoyun,0,0,[],4
+976,Yang Zhuoyun,0,0,[],4
+977,Yang Zhuoyun,0,0,[],4
+978,Yang Zhuoyun,0,0,[],4
+979,Yang Zhuoyun,0,0,[],4
+980,Yang Zhuoyun,0,0,[],4
+981,Yang Zhuoyun,0,0,[],4
+982,Yang Zhuoyun,0,0,[],4
+983,Yang Zhuoyun,0,0,[],4
+984,Yang Zhuoyun,0,0,[],4
+985,Yang Zhuoyun,0,0,[],4
+986,Yang Zhuoyun,0,0,[],4
+987,Yang Zhuoyun,0,0,[],4
+988,Yang Zhuoyun,0,0,[],4
+989,Yang Zhuoyun,0,0,[],4
+990,Yang Zhuoyun,0,0,[],4
+991,Yang Zhuoyun,0,0,[],4
+992,Yang Zhuoyun,0,0,[],4
+993,Yang Zhuoyun,0,0,[],4
+994,Yang Zhuoyun,0,0,[],4
+995,Yang Zhuoyun,0,0,[],4
+996,Yang Zhuoyun,0,0,[],4
+997,Yang Zhuoyun,0,0,[],4
+998,Yang Zhuoyun,0,0,[],4
+999,Yang Zhuoyun,0,0,[],4
+1000,Yang Zhuoyun,0,0,[],4
+1001,Yang Zhuoyun,0,0,[],4
+1002,Yang Zhuoyun,0,0,[],4
+1003,Yang Zhuoyun,0,0,[],4
+1004,Stephanie Kao,0,0,[],4
+1005,Stephanie Kao,0,0,[],4
+1006,Stephanie Kao,0,0,[],4
+1007,Stephanie Kao,0,0,[],4
+1008,Stephanie Kao,0,0,[],4
+1009,Stephanie Kao,0,0,[],4
+1010,Stephanie Kao,0,0,[],4
+1011,Stephanie Kao,0,0,[],4
+1012,Stephanie Kao,0,0,[],4
+1013,Stephanie Kao,0,0,[],4
+1014,Stephanie Kao,0,0,[],4
+1015,Stephanie Kao,0,0,[],4
+1016,Stephanie Kao,0,0,[],4
+1017,Stephanie Kao,0,0,[],4
+1018,Stephanie Kao,0,0,[],4
+1019,Stephanie Kao,0,0,[],4
+1020,Stephanie Kao,0,0,[],4
+1021,Stephanie Kao,0,0,[],4
+1022,Stephanie Kao,0,0,[],4
+1023,Stephanie Kao,0,0,[],4
+1024,Stephanie Kao,0,0,[],4
+1025,Stephanie Kao,0,0,[],4
+1026,Stephanie Kao,0,0,[],4
+1027,Stephanie Kao,0,0,[],4
+1028,Stephanie Kao,0,0,[],4
+1029,Stephanie Kao,0,0,[],4
+1030,Stephanie Kao,0,0,[],4
+1031,Stephanie Kao,0,0,[],4
+1032,Stephanie Kao,0,0,[],4
+1033,Stephanie Kao,0,0,[],4
+1034,Stephanie Kao,0,0,[],4
+1035,Stephanie Kao,0,0,[],4
+1036,Stephanie Kao,0,0,[],4
+1037,Stephanie Kao,0,0,[],4
+1038,Stephanie Kao,0,0,[],4
+1039,Stephanie Kao,0,0,[],4
+1040,Stephanie Kao,0,0,[],4
+1041,Stephanie Kao,0,0,[],4
+1042,Stephanie Kao,0,0,[],4
+1043,Stephanie Kao,0,0,[],4
+1044,Stephanie Kao,0,0,[],4
+1045,Stephanie Kao,0,0,[],4
+1046,Stephanie Kao,0,0,[],4
+1047,Stephanie Kao,0,0,[],4
+1048,Stephanie Kao,0,0,[],4
+1049,Stephanie Kao,0,0,[],4
+1050,Stephanie Kao,0,0,[],4
+1051,Stephanie Kao,0,0,[],4
+1052,Stephanie Kao,0,0,[],4
+1053,Stephanie Kao,0,0,[],4
+1054,Stephanie Kao,0,0,[],4
+1055,Huang Han,0,0,[],4
+1056,Huang Han,0,0,[],4
+1057,Huang Han,0,0,[],4
+1058,Huang Han,0,0,[],4
+1059,Huang Han,0,0,[],4
+1060,Huang Han,0,0,[],4
+1061,Huang Han,0,0,[],4
+1062,Huang Han,0,0,[],4
+1063,Huang Han,0,0,[],4
+1064,Huang Han,0,0,[],4
+1065,Huang Han,0,0,[],4
+1066,Huang Han,0,0,[],4
+1067,Huang Han,0,0,[],4
+1068,Huang Han,0,0,[],4
+1069,Huang Han,0,0,[],4
+1070,Huang Han,0,0,[],4
+1071,Huang Han,0,0,[],4
+1072,Huang Han,0,0,[],4
+1073,Huang Han,0,0,[],4
+1074,Huang Han,0,0,[],4
+1075,Huang Han,0,0,[],4
+1076,Huang Han,0,0,[],4
+1077,Huang Han,0,0,[],4
+1078,Huang Han,0,0,[],4
+1079,Huang Han,0,0,[],4
+1080,Huang Han,0,0,[],4
+1081,Huang Han,0,0,[],4
+1082,Huang Han,0,0,[],4
+1083,Huang Han,0,0,[],4
+1084,Huang Han,0,0,[],4
+1085,Huang Han,0,0,[],4
+1086,Huang Han,0,0,[],4
+1087,Huang Han,0,0,[],4
+1088,Huang Han,0,0,[],4
+1089,Huang Han,0,0,[],4
+1090,Huang Han,0,0,[],4
+1091,Huang Han,0,0,[],4
+1092,Huang Han,0,0,[],4
+1093,Huang Han,0,0,[],4
+1094,Huang Han,0,0,[],4
+1095,Huang Han,0,0,[],4
+1096,Huang Han,0,0,[],4
+1097,Huang Han,0,0,[],4
+1098,Huang Han,0,0,[],4
+1099,Huang Han,0,0,[],4
+1100,Huang Han,0,0,[],4
+1101,Huang Han,0,0,[],4
+1102,Huang Han,0,0,[],4
+1103,Wu Chenxi,0,0,[],4
+1104,Wu Chenxi,0,0,[],4
+1105,Wu Chenxi,0,0,[],4
+1106,Wu Chenxi,0,0,[],4
+1107,Wu Chenxi,0,0,[],4
+1108,Wu Chenxi,0,0,[],4
+1109,Wu Chenxi,0,0,[],4
+1110,Wu Chenxi,0,0,[],4
+1111,Wu Chenxi,0,0,[],4
+1112,Wu Chenxi,0,0,[],4
+1113,Wu Chenxi,0,0,[],4
+1114,Wu Chenxi,0,0,[],4
+1115,Wu Chenxi,0,0,[],4
+1116,Wu Chenxi,0,0,[],4
+1117,Wu Chenxi,0,0,[],4
+1118,Wu Chenxi,0,0,[],4
+1119,Wu Chenxi,0,0,[],4
+1120,Wu Chenxi,0,0,[],4
+1121,Wu Chenxi,0,0,[],4
+1122,Wu Chenxi,0,0,[],4
+1123,Wu Chenxi,0,0,[],4
+1124,Wu Chenxi,0,0,[],4
+1125,Wu Chenxi,0,0,[],4
+1126,Wu Chenxi,0,0,[],4
+1127,Wu Chenxi,0,0,[],4
+1128,Wu Chenxi,0,0,[],4
+1129,Wu Chenxi,0,0,[],4
+1130,Wu Chenxi,0,0,[],4
+1131,Wu Chenxi,0,0,[],4
+1132,Wu Chenxi,0,0,[],4
+1133,Wu Chenxi,0,0,[],4
+1134,Wu Chenxi,0,0,[],4
+1135,Wu Chenxi,0,0,[],4
+1136,Wu Chenxi,0,0,[],4
+1137,Wu Chenxi,0,0,[],4
+1138,Wu Chenxi,0,0,[],4
+1139,Wu Chenxi,0,0,[],4
+1140,Wu Chenxi,0,0,[],4
+1141,Wu Chenxi,0,0,[],4
+1142,Wu Chenxi,0,0,[],4
+1143,Wu Chenxi,0,0,[],4
+1144,Wu Chenxi,0,0,[],4
+1145,Wu Chenxi,0,0,[],4
+1146,Wu Chenxi,0,0,[],4
+1147,Wu Chenxi,0,0,[],4
+1148,Wu Chenxi,0,0,[],4
+1149,Wu Chenxi,0,0,[],4
+1150,Wu Chenxi,0,0,[],4
+1151,Wu Chenxi,0,0,[],4
+1152,Wu Chenxi,0,0,[],4
+1153,Yang Hyun Christine,0,0,[],4
+1154,Yang Hyun Christine,0,0,[],4
+1155,Yang Hyun Christine,0,0,[],4
+1156,Yang Hyun Christine,0,0,[],4
+1157,Yang Hyun Christine,0,0,[],4
+1158,Yang Hyun Christine,0,0,[],4
+1159,Yang Hyun Christine,0,0,[],4
+1160,Yang Hyun Christine,0,0,[],4
+1161,Yang Hyun Christine,0,0,[],4
+1162,Yang Hyun Christine,0,0,[],4
+1163,Yang Hyun Christine,0,0,[],4
+1164,Yang Hyun Christine,0,0,[],4
+1165,Yang Hyun Christine,0,0,[],4
+1166,Yang Hyun Christine,0,0,[],4
+1167,Yang Hyun Christine,0,0,[],4
+1168,Yang Hyun Christine,0,0,[],4
+1169,Yang Hyun Christine,0,0,[],4
+1170,Yang Hyun Christine,0,0,[],4
+1171,Yang Hyun Christine,0,0,[],4
+1172,Yang Hyun Christine,0,0,[],4
+1173,Yang Hyun Christine,0,0,[],4
+1174,Yang Hyun Christine,0,0,[],4
+1175,Yang Hyun Christine,0,0,[],4
+1176,Yang Hyun Christine,0,0,[],4
+1177,Yang Hyun Christine,0,0,[],4
+1178,Yang Hyun Christine,0,0,[],4
+1179,Yang Hyun Christine,0,0,[],4
+1180,Yang Hyun Christine,0,0,[],4
+1181,Yang Hyun Christine,0,0,[],4
+1182,Yang Hyun Christine,0,0,[],4
+1183,Yang Hyun Christine,0,0,[],4
+1184,Yang Hyun Christine,0,0,[],4
+1185,Yang Hyun Christine,0,0,[],4
+1186,Yang Hyun Christine,0,0,[],4
+1187,Yang Hyun Christine,0,0,[],4
+1188,Yang Hyun Christine,0,0,[],4
+1189,Yang Hyun Christine,0,0,[],4
+1190,Yang Hyun Christine,0,0,[],4
+1191,Yang Hyun Christine,0,0,[],4
+1192,Yang Hyun Christine,0,0,[],4
+1193,Yang Hyun Christine,0,0,[],4
+1194,Yang Hyun Christine,0,0,[],4
+1195,Yang Hyun Christine,0,0,[],4
+1196,Yang Hyun Christine,0,0,[],4
+1197,Yang Hyun Christine,0,0,[],4
+1198,Yang Hyun Christine,0,0,[],4
+1199,Yang Hyun Christine,0,0,[],4
+1200,Yang Hyun Christine,0,0,[],4
+1201,Yang Hyun Christine,0,0,[],4
+1202,Yang Hyun Christine,0,0,[],4
+1203,Yang Hyun Christine,0,0,[],4
+1204,Yang Hyun Christine,0,0,[],4
+1205,Weng Zaihao,0,0,[],4
+1206,Weng Zaihao,0,0,[],4
+1207,Weng Zaihao,0,0,[],4
+1208,Weng Zaihao,0,0,[],4
+1209,Weng Zaihao,0,0,[],4
+1210,Weng Zaihao,0,0,[],4
+1211,Weng Zaihao,0,0,[],4
+1212,Weng Zaihao,0,0,[],4
+1213,Weng Zaihao,0,0,[],4
+1214,Weng Zaihao,0,0,[],4
+1215,Weng Zaihao,0,0,[],4
+1216,Weng Zaihao,0,0,[],4
+1217,Weng Zaihao,0,0,[],4
+1218,Weng Zaihao,0,0,[],4
+1219,Weng Zaihao,0,0,[],4
+1220,Weng Zaihao,0,0,[],4
+1221,Weng Zaihao,0,0,[],4
+1222,Weng Zaihao,0,0,[],4
+1223,Weng Zaihao,0,0,[],4
+1224,Weng Zaihao,0,0,[],4
+1225,Weng Zaihao,0,0,[],4
+1226,Weng Zaihao,0,0,[],4
+1227,Weng Zaihao,0,0,[],4
+1228,Weng Zaihao,0,0,[],4
+1229,Weng Zaihao,0,0,[],4
+1230,Weng Zaihao,0,0,[],4
+1231,Weng Zaihao,0,0,[],4
+1232,Weng Zaihao,0,0,[],4
+1233,Weng Zaihao,0,0,[],4
+1234,Weng Zaihao,0,0,[],4
+1235,Weng Zaihao,0,0,[],4
+1236,Weng Zaihao,0,0,[],4
+1237,Weng Zaihao,0,0,[],4
+1238,Weng Zaihao,0,0,[],4
+1239,Weng Zaihao,0,0,[],4
+1240,Weng Zaihao,0,0,[],4
+1241,Weng Zaihao,0,0,[],4
+1242,Weng Zaihao,0,0,[],4
+1243,Weng Zaihao,0,0,[],4
+1244,Weng Zaihao,0,0,[],4
+1245,Weng Zaihao,0,0,[],4
+1246,Weng Zaihao,0,0,[],4
+1247,Weng Zaihao,0,0,[],4
+1248,Chenjia Ru,0,0,[],4
+1249,Chenjia Ru,0,0,[],4
+1250,Chenjia Ru,0,0,[],4
+1251,Chenjia Ru,0,0,[],4
+1252,Chenjia Ru,0,0,[],4
+1253,Chenjia Ru,0,0,[],4
+1254,Chenjia Ru,0,0,[],4
+1255,Chenjia Ru,0,0,[],4
+1256,Chenjia Ru,0,0,[],4
+1257,Chenjia Ru,0,0,[],4
+1258,Chenjia Ru,0,0,[],4
+1259,Chenjia Ru,0,0,[],4
+1260,Chenjia Ru,0,0,[],4
+1261,Chenjia Ru,0,0,[],4
+1262,Chenjia Ru,0,0,[],4
+1263,Chenjia Ru,0,0,[],4
+1264,Chenjia Ru,0,0,[],4
+1265,Chenjia Ru,0,0,[],4
+1266,Chenjia Ru,0,0,[],4
+1267,Chenjia Ru,0,0,[],4
+1268,Chenjia Ru,0,0,[],4
+1269,Chenjia Ru,0,0,[],4
+1270,Chenjia Ru,0,0,[],4
+1271,Chenjia Ru,0,0,[],4
+1272,Chenjia Ru,0,0,[],4
+1273,Chenjia Ru,0,0,[],4
+1274,Chenjia Ru,0,0,[],4
+1275,Chenjia Ru,0,0,[],4
+1276,Chenjia Ru,0,0,[],4
+1277,Chenjia Ru,0,0,[],4
+1278,Chenjia Ru,0,0,[],4
+1279,Chenjia Ru,0,0,[],4
+1280,Chenjia Ru,0,0,[],4
+1281,Chenjia Ru,0,0,[],4
+1282,Chenjia Ru,0,0,[],4
+1283,Chenjia Ru,0,0,[],4
+1284,Chenjia Ru,0,0,[],4
+1285,Chenjia Ru,0,0,[],4
+1286,Chenjia Ru,0,0,[],4
+1287,Chenjia Ru,0,0,[],4
+1288,Chenjia Ru,0,0,[],4
+1289,Chenjia Ru,0,0,[],4
+1290,Chenjia Ru,0,0,[],4
+1291,Chenjia Ru,0,0,[],4
+1292,Chenjia Ru,0,0,[],4
+1293,Xiang Yang Min,0,0,[],4
+1294,Xiang Yang Min,0,0,[],4
+1295,Xiang Yang Min,0,0,[],4
+1296,Xiang Yang Min,0,0,[],4
+1297,Xiang Yang Min,0,0,[],4
+1298,Xiang Yang Min,0,0,[],4
+1299,Xiang Yang Min,0,0,[],4
+1300,Xiang Yang Min,0,0,[],4
+1301,Xiang Yang Min,0,0,[],4
+1302,Xiang Yang Min,0,0,[],4
+1303,Xiang Yang Min,0,0,[],4
+1304,Xiang Yang Min,0,0,[],4
+1305,Xiang Yang Min,0,0,[],4
+1306,Xiang Yang Min,0,0,[],4
+1307,Xiang Yang Min,0,0,[],4
+1308,Xiang Yang Min,0,0,[],4
+1309,Xiang Yang Min,0,0,[],4
+1310,Xiang Yang Min,0,0,[],4
+1311,Xiang Yang Min,0,0,[],4
+1312,Xiang Yang Min,0,0,[],4
+1313,Xiang Yang Min,0,0,[],4
+1314,Xiang Yang Min,0,0,[],4
+1315,Xiang Yang Min,0,0,[],4
+1316,Xiang Yang Min,0,0,[],4
+1317,Xiang Yang Min,0,0,[],4
+1318,Xiang Yang Min,0,0,[],4
+1319,Xiang Yang Min,0,0,[],4
+1320,Xiang Yang Min,0,0,[],4
+1321,Xiang Yang Min,0,0,[],4
+1322,Xiang Yang Min,0,0,[],4
+1323,Xiang Yang Min,0,0,[],4
+1324,Xiang Yang Min,0,0,[],4
+1325,Xiang Yang Min,0,0,[],4
+1326,Xiang Yang Min,0,0,[],4
+1327,Xiang Yang Min,0,0,[],4
+1328,Xiang Yang Min,0,0,[],4
+1329,Xiang Yang Min,0,0,[],4
+1330,Xiang Yang Min,0,0,[],4
+1331,Xiang Yang Min,0,0,[],4
+1332,Xiang Yang Min,0,0,[],4
+1333,Xiang Yang Min,0,0,[],4
+1334,Xiang Yang Min,0,0,[],4
+1335,Xiang Yang Min,0,0,[],4
+1336,Xiang Yang Min,0,0,[],4
+1337,Xiang Yang Min,0,0,[],4
+1338,Xiang Yang Min,0,0,[],4
+1339,Zhang Yan Yu,0,0,[],4
+1340,Zhang Yan Yu,0,0,[],4
+1341,Zhang Yan Yu,0,0,[],4
+1342,Zhang Yan Yu,0,0,[],4
+1343,Zhang Yan Yu,0,0,[],4
+1344,Zhang Yan Yu,0,0,[],4
+1345,Zhang Yan Yu,0,0,[],4
+1346,Zhang Yan Yu,0,0,[],4
+1347,Zhang Yan Yu,0,0,[],4
+1348,Zhang Yan Yu,0,0,[],4
+1349,Zhang Yan Yu,0,0,[],4
+1350,Zhang Yan Yu,0,0,[],4
+1351,Zhang Yan Yu,0,0,[],4
+1352,Zhang Yan Yu,0,0,[],4
+1353,Zhang Yan Yu,0,0,[],4
+1354,Zhang Yan Yu,0,0,[],4
+1355,Zhang Yan Yu,0,0,[],4
+1356,Zhang Yan Yu,0,0,[],4
+1357,Zhang Yan Yu,0,0,[],4
+1358,Zhang Yan Yu,0,0,[],4
+1359,Zhang Yan Yu,0,0,[],4
+1360,Zhang Yan Yu,0,0,[],4
+1361,Zhang Yan Yu,0,0,[],4
+1362,Zhang Yan Yu,0,0,[],4
+1363,Zhang Yan Yu,0,0,[],4
+1364,Zhang Yan Yu,0,0,[],4
+1365,Zhang Yan Yu,0,0,[],4
+1366,Zhang Yan Yu,0,0,[],4
+1367,Zhang Yan Yu,0,0,[],4
+1368,Zhang Yan Yu,0,0,[],4
+1369,Zhang Yan Yu,0,0,[],4
+1370,Zhang Yan Yu,0,0,[],4
+1371,Zhang Yan Yu,0,0,[],4
+1372,Zhang Yan Yu,0,0,[],4
+1373,Liao Xun weight,0,0,[],4
+1374,Liao Xun weight,0,0,[],4
+1375,Liao Xun weight,0,0,[],4
+1376,Liao Xun weight,0,0,[],4
+1377,Liao Xun weight,0,0,[],4
+1378,Liao Xun weight,0,0,[],4
+1379,Liao Xun weight,0,0,[],4
+1380,Liao Xun weight,0,0,[],4
+1381,Liao Xun weight,0,0,[],4
+1382,Liao Xun weight,0,0,[],4
+1383,Liao Xun weight,0,0,[],4
+1384,Liao Xun weight,0,0,[],4
+1385,Liao Xun weight,0,0,[],4
+1386,Liao Xun weight,0,0,[],4
+1387,Liao Xun weight,0,0,[],4
+1388,Liao Xun weight,0,0,[],4
+1389,Liao Xun weight,0,0,[],4
+1390,Liao Xun weight,0,0,[],4
+1391,Liao Xun weight,0,0,[],4
+1392,Liao Xun weight,0,0,[],4
+1393,Liao Xun weight,0,0,[],4
+1394,Liao Xun weight,0,0,[],4
+1395,Liao Xun weight,0,0,[],4
+1396,Liao Xun weight,0,0,[],4
+1397,Liao Xun weight,0,0,[],4
+1398,Liao Xun weight,0,0,[],4
+1399,Liao Xun weight,0,0,[],4
+1400,Liao Xun weight,0,0,[],4
+1401,Liao Xun weight,0,0,[],4
+1402,Liao Xun weight,0,0,[],4
+1403,Liao Xun weight,0,0,[],4
+1404,Liao Xun weight,0,0,[],4
+1405,Liao Xun weight,0,0,[],4
+1406,Liao Xun weight,0,0,[],4
+1407,Liao Xun weight,0,0,[],4
+1408,Liao Xun weight,0,0,[],4
+1409,Liao Xun weight,0,0,[],4
+1410,Liao Xun weight,0,0,[],4
+1411,Liao Xun weight,0,0,[],4
+1412,He Yuting,0,0,[],4
+1413,He Yuting,0,0,[],4
+1414,He Yuting,0,0,[],4
+1415,He Yuting,0,0,[],4
+1416,He Yuting,0,0,[],4
+1417,He Yuting,0,0,[],4
+1418,He Yuting,0,0,[],4
+1419,He Yuting,0,0,[],4
+1420,He Yuting,0,0,[],4
+1421,He Yuting,0,0,[],4
+1422,He Yuting,0,0,[],4
+1423,He Yuting,0,0,[],4
+1424,He Yuting,0,0,[],4
+1425,He Yuting,0,0,[],4
+1426,He Yuting,0,0,[],4
+1427,He Yuting,0,0,[],4
+1428,He Yuting,0,0,[],4
+1429,He Yuting,0,0,[],4
+1430,He Yuting,0,0,[],4
+1431,He Yuting,0,0,[],4
+1432,He Yuting,0,0,[],4
+1433,He Yuting,0,0,[],4
+1434,He Yuting,0,0,[],4
+1435,He Yuting,0,0,[],4
+1436,He Yuting,0,0,[],4
+1437,He Yuting,0,0,[],4
+1438,He Yuting,0,0,[],4
+1439,He Yuting,0,0,[],4
+1440,He Yuting,0,0,[],4
+1441,He Yuting,0,0,[],4
+1442,He Yuting,0,0,[],4
+1443,He Yuting,0,0,[],4
+1444,He Yuting,0,0,[],4
+1445,He Yuting,0,0,[],4
+1446,He Yuting,0,0,[],4
+1447,He Yuting,0,0,[],4
+1448,He Yuting,0,0,[],4
+1449,He Yuting,0,0,[],4
+1450,He Yuting,0,0,[],4
+1451,He Yuting,0,0,[],4
+1452,He Yuting,0,0,[],4
+1453,He Yuting,0,0,[],4
+1454,He Yuting,0,0,[],4
+1455,He Yuting,0,0,[],4
+1456,Lin Zonghan,0,0,[],4
+1457,Lin Zonghan,0,0,[],4
+1458,Lin Zonghan,0,0,[],4
+1459,Lin Zonghan,0,0,[],4
+1460,Lin Zonghan,0,0,[],4
+1461,Lin Zonghan,0,0,[],4
+1462,Lin Zonghan,0,0,[],4
+1463,Lin Zonghan,0,0,[],4
+1464,Lin Zonghan,0,0,[],4
+1465,Lin Zonghan,0,0,[],4
+1466,Lin Zonghan,0,0,[],4
+1467,Lin Zonghan,0,0,[],4
+1468,Lin Zonghan,0,0,[],4
+1469,Lin Zonghan,0,0,[],4
+1470,Lin Zonghan,0,0,[],4
+1471,Lin Zonghan,0,0,[],4
+1472,Lin Zonghan,0,0,[],4
+1473,Lin Zonghan,0,0,[],4
+1474,Lin Zonghan,0,0,[],4
+1475,Lin Zonghan,0,0,[],4
+1476,Lin Zonghan,0,0,[],4
+1477,Lin Zonghan,0,0,[],4
+1478,Lin Zonghan,0,0,[],4
+1479,Lin Zonghan,0,0,[],4
+1480,Lin Zonghan,0,0,[],4
+1481,Lin Zonghan,0,0,[],4
+1482,Lin Zonghan,0,0,[],4
+1483,Lin Zonghan,0,0,[],4
+1484,Lin Zonghan,0,0,[],4
+1485,Lin Zonghan,0,0,[],4
+1486,Lin Zonghan,0,0,[],4
+1487,Lin Zonghan,0,0,[],4
+1488,Lin Zonghan,0,0,[],4
+1489,Lin Zonghan,0,0,[],4
+1490,Lin Zonghan,0,0,[],4
+1491,Lin Zonghan,0,0,[],4
+1492,Lin Zonghan,0,0,[],4
+1493,Lin Zonghan,0,0,[],4
+1494,Lin Zonghan,0,0,[],4
+1495,Lin Zonghan,0,0,[],4
+1496,Lin Zonghan,0,0,[],4
+1497,Lin Zonghan,0,0,[],4
+1498,Lin Wan Xuan,0,0,[],4
+1499,Lin Wan Xuan,0,0,[],4
+1500,Lin Wan Xuan,0,0,[],4
+1501,Lin Wan Xuan,0,0,[],4
+1502,Lin Wan Xuan,0,0,[],4
+1503,Lin Wan Xuan,0,0,[],4
+1504,Lin Wan Xuan,0,0,[],4
+1505,Lin Wan Xuan,0,0,[],4
+1506,Lin Wan Xuan,0,0,[],4
+1507,Lin Wan Xuan,0,0,[],4
+1508,Lin Wan Xuan,0,0,[],4
+1509,Lin Wan Xuan,0,0,[],4
+1510,Lin Wan Xuan,0,0,[],4
+1511,Lin Wan Xuan,0,0,[],4
+1512,Lin Wan Xuan,0,0,[],4
+1513,Lin Wan Xuan,0,0,[],4
+1514,Lin Wan Xuan,0,0,[],4
+1515,Lin Wan Xuan,0,0,[],4
+1516,Lin Wan Xuan,0,0,[],4
+1517,Lin Wan Xuan,0,0,[],4
+1518,Lin Wan Xuan,0,0,[],4
+1519,Lin Wan Xuan,0,0,[],4
+1520,Lin Wan Xuan,0,0,[],4
+1521,Lin Wan Xuan,0,0,[],4
+1522,Lin Wan Xuan,0,0,[],4
+1523,Lin Wan Xuan,0,0,[],4
+1524,Lin Wan Xuan,0,0,[],4
+1525,Lin Wan Xuan,0,0,[],4
+1526,Lin Wan Xuan,0,0,[],4
+1527,Lin Wan Xuan,0,0,[],4
+1528,Lin Wan Xuan,0,0,[],4
+1529,Lin Wan Xuan,0,0,[],4
+1530,Lin Wan Xuan,0,0,[],4
+1531,Lin Wan Xuan,0,0,[],4
+1532,Lin Wan Xuan,0,0,[],4
+1533,Lin Wan Xuan,0,0,[],4
+1534,Lin Wan Xuan,0,0,[],4
+1535,Lin Wan Xuan,0,0,[],4
+1536,Lin Wan Xuan,0,0,[],4
+1537,Lin Wan Xuan,0,0,[],4
+1538,Liu Yi Ning,0,0,[],4
+1539,Liu Yi Ning,0,0,[],4
+1540,Liu Yi Ning,0,0,[],4
+1541,Liu Yi Ning,0,0,[],4
+1542,Liu Yi Ning,0,0,[],4
+1543,Liu Yi Ning,0,0,[],4
+1544,Liu Yi Ning,0,0,[],4
+1545,Liu Yi Ning,0,0,[],4
+1546,Liu Yi Ning,0,0,[],4
+1547,Liu Yi Ning,0,0,[],4
+1548,Liu Yi Ning,0,0,[],4
+1549,Liu Yi Ning,0,0,[],4
+1550,Liu Yi Ning,0,0,[],4
+1551,Liu Yi Ning,0,0,[],4
+1552,Liu Yi Ning,0,0,[],4
+1553,Liu Yi Ning,0,0,[],4
+1554,Liu Yi Ning,0,0,[],4
+1555,Liu Yi Ning,0,0,[],4
+1556,Liu Yi Ning,0,0,[],4
+1557,Liu Yi Ning,0,0,[],4
+1558,Liu Yi Ning,0,0,[],4
+1559,Liu Yi Ning,0,0,[],4
+1560,Liu Yi Ning,0,0,[],4
+1561,Liu Yi Ning,0,0,[],4
+1562,Liu Yi Ning,0,0,[],4
+1563,Liu Yi Ning,0,0,[],4
+1564,Liu Yi Ning,0,0,[],4
+1565,Liu Yi Ning,0,0,[],4
+1566,Liu Yi Ning,0,0,[],4
+1567,Liu Yi Ning,0,0,[],4
+1568,Liu Yi Ning,0,0,[],4
+1569,Liu Yi Ning,0,0,[],4
+1570,Liu Yi Ning,0,0,[],4
+1571,Liu Yi Ning,0,0,[],4
+1572,Liu Yi Ning,0,0,[],4
+1573,Liu Yi Ning,0,0,[],4
+1574,Huang Zhijun,0,0,[],4
+1575,Huang Zhijun,0,0,[],4
+1576,Huang Zhijun,0,0,[],4
+1577,Huang Zhijun,0,0,[],4
+1578,Huang Zhijun,0,0,[],4
+1579,Huang Zhijun,0,0,[],4
+1580,Huang Zhijun,0,0,[],4
+1581,Huang Zhijun,0,0,[],4
+1582,Huang Zhijun,0,0,[],4
+1583,Huang Zhijun,0,0,[],4
+1584,Huang Zhijun,0,0,[],4
+1585,Huang Zhijun,0,0,[],4
+1586,Huang Zhijun,0,0,[],4
+1587,Huang Zhijun,0,0,[],4
+1588,Huang Zhijun,0,0,[],4
+1589,Huang Zhijun,0,0,[],4
+1590,Huang Zhijun,0,0,[],4
+1591,Huang Zhijun,0,0,[],4
+1592,Huang Zhijun,0,0,[],4
+1593,Huang Zhijun,0,0,[],4
+1594,Huang Zhijun,0,0,[],4
+1595,Huang Zhijun,0,0,[],4
+1596,Huang Zhijun,0,0,[],4
+1597,Huang Zhijun,0,0,[],4
+1598,Huang Zhijun,0,0,[],4
+1599,Huang Zhijun,0,0,[],4
+1600,Huang Zhijun,0,0,[],4
+1601,Huang Zhijun,0,0,[],4
+1602,Huang Zhijun,0,0,[],4
+1603,Huang Zhijun,0,0,[],4
+1604,Huang Zhijun,0,0,[],4
+1605,Huang Zhijun,0,0,[],4
+1606,Huang Zhijun,0,0,[],4
+1607,Huang Zhijun,0,0,[],4
+1608,Huang Zhijun,0,0,[],4
+1609,Liuling Jun,0,0,[],4
+1610,Liuling Jun,0,0,[],4
+1611,Liuling Jun,0,0,[],4
+1612,Liuling Jun,0,0,[],4
+1613,Liuling Jun,0,0,[],4
+1614,Liuling Jun,0,0,[],4
+1615,Liuling Jun,0,0,[],4
+1616,Liuling Jun,0,0,[],4
+1617,Liuling Jun,0,0,[],4
+1618,Liuling Jun,0,0,[],4
+1619,Liuling Jun,0,0,[],4
+1620,Liuling Jun,0,0,[],4
+1621,Liuling Jun,0,0,[],4
+1622,Liuling Jun,0,0,[],4
+1623,Liuling Jun,0,0,[],4
+1624,Liuling Jun,0,0,[],4
+1625,Liuling Jun,0,0,[],4
+1626,Liuling Jun,0,0,[],4
+1627,Liuling Jun,0,0,[],4
+1628,Liuling Jun,0,0,[],4
+1629,Liuling Jun,0,0,[],4
+1630,Liuling Jun,0,0,[],4
+1631,Liuling Jun,0,0,[],4
+1632,Liuling Jun,0,0,[],4
+1633,Liuling Jun,0,0,[],4
+1634,Liuling Jun,0,0,[],4
+1635,Liuling Jun,0,0,[],4
+1636,Liuling Jun,0,0,[],4
+1637,Liuling Jun,0,0,[],4
+1638,Liuling Jun,0,0,[],4
+1639,Liuling Jun,0,0,[],4
+1640,Liuling Jun,0,0,[],4
+1641,Liuling Jun,0,0,[],4
+1642,Liuling Jun,0,0,[],4
+1643,Liuling Jun,0,0,[],4
+1644,Liuling Jun,0,0,[],4
+1645,Liuling Jun,0,0,[],4
+1646,Liuling Jun,0,0,[],4
+1647,Liuling Jun,0,0,[],4
+1648,Liuling Jun,0,0,[],4
+1649,Liuling Jun,0,0,[],4
+1650,Liuling Jun,0,0,[],4
+1651,Liuling Jun,0,0,[],4
+1652,Liuling Jun,0,0,[],4
+1653,Liuling Jun,0,0,[],4
+1654,Lizi Xuan,0,0,[],4
+1655,Lizi Xuan,0,0,[],4
+1656,Lizi Xuan,0,0,[],4
+1657,Lizi Xuan,0,0,[],4
+1658,Lizi Xuan,0,0,[],4
+1659,Lizi Xuan,0,0,[],4
+1660,Lizi Xuan,0,0,[],4
+1661,Lizi Xuan,0,0,[],4
+1662,Lizi Xuan,0,0,[],4
+1663,Lizi Xuan,0,0,[],4
+1664,Lizi Xuan,0,0,[],4
+1665,Lizi Xuan,0,0,[],4
+1666,Lizi Xuan,0,0,[],4
+1667,Lizi Xuan,0,0,[],4
+1668,Lizi Xuan,0,0,[],4
+1669,Lizi Xuan,0,0,[],4
+1670,Lizi Xuan,0,0,[],4
+1671,Lizi Xuan,0,0,[],4
+1672,Lizi Xuan,0,0,[],4
+1673,Lizi Xuan,0,0,[],4
+1674,Lizi Xuan,0,0,[],4
+1675,Lizi Xuan,0,0,[],4
+1676,Lizi Xuan,0,0,[],4
+1677,Lizi Xuan,0,0,[],4
+1678,Lizi Xuan,0,0,[],4
+1679,Lizi Xuan,0,0,[],4
+1680,Lizi Xuan,0,0,[],4
+1681,Lizi Xuan,0,0,[],4
+1682,Lizi Xuan,0,0,[],4
+1683,Lizi Xuan,0,0,[],4
+1684,Lizi Xuan,0,0,[],4
+1685,Lizi Xuan,0,0,[],4
+1686,Lizi Xuan,0,0,[],4
+1687,Lizi Xuan,0,0,[],4
+1688,Lizi Xuan,0,0,[],4
+1689,Lizi Xuan,0,0,[],4
+1690,Lizi Xuan,0,0,[],4
+1691,Lizi Xuan,0,0,[],4
+1692,Lizi Xuan,0,0,[],4
+1693,Lizi Xuan,0,0,[],4
+1694,Lizi Xuan,0,0,[],4
+1695,Lizi Xuan,0,0,[],4
+1696,Lizi Xuan,0,0,[],4
+1697,Liu Fengxuan,0,0,[],4
+1698,Liu Fengxuan,0,0,[],4
+1699,Liu Fengxuan,0,0,[],4
+1700,Liu Fengxuan,0,0,[],4
+1701,Liu Fengxuan,0,0,[],4
+1702,Liu Fengxuan,0,0,[],4
+1703,Liu Fengxuan,0,0,[],4
+1704,Liu Fengxuan,0,0,[],4
+1705,Liu Fengxuan,0,0,[],4
+1706,Liu Fengxuan,0,0,[],4
+1707,Liu Fengxuan,0,0,[],4
+1708,Liu Fengxuan,0,0,[],4
+1709,Liu Fengxuan,0,0,[],4
+1710,Liu Fengxuan,0,0,[],4
+1711,Liu Fengxuan,0,0,[],4
+1712,Liu Fengxuan,0,0,[],4
+1713,Liu Fengxuan,0,0,[],4
+1714,Liu Fengxuan,0,0,[],4
+1715,Liu Fengxuan,0,0,[],4
+1716,Liu Fengxuan,0,0,[],4
+1717,Liu Fengxuan,0,0,[],4
+1718,Liu Fengxuan,0,0,[],4
+1719,Liu Fengxuan,0,0,[],4
+1720,Liu Fengxuan,0,0,[],4
+1721,Liu Fengxuan,0,0,[],4
+1722,Liu Fengxuan,0,0,[],4
+1723,Liu Fengxuan,0,0,[],4
+1724,Liu Fengxuan,0,0,[],4
+1725,Liu Fengxuan,0,0,[],4
+1726,Liu Fengxuan,0,0,[],4
+1727,Liu Fengxuan,0,0,[],4
+1728,Liu Fengxuan,0,0,[],4
+1729,Liu Fengxuan,0,0,[],4
+1730,Liu Fengxuan,0,0,[],4
+1731,Liu Fengxuan,0,0,[],4
+1732,Liu Fengxuan,0,0,[],4
+1733,Chen Weijun,0,0,[],4
+1734,Chen Weijun,0,0,[],4
+1735,Chen Weijun,0,0,[],4
+1736,Chen Weijun,0,0,[],4
+1737,Chen Weijun,0,0,[],4
+1738,Chen Weijun,0,0,[],4
+1739,Chen Weijun,0,0,[],4
+1740,Chen Weijun,0,0,[],4
+1741,Chen Weijun,0,0,[],4
+1742,Chen Weijun,0,0,[],4
+1743,Chen Weijun,0,0,[],4
+1744,Chen Weijun,0,0,[],4
+1745,Chen Weijun,0,0,[],4
+1746,Chen Weijun,0,0,[],4
+1747,Chen Weijun,0,0,[],4
+1748,Chen Weijun,0,0,[],4
+1749,Chen Weijun,0,0,[],4
+1750,Chen Weijun,0,0,[],4
+1751,Chen Weijun,0,0,[],4
+1752,Chen Weijun,0,0,[],4
+1753,Chen Weijun,0,0,[],4
+1754,Chen Weijun,0,0,[],4
+1755,Chen Weijun,0,0,[],4
+1756,Chen Weijun,0,0,[],4
+1757,Chen Weijun,0,0,[],4
+1758,Chen Weijun,0,0,[],4
+1759,Chen Weijun,0,0,[],4
+1760,Chen Weijun,0,0,[],4
+1761,Chen Weijun,0,0,[],4
+1762,Chen Weijun,0,0,[],4
+1763,Chen Weijun,0,0,[],4
+1764,Chen Weijun,0,0,[],4
+1765,Chen Weijun,0,0,[],4
+1766,Chen Weijun,0,0,[],4
+1767,Chen Weijun,0,0,[],4
+1768,Chen Weijun,0,0,[],4
+1769,Chen Weijun,0,0,[],4
+1770,Chen Weijun,0,0,[],4
+1771,Chen Weijun,0,0,[],4
+1772,Chen Weijun,0,0,[],4
+1773,Chen Weijun,0,0,[],4
+1774,Chen Weijun,0,0,[],4
+1775,Chen Weijun,0,0,[],4
+1776,Chen Weijun,0,0,[],4
+1777,Chen Weijun,0,0,[],4
+1778,Chen Weijun,0,0,[],4
+1779,Chen Weijun,0,0,[],4
+1780,Chen Weijun,0,0,[],4
+1781,Chen Weijun,0,0,[],4
+1782,Chen Weijun,0,0,[],4
+1783,Chen Weijun,0,0,[],4
+1784,Chen Weijun,0,0,[],4
+1785,Chen Weijun,0,0,[],4
+1786,Chen Weijun,0,0,[],4
+1787,Chen Weijun,0,0,[],4
+1788,Chen Weijun,0,0,[],4
+1789,Chen Weijun,0,0,[],4
+1790,Fuzi Rui,0,0,[],4
+1791,Fuzi Rui,0,0,[],4
+1792,Fuzi Rui,0,0,[],4
+1793,Fuzi Rui,0,0,[],4
+1794,Fuzi Rui,0,0,[],4
+1795,Fuzi Rui,0,0,[],4
+1796,Fuzi Rui,0,0,[],4
+1797,Fuzi Rui,0,0,[],4
+1798,Fuzi Rui,0,0,[],4
+1799,Fuzi Rui,0,0,[],4
+1800,Fuzi Rui,0,0,[],4
+1801,Fuzi Rui,0,0,[],4
+1802,Fuzi Rui,0,0,[],4
+1803,Fuzi Rui,0,0,[],4
+1804,Fuzi Rui,0,0,[],4
+1805,Fuzi Rui,0,0,[],4
+1806,Fuzi Rui,0,0,[],4
+1807,Fuzi Rui,0,0,[],4
+1808,Fuzi Rui,0,0,[],4
+1809,Fuzi Rui,0,0,[],4
+1810,Fuzi Rui,0,0,[],4
+1811,Fuzi Rui,0,0,[],4
+1812,Fuzi Rui,0,0,[],4
+1813,Fuzi Rui,0,0,[],4
+1814,Fuzi Rui,0,0,[],4
+1815,Fuzi Rui,0,0,[],4
+1816,Fuzi Rui,0,0,[],4
+1817,Fuzi Rui,0,0,[],4
+1818,Fuzi Rui,0,0,[],4
+1819,Fuzi Rui,0,0,[],4
+1820,Fuzi Rui,0,0,[],4
+1821,Fuzi Rui,0,0,[],4
+1822,Fuzi Rui,0,0,[],4
+1823,Fuzi Rui,0,0,[],4
+1824,Fuzi Rui,0,0,[],4
+1825,Fuzi Rui,0,0,[],4
+1826,Fuzi Rui,0,0,[],4
+1827,Fuzi Rui,0,0,[],4
+1828,Fuzi Rui,0,0,[],4
+1829,Fuzi Rui,0,0,[],4
+1830,Carisa Hung,0,0,[],4
+1831,Carisa Hung,0,0,[],4
+1832,Carisa Hung,0,0,[],4
+1833,Carisa Hung,0,0,[],4
+1834,Carisa Hung,0,0,[],4
+1835,Carisa Hung,0,0,[],4
+1836,Carisa Hung,0,0,[],4
+1837,Carisa Hung,0,0,[],4
+1838,Carisa Hung,0,0,[],4
+1839,Carisa Hung,0,0,[],4
+1840,Carisa Hung,0,0,[],4
+1841,Carisa Hung,0,0,[],4
+1842,Carisa Hung,0,0,[],4
+1843,Carisa Hung,0,0,[],4
+1844,Carisa Hung,0,0,[],4
+1845,Carisa Hung,0,0,[],4
+1846,Carisa Hung,0,0,[],4
+1847,Carisa Hung,0,0,[],4
+1848,Carisa Hung,0,0,[],4
+1849,Carisa Hung,0,0,[],4
+1850,Carisa Hung,0,0,[],4
+1851,Carisa Hung,0,0,[],4
+1852,Carisa Hung,0,0,[],4
+1853,Carisa Hung,0,0,[],4
+1854,Carisa Hung,0,0,[],4
+1855,Carisa Hung,0,0,[],4
+1856,Carisa Hung,0,0,[],4
+1857,Carisa Hung,0,0,[],4
+1858,Carisa Hung,0,0,[],4
+1859,Carisa Hung,0,0,[],4
+1860,Carisa Hung,0,0,[],4
+1861,Carisa Hung,0,0,[],4
+1862,Carisa Hung,0,0,[],4
+1863,Carisa Hung,0,0,[],4
+1864,Carisa Hung,0,0,[],4
+1865,Carisa Hung,0,0,[],4
+1866,Carisa Hung,0,0,[],4
+1867,Carisa Hung,0,0,[],4
+1868,Carisa Hung,0,0,[],4
+1869,Carisa Hung,0,0,[],4
+1870,Carisa Hung,0,0,[],4
+1871,Carisa Hung,0,0,[],4
+1872,Andy Chung,0,0,[],4
+1873,Andy Chung,0,0,[],4
+1874,Andy Chung,0,0,[],4
+1875,Andy Chung,0,0,[],4
+1876,Andy Chung,0,0,[],4
+1877,Andy Chung,0,0,[],4
+1878,Andy Chung,0,0,[],4
+1879,Andy Chung,0,0,[],4
+1880,Andy Chung,0,0,[],4
+1881,Andy Chung,0,0,[],4
+1882,Andy Chung,0,0,[],4
+1883,Andy Chung,0,0,[],4
+1884,Andy Chung,0,0,[],4
+1885,Andy Chung,0,0,[],4
+1886,Andy Chung,0,0,[],4
+1887,Andy Chung,0,0,[],4
+1888,Andy Chung,0,0,[],4
+1889,Andy Chung,0,0,[],4
+1890,Andy Chung,0,0,[],4
+1891,Andy Chung,0,0,[],4
+1892,Andy Chung,0,0,[],4
+1893,Andy Chung,0,0,[],4
+1894,Andy Chung,0,0,[],4
+1895,Andy Chung,0,0,[],4
+1896,Andy Chung,0,0,[],4
+1897,Andy Chung,0,0,[],4
+1898,Andy Chung,0,0,[],4
+1899,Andy Chung,0,0,[],4
+1900,Andy Chung,0,0,[],4
+1901,Andy Chung,0,0,[],4
+1902,Andy Chung,0,0,[],4
+1903,Andy Chung,0,0,[],4
+1904,Andy Chung,0,0,[],4
+1905,Andy Chung,0,0,[],4
+1906,Andy Chung,0,0,[],4
+1907,Andy Chung,0,0,[],4
+1908,Andy Chung,0,0,[],4
+1909,Andy Chung,0,0,[],4
+1910,Andy Chung,0,0,[],4
+1911,Andy Chung,0,0,[],4
+1912,Andy Chung,0,0,[],4
+1913,Andy Chung,0,0,[],4
+1914,Andy Chung,0,0,[],4
+1915,Andy Chung,0,0,[],4
+1916,Andy Chung,0,0,[],4
+1917,Andy Chung,0,0,[],4
+1918,Andy Chung,0,0,[],4
+1919,Andy Chung,0,0,[],4
+1920,Andy Chung,0,0,[],4
+1921,Huang Tingbai,0,0,[],4
+1922,Huang Tingbai,0,0,[],4
+1923,Huang Tingbai,0,0,[],4
+1924,Huang Tingbai,0,0,[],4
+1925,Huang Tingbai,0,0,[],4
+1926,Huang Tingbai,0,0,[],4
+1927,Huang Tingbai,0,0,[],4
+1928,Huang Tingbai,0,0,[],4
+1929,Huang Tingbai,0,0,[],4
+1930,Huang Tingbai,0,0,[],4
+1931,Huang Tingbai,0,0,[],4
+1932,Huang Tingbai,0,0,[],4
+1933,Huang Tingbai,0,0,[],4
+1934,Huang Tingbai,0,0,[],4
+1935,Huang Tingbai,0,0,[],4
+1936,Huang Tingbai,0,0,[],4
+1937,Huang Tingbai,0,0,[],4
+1938,Huang Tingbai,0,0,[],4
+1939,Huang Tingbai,0,0,[],4
+1940,Huang Tingbai,0,0,[],4
+1941,Huang Tingbai,0,0,[],4
+1942,Huang Tingbai,0,0,[],4
+1943,Huang Tingbai,0,0,[],4
+1944,Huang Tingbai,0,0,[],4
+1945,Huang Tingbai,0,0,[],4
+1946,Huang Tingbai,0,0,[],4
+1947,Huang Tingbai,0,0,[],4
+1948,Huang Tingbai,0,0,[],4
+1949,Huang Tingbai,0,0,[],4
+1950,Huang Tingbai,0,0,[],4
+1951,Huang Tingbai,0,0,[],4
+1952,Huang Tingbai,0,0,[],4
+1953,Huang Tingbai,0,0,[],4
+1954,Huang Tingbai,0,0,[],4
+1955,Huang Tingbai,0,0,[],4
+1956,Huang Tingbai,0,0,[],4
+1957,Huang Tingbai,0,0,[],4
+1958,Huang Tingbai,0,0,[],4
+1959,Huang Tingbai,0,0,[],4
+1960,Huang Tingbai,0,0,[],4
+1961,Hung Yu Heng,0,0,[],4
+1962,Hung Yu Heng,0,0,[],4
+1963,Hung Yu Heng,0,0,[],4
+1964,Hung Yu Heng,0,0,[],4
+1965,Hung Yu Heng,0,0,[],4
+1966,Hung Yu Heng,0,0,[],4
+1967,Hung Yu Heng,0,0,[],4
+1968,Hung Yu Heng,0,0,[],4
+1969,Hung Yu Heng,0,0,[],4
+1970,Hung Yu Heng,0,0,[],4
+1971,Hung Yu Heng,0,0,[],4
+1972,Hung Yu Heng,0,0,[],4
+1973,Hung Yu Heng,0,0,[],4
+1974,Hung Yu Heng,0,0,[],4
+1975,Hung Yu Heng,0,0,[],4
+1976,Hung Yu Heng,0,0,[],4
+1977,Hung Yu Heng,0,0,[],4
+1978,Hung Yu Heng,0,0,[],4
+1979,Hung Yu Heng,0,0,[],4
+1980,Hung Yu Heng,0,0,[],4
+1981,Hung Yu Heng,0,0,[],4
+1982,Hung Yu Heng,0,0,[],4
+1983,Hung Yu Heng,0,0,[],4
+1984,Hung Yu Heng,0,0,[],4
+1985,Hung Yu Heng,0,0,[],4
+1986,Hung Yu Heng,0,0,[],4
+1987,Hung Yu Heng,0,0,[],4
+1988,Hung Yu Heng,0,0,[],4
+1989,Hung Yu Heng,0,0,[],4
+1990,Hung Yu Heng,0,0,[],4
+1991,Hung Yu Heng,0,0,[],4
+1992,Hung Yu Heng,0,0,[],4
+1993,Hung Yu Heng,0,0,[],4
+1994,Hung Yu Heng,0,0,[],4
+1995,Hung Yu Heng,0,0,[],4
+1996,Hung Yu Heng,0,0,[],4
+1997,Hung Yu Heng,0,0,[],4
+1998,Hung Yu Heng,0,0,[],4
+1999,Hung Yu Heng,0,0,[],4
+2000,Hung Yu Heng,0,0,[],4
+2001,Hung Yu Heng,0,0,[],4
+2002,Hung Yu Heng,0,0,[],4
+2003,Hung Yu Heng,0,0,[],4
+2004,Hung Yu Heng,0,0,[],4
+2005,Hung Yu Heng,0,0,[],4
+2006,Hung Yu Heng,0,0,[],4
+2007,Hung Yu Heng,0,0,[],4
+2008,Hung Yu Heng,0,0,[],4
+2009,Hung Yu Heng,0,0,[],4
+2010,Hung Yu Heng,0,0,[],4
+2011,Hung Yu Heng,0,0,[],4
+2012,Hung Yu Heng,0,0,[],4
+2013,Hung Yu Heng,0,0,[],4
+2014,Winnie Chang,0,0,[],4
+2015,Winnie Chang,0,0,[],4
+2016,Winnie Chang,0,0,[],4
+2017,Winnie Chang,0,0,[],4
+2018,Winnie Chang,0,0,[],4
+2019,Winnie Chang,0,0,[],4
+2020,Winnie Chang,0,0,[],4
+2021,Winnie Chang,0,0,[],4
+2022,Winnie Chang,0,0,[],4
+2023,Winnie Chang,0,0,[],4
+2024,Winnie Chang,0,0,[],4
+2025,Winnie Chang,0,0,[],4
+2026,Winnie Chang,0,0,[],4
+2027,Winnie Chang,0,0,[],4
+2028,Winnie Chang,0,0,[],4
+2029,Winnie Chang,0,0,[],4
+2030,Winnie Chang,0,0,[],4
+2031,Winnie Chang,0,0,[],4
+2032,Winnie Chang,0,0,[],4
+2033,Winnie Chang,0,0,[],4
+2034,Winnie Chang,0,0,[],4
+2035,Winnie Chang,0,0,[],4
+2036,Winnie Chang,0,0,[],4
+2037,Winnie Chang,0,0,[],4
+2038,Winnie Chang,0,0,[],4
+2039,Winnie Chang,0,0,[],4
+2040,Winnie Chang,0,0,[],4
+2041,Winnie Chang,0,0,[],4
+2042,Winnie Chang,0,0,[],4
+2043,Winnie Chang,0,0,[],4
+2044,Winnie Chang,0,0,[],4
+2045,Winnie Chang,0,0,[],4
+2046,Winnie Chang,0,0,[],4
+2047,Winnie Chang,0,0,[],4
+2048,Winnie Chang,0,0,[],4
+2049,Winnie Chang,0,0,[],4
+2050,Winnie Chang,0,0,[],4
+2051,Winnie Chang,0,0,[],4
+2052,Winnie Chang,0,0,[],4
+2053,Winnie Chang,0,0,[],4
+2054,Winnie Chang,0,0,[],4
+2055,Winnie Chang,0,0,[],4
+2056,Winnie Chang,0,0,[],4
+2057,Winnie Chang,0,0,[],4
+2058,Deng Yizhen,0,0,[],4
+2059,Deng Yizhen,0,0,[],4
+2060,Deng Yizhen,0,0,[],4
+2061,Deng Yizhen,0,0,[],4
+2062,Deng Yizhen,0,0,[],4
+2063,Deng Yizhen,0,0,[],4
+2064,Deng Yizhen,0,0,[],4
+2065,Deng Yizhen,0,0,[],4
+2066,Deng Yizhen,0,0,[],4
+2067,Deng Yizhen,0,0,[],4
+2068,Deng Yizhen,0,0,[],4
+2069,Deng Yizhen,0,0,[],4
+2070,Deng Yizhen,0,0,[],4
+2071,Deng Yizhen,0,0,[],4
+2072,Deng Yizhen,0,0,[],4
+2073,Deng Yizhen,0,0,[],4
+2074,Deng Yizhen,0,0,[],4
+2075,Deng Yizhen,0,0,[],4
+2076,Deng Yizhen,0,0,[],4
+2077,Deng Yizhen,0,0,[],4
+2078,Deng Yizhen,0,0,[],4
+2079,Deng Yizhen,0,0,[],4
+2080,Deng Yizhen,0,0,[],4
+2081,Deng Yizhen,0,0,[],4
+2082,Deng Yizhen,0,0,[],4
+2083,Deng Yizhen,0,0,[],4
+2084,Deng Yizhen,0,0,[],4
+2085,Deng Yizhen,0,0,[],4
+2086,Deng Yizhen,0,0,[],4
+2087,Deng Yizhen,0,0,[],4
+2088,Deng Yizhen,0,0,[],4
+2089,Deng Yizhen,0,0,[],4
+2090,Deng Yizhen,0,0,[],4
+2091,Deng Yizhen,0,0,[],4
+2092,Deng Yizhen,0,0,[],4
+2093,Deng Yizhen,0,0,[],4
+2094,Deng Yizhen,0,0,[],4
+2095,Deng Yizhen,0,0,[],4
+2096,Deng Yizhen,0,0,[],4
+2097,Deng Yizhen,0,0,[],4
+2098,Wong Yang,0,0,[],4
+2099,Wong Yang,0,0,[],4
+2100,Wong Yang,0,0,[],4
+2101,Wong Yang,0,0,[],4
+2102,Wong Yang,0,0,[],4
+2103,Wong Yang,0,0,[],4
+2104,Wong Yang,0,0,[],4
+2105,Wong Yang,0,0,[],4
+2106,Wong Yang,0,0,[],4
+2107,Wong Yang,0,0,[],4
+2108,Wong Yang,0,0,[],4
+2109,Wong Yang,0,0,[],4
+2110,Wong Yang,0,0,[],4
+2111,Wong Yang,0,0,[],4
+2112,Wong Yang,0,0,[],4
+2113,Wong Yang,0,0,[],4
+2114,Wong Yang,0,0,[],4
+2115,Wong Yang,0,0,[],4
+2116,Wong Yang,0,0,[],4
+2117,Wong Yang,0,0,[],4
+2118,Wong Yang,0,0,[],4
+2119,Wong Yang,0,0,[],4
+2120,Wong Yang,0,0,[],4
+2121,Wong Yang,0,0,[],4
+2122,Wong Yang,0,0,[],4
+2123,Wong Yang,0,0,[],4
+2124,Wong Yang,0,0,[],4
+2125,Wong Yang,0,0,[],4
+2126,Wong Yang,0,0,[],4
+2127,Wong Yang,0,0,[],4
+2128,Wong Yang,0,0,[],4
+2129,Wong Yang,0,0,[],4
+2130,Wong Yang,0,0,[],4
+2131,Wong Yang,0,0,[],4
+2132,Wong Yang,0,0,[],4
+2133,Wong Yang,0,0,[],4
+2134,Wong Yang,0,0,[],4
+2135,Wong Yang,0,0,[],4
+2136,Wong Yang,0,0,[],4
+2137,Wong Yang,0,0,[],4
+2138,Wong Yang,0,0,[],4
+2139,Wong Yang,0,0,[],4
+2140,Wong Yang,0,0,[],4
+2141,Wong Yang,0,0,[],4
+2142,Wong Yang,0,0,[],4
+2143,Wong Yang,0,0,[],4
+2144,Wong Yang,0,0,[],4
+2145,Wong Yang,0,0,[],4
+2146,Wong Yang,0,0,[],4
+2147,Wong Yang,0,0,[],4
+2148,Wong Yang,0,0,[],4
+2149,Guan Ai Wu,0,0,[],4
+2150,Guan Ai Wu,0,0,[],4
+2151,Guan Ai Wu,0,0,[],4
+2152,Guan Ai Wu,0,0,[],4
+2153,Guan Ai Wu,0,0,[],4
+2154,Guan Ai Wu,0,0,[],4
+2155,Guan Ai Wu,0,0,[],4
+2156,Guan Ai Wu,0,0,[],4
+2157,Guan Ai Wu,0,0,[],4
+2158,Guan Ai Wu,0,0,[],4
+2159,Guan Ai Wu,0,0,[],4
+2160,Guan Ai Wu,0,0,[],4
+2161,Guan Ai Wu,0,0,[],4
+2162,Guan Ai Wu,0,0,[],4
+2163,Guan Ai Wu,0,0,[],4
+2164,Guan Ai Wu,0,0,[],4
+2165,Guan Ai Wu,0,0,[],4
+2166,Guan Ai Wu,0,0,[],4
+2167,Guan Ai Wu,0,0,[],4
+2168,Guan Ai Wu,0,0,[],4
+2169,Guan Ai Wu,0,0,[],4
+2170,Guan Ai Wu,0,0,[],4
+2171,Guan Ai Wu,0,0,[],4
+2172,Guan Ai Wu,0,0,[],4
+2173,Guan Ai Wu,0,0,[],4
+2174,Guan Ai Wu,0,0,[],4
+2175,Guan Ai Wu,0,0,[],4
+2176,Guan Ai Wu,0,0,[],4
+2177,Guan Ai Wu,0,0,[],4
+2178,Guan Ai Wu,0,0,[],4
+2179,Guan Ai Wu,0,0,[],4
+2180,Guan Ai Wu,0,0,[],4
+2181,Guan Ai Wu,0,0,[],4
+2182,Guan Ai Wu,0,0,[],4
+2183,Guan Ai Wu,0,0,[],4
+2184,Guan Ai Wu,0,0,[],4
+2185,Guan Ai Wu,0,0,[],4
+2186,Guan Ai Wu,0,0,[],4
+2187,Guan Ai Wu,0,0,[],4
+2188,Guan Ai Wu,0,0,[],4
+2189,Guan Ai Wu,0,0,[],4
+2190,Guan Ai Wu,0,0,[],4
+2191,Guan Ai Wu,0,0,[],4
+2192,Guan Ai Wu,0,0,[],4
+2193,Guan Ai Wu,0,0,[],4
+2194,Guan Ai Wu,0,0,[],4
+2195,Guan Ai Wu,0,0,[],4
+2196,Guan Ai Wu,0,0,[],4
+2197,Guan Ai Wu,0,0,[],4
+2198,Guan Ai Wu,0,0,[],4
+2199,Guan Ai Wu,0,0,[],4
+2200,Guan Ai Wu,0,0,[],4
+2201,Kang Mingxi,0,0,[],4
+2202,Kang Mingxi,0,0,[],4
+2203,Kang Mingxi,0,0,[],4
+2204,Kang Mingxi,0,0,[],4
+2205,Kang Mingxi,0,0,[],4
+2206,Kang Mingxi,0,0,[],4
+2207,Kang Mingxi,0,0,[],4
+2208,Kang Mingxi,0,0,[],4
+2209,Kang Mingxi,0,0,[],4
+2210,Kang Mingxi,0,0,[],4
+2211,Kang Mingxi,0,0,[],4
+2212,Kang Mingxi,0,0,[],4
+2213,Kang Mingxi,0,0,[],4
+2214,Kang Mingxi,0,0,[],4
+2215,Kang Mingxi,0,0,[],4
+2216,Kang Mingxi,0,0,[],4
+2217,Kang Mingxi,0,0,[],4
+2218,Kang Mingxi,0,0,[],4
+2219,Kang Mingxi,0,0,[],4
+2220,Kang Mingxi,0,0,[],4
+2221,Kang Mingxi,0,0,[],4
+2222,Kang Mingxi,0,0,[],4
+2223,Kang Mingxi,0,0,[],4
+2224,Kang Mingxi,0,0,[],4
+2225,Kang Mingxi,0,0,[],4
+2226,Kang Mingxi,0,0,[],4
+2227,Kang Mingxi,0,0,[],4
+2228,Kang Mingxi,0,0,[],4
+2229,Kang Mingxi,0,0,[],4
+2230,Kang Mingxi,0,0,[],4
+2231,Kang Mingxi,0,0,[],4
+2232,Kang Mingxi,0,0,[],4
+2233,Kang Mingxi,0,0,[],4
+2234,Kang Mingxi,0,0,[],4
+2235,Kang Mingxi,0,0,[],4
+2236,Kang Mingxi,0,0,[],4
+2237,Kang Mingxi,0,0,[],4
+2238,Kang Mingxi,0,0,[],4
+2239,Kang Mingxi,0,0,[],4
+2240,Kang Mingxi,0,0,[],4
+2241,Kang Mingxi,0,0,[],4
+2242,Kang Mingxi,0,0,[],4
+2243,Kang Mingxi,0,0,[],4
+2244,Kang Mingxi,0,0,[],4
+2245,Kang Mingxi,0,0,[],4
+2246,Kang Mingxi,0,0,[],4
+2247,Kang Mingxi,0,0,[],4
+2248,Kang Mingxi,0,0,[],4
+2249,Kang Mingxi,0,0,[],4
+2250,Kang Mingxi,0,0,[],4
+2251,Kang Mingxi,0,0,[],4
+2252,Yushi Yeap,0,0,[],4
+2253,Yushi Yeap,0,0,[],4
+2254,Yushi Yeap,0,0,[],4
+2255,Yushi Yeap,0,0,[],4
+2256,Yushi Yeap,0,0,[],4
+2257,Yushi Yeap,0,0,[],4
+2258,Yushi Yeap,0,0,[],4
+2259,Yushi Yeap,0,0,[],4
+2260,Yushi Yeap,0,0,[],4
+2261,Yushi Yeap,0,0,[],4
+2262,Yushi Yeap,0,0,[],4
+2263,Yushi Yeap,0,0,[],4
+2264,Yushi Yeap,0,0,[],4
+2265,Yushi Yeap,0,0,[],4
+2266,Yushi Yeap,0,0,[],4
+2267,Yushi Yeap,0,0,[],4
+2268,Yushi Yeap,0,0,[],4
+2269,Yushi Yeap,0,0,[],4
+2270,Yushi Yeap,0,0,[],4
+2271,Yushi Yeap,0,0,[],4
+2272,Yushi Yeap,0,0,[],4
+2273,Yushi Yeap,0,0,[],4
+2274,Yushi Yeap,0,0,[],4
+2275,Yushi Yeap,0,0,[],4
+2276,Yushi Yeap,0,0,[],4
+2277,Yushi Yeap,0,0,[],4
+2278,Yushi Yeap,0,0,[],4
+2279,Yushi Yeap,0,0,[],4
+2280,Yushi Yeap,0,0,[],4
+2281,Yushi Yeap,0,0,[],4
+2282,Yushi Yeap,0,0,[],4
+2283,Yushi Yeap,0,0,[],4
+2284,Yushi Yeap,0,0,[],4
+2285,Yushi Yeap,0,0,[],4
+2286,Yushi Yeap,0,0,[],4
+2287,Yushi Yeap,0,0,[],4
+2288,Yushi Yeap,0,0,[],4
+2289,Yushi Yeap,0,0,[],4
+2290,Yushi Yeap,0,0,[],4
+2291,Yushi Yeap,0,0,[],4
+2292,Yushi Yeap,0,0,[],4
+2293,Bai Li Jian,0,0,[],4
+2294,Bai Li Jian,0,0,[],4
+2295,Bai Li Jian,0,0,[],4
+2296,Bai Li Jian,0,0,[],4
+2297,Bai Li Jian,0,0,[],4
+2298,Bai Li Jian,0,0,[],4
+2299,Bai Li Jian,0,0,[],4
+2300,Bai Li Jian,0,0,[],4
+2301,Bai Li Jian,0,0,[],4
+2302,Bai Li Jian,0,0,[],4
+2303,Bai Li Jian,0,0,[],4
+2304,Bai Li Jian,0,0,[],4
+2305,Bai Li Jian,0,0,[],4
+2306,Bai Li Jian,0,0,[],4
+2307,Bai Li Jian,0,0,[],4
+2308,Bai Li Jian,0,0,[],4
+2309,Bai Li Jian,0,0,[],4
+2310,Bai Li Jian,0,0,[],4
+2311,Bai Li Jian,0,0,[],4
+2312,Bai Li Jian,0,0,[],4
+2313,Bai Li Jian,0,0,[],4
+2314,Bai Li Jian,0,0,[],4
+2315,Bai Li Jian,0,0,[],4
+2316,Bai Li Jian,0,0,[],4
+2317,Bai Li Jian,0,0,[],4
+2318,Bai Li Jian,0,0,[],4
+2319,Bai Li Jian,0,0,[],4
+2320,Bai Li Jian,0,0,[],4
+2321,Bai Li Jian,0,0,[],4
+2322,Bai Li Jian,0,0,[],4
+2323,Bai Li Jian,0,0,[],4
+2324,Bai Li Jian,0,0,[],4
+2325,Bai Li Jian,0,0,[],4
+2326,Bai Li Jian,0,0,[],4
+2327,Bai Li Jian,0,0,[],4
+2328,Bai Li Jian,0,0,[],4
+2329,Bai Li Jian,0,0,[],4
+2330,Bai Li Jian,0,0,[],4
+2331,Bai Li Jian,0,0,[],4
+2332,Bai Li Jian,0,0,[],4
+2333,Bai Li Jian,0,0,[],4
+2334,Bai Li Jian,0,0,[],4
+2335,Bai Li Jian,0,0,[],4
+2336,Bai Li Jian,0,0,[],4
+2337,Bai Li Jian,0,0,[],4
+2338,Bai Li Jian,0,0,[],4
+2339,Bai Li Jian,0,0,[],4
+2340,Yu Chen Chen,0,0,[],4
+2341,Yu Chen Chen,0,0,[],4
+2342,Yu Chen Chen,0,0,[],4
+2343,Yu Chen Chen,0,0,[],4
+2344,Yu Chen Chen,0,0,[],4
+2345,Yu Chen Chen,0,0,[],4
+2346,Yu Chen Chen,0,0,[],4
+2347,Yu Chen Chen,0,0,[],4
+2348,Yu Chen Chen,0,0,[],4
+2349,Yu Chen Chen,0,0,[],4
+2350,Yu Chen Chen,0,0,[],4
+2351,Yu Chen Chen,0,0,[],4
+2352,Yu Chen Chen,0,0,[],4
+2353,Yu Chen Chen,0,0,[],4
+2354,Yu Chen Chen,0,0,[],4
+2355,Yu Chen Chen,0,0,[],4
+2356,Yu Chen Chen,0,0,[],4
+2357,Yu Chen Chen,0,0,[],4
+2358,Yu Chen Chen,0,0,[],4
+2359,Yu Chen Chen,0,0,[],4
+2360,Yu Chen Chen,0,0,[],4
+2361,Yu Chen Chen,0,0,[],4
+2362,Yu Chen Chen,0,0,[],4
+2363,Yu Chen Chen,0,0,[],4
+2364,Yu Chen Chen,0,0,[],4
+2365,Yu Chen Chen,0,0,[],4
+2366,Yu Chen Chen,0,0,[],4
+2367,Yu Chen Chen,0,0,[],4
+2368,Yu Chen Chen,0,0,[],4
+2369,Yu Chen Chen,0,0,[],4
+2370,Yu Chen Chen,0,0,[],4
+2371,Yu Chen Chen,0,0,[],4
+2372,Yu Chen Chen,0,0,[],4
+2373,Yu Chen Chen,0,0,[],4
+2374,Yu Chen Chen,0,0,[],4
+2375,Yu Chen Chen,0,0,[],4
+2376,Yu Chen Chen,0,0,[],4
+2377,Yu Chen Chen,0,0,[],4
+2378,Yu Chen Chen,0,0,[],4
+2379,Liu Ting Yi,0,0,[],4
+2380,Liu Ting Yi,0,0,[],4
+2381,Liu Ting Yi,0,0,[],4
+2382,Liu Ting Yi,0,0,[],4
+2383,Liu Ting Yi,0,0,[],4
+2384,Liu Ting Yi,0,0,[],4
+2385,Liu Ting Yi,0,0,[],4
+2386,Liu Ting Yi,0,0,[],4
+2387,Liu Ting Yi,0,0,[],4
+2388,Liu Ting Yi,0,0,[],4
+2389,Liu Ting Yi,0,0,[],4
+2390,Liu Ting Yi,0,0,[],4
+2391,Liu Ting Yi,0,0,[],4
+2392,Liu Ting Yi,0,0,[],4
+2393,Liu Ting Yi,0,0,[],4
+2394,Liu Ting Yi,0,0,[],4
+2395,Liu Ting Yi,0,0,[],4
+2396,Liu Ting Yi,0,0,[],4
+2397,Liu Ting Yi,0,0,[],4
+2398,Liu Ting Yi,0,0,[],4
+2399,Liu Ting Yi,0,0,[],4
+2400,Liu Ting Yi,0,0,[],4
+2401,Liu Ting Yi,0,0,[],4
+2402,Liu Ting Yi,0,0,[],4
+2403,Liu Ting Yi,0,0,[],4
+2404,Liu Ting Yi,0,0,[],4
+2405,Liu Ting Yi,0,0,[],4
+2406,Liu Ting Yi,0,0,[],4
+2407,Liu Ting Yi,0,0,[],4
+2408,Liu Ting Yi,0,0,[],4
+2409,Liu Ting Yi,0,0,[],4
+2410,Liu Ting Yi,0,0,[],4
+2411,Liu Ting Yi,0,0,[],4
+2412,Liu Ting Yi,0,0,[],4
+2413,Liu Ting Yi,0,0,[],4
+2414,Liu Ting Yi,0,0,[],4
+2415,Liu Ting Yi,0,0,[],4
+2416,Liu Ting Yi,0,0,[],4
+2417,Liu Ting Yi,0,0,[],4
+2418,Liu Ting Yi,0,0,[],4
+2419,Liu Ting Yi,0,0,[],4
+2420,Liu Ting Yi,0,0,[],4
+2421,Liu Ting Yi,0,0,[],4
+2422,Liu Ting Yi,0,0,[],4
+2423,High Ze Quan,0,0,[],4
+2424,High Ze Quan,0,0,[],4
+2425,High Ze Quan,0,0,[],4
+2426,High Ze Quan,0,0,[],4
+2427,High Ze Quan,0,0,[],4
+2428,High Ze Quan,0,0,[],4
+2429,High Ze Quan,0,0,[],4
+2430,High Ze Quan,0,0,[],4
+2431,High Ze Quan,0,0,[],4
+2432,High Ze Quan,0,0,[],4
+2433,High Ze Quan,0,0,[],4
+2434,High Ze Quan,0,0,[],4
+2435,High Ze Quan,0,0,[],4
+2436,High Ze Quan,0,0,[],4
+2437,High Ze Quan,0,0,[],4
+2438,High Ze Quan,0,0,[],4
+2439,High Ze Quan,0,0,[],4
+2440,High Ze Quan,0,0,[],4
+2441,High Ze Quan,0,0,[],4
+2442,High Ze Quan,0,0,[],4
+2443,High Ze Quan,0,0,[],4
+2444,High Ze Quan,0,0,[],4
+2445,High Ze Quan,0,0,[],4
+2446,High Ze Quan,0,0,[],4
+2447,High Ze Quan,0,0,[],4
+2448,High Ze Quan,0,0,[],4
+2449,High Ze Quan,0,0,[],4
+2450,High Ze Quan,0,0,[],4
+2451,High Ze Quan,0,0,[],4
+2452,High Ze Quan,0,0,[],4
+2453,High Ze Quan,0,0,[],4
+2454,High Ze Quan,0,0,[],4
+2455,High Ze Quan,0,0,[],4
+2456,High Ze Quan,0,0,[],4
+2457,High Ze Quan,0,0,[],4
+2458,High Ze Quan,0,0,[],4
+2459,High Ze Quan,0,0,[],4
+2460,High Ze Quan,0,0,[],4
+2461,High Ze Quan,0,0,[],4
+2462,High Ze Quan,0,0,[],4
+2463,High Ze Quan,0,0,[],4
+2464,High Ze Quan,0,0,[],4
+2465,High Ze Quan,0,0,[],4
+2466,High Ze Quan,0,0,[],4
+2467,High Ze Quan,0,0,[],4
+2468,Wen Shi Kai,0,0,[],4
+2469,Wen Shi Kai,0,0,[],4
+2470,Wen Shi Kai,0,0,[],4
+2471,Wen Shi Kai,0,0,[],4
+2472,Wen Shi Kai,0,0,[],4
+2473,Wen Shi Kai,0,0,[],4
+2474,Wen Shi Kai,0,0,[],4
+2475,Wen Shi Kai,0,0,[],4
+2476,Wen Shi Kai,0,0,[],4
+2477,Wen Shi Kai,0,0,[],4
+2478,Wen Shi Kai,0,0,[],4
+2479,Wen Shi Kai,0,0,[],4
+2480,Wen Shi Kai,0,0,[],4
+2481,Wen Shi Kai,0,0,[],4
+2482,Wen Shi Kai,0,0,[],4
+2483,Wen Shi Kai,0,0,[],4
+2484,Wen Shi Kai,0,0,[],4
+2485,Wen Shi Kai,0,0,[],4
+2486,Wen Shi Kai,0,0,[],4
+2487,Wen Shi Kai,0,0,[],4
+2488,Wen Shi Kai,0,0,[],4
+2489,Wen Shi Kai,0,0,[],4
+2490,Wen Shi Kai,0,0,[],4
+2491,Wen Shi Kai,0,0,[],4
+2492,Wen Shi Kai,0,0,[],4
+2493,Wen Shi Kai,0,0,[],4
+2494,Wen Shi Kai,0,0,[],4
+2495,Wen Shi Kai,0,0,[],4
+2496,Wen Shi Kai,0,0,[],4
+2497,Wen Shi Kai,0,0,[],4
+2498,Wen Shi Kai,0,0,[],4
+2499,Wen Shi Kai,0,0,[],4
+2500,Wen Shi Kai,0,0,[],4
+2501,Wen Shi Kai,0,0,[],4
+2502,Wen Shi Kai,0,0,[],4
+2503,Wen Shi Kai,0,0,[],4
+2504,Wen Shi Kai,0,0,[],4
+2505,Wen Shi Kai,0,0,[],4
+2506,Wen Shi Kai,0,0,[],4
+2507,Wen Shi Kai,0,0,[],4
+2508,Wen Shi Kai,0,0,[],4
+2509,Wen Shi Kai,0,0,[],4
+2510,Wen Shi Kai,0,0,[],4
+2511,Wen Shi Kai,0,0,[],4
+2512,Wen Shi Kai,0,0,[],4
+2513,Wen Shi Kai,0,0,[],4
+2514,Wen Shi Kai,0,0,[],4
+2515,Li Yuzhe,0,0,[],4
+2516,Li Yuzhe,0,0,[],4
+2517,Li Yuzhe,0,0,[],4
+2518,Li Yuzhe,0,0,[],4
+2519,Li Yuzhe,0,0,[],4
+2520,Li Yuzhe,0,0,[],4
+2521,Li Yuzhe,0,0,[],4
+2522,Li Yuzhe,0,0,[],4
+2523,Li Yuzhe,0,0,[],4
+2524,Li Yuzhe,0,0,[],4
+2525,Li Yuzhe,0,0,[],4
+2526,Li Yuzhe,0,0,[],4
+2527,Li Yuzhe,0,0,[],4
+2528,Li Yuzhe,0,0,[],4
+2529,Li Yuzhe,0,0,[],4
+2530,Li Yuzhe,0,0,[],4
+2531,Li Yuzhe,0,0,[],4
+2532,Li Yuzhe,0,0,[],4
+2533,Li Yuzhe,0,0,[],4
+2534,Li Yuzhe,0,0,[],4
+2535,Li Yuzhe,0,0,[],4
+2536,Li Yuzhe,0,0,[],4
+2537,Li Yuzhe,0,0,[],4
+2538,Li Yuzhe,0,0,[],4
+2539,Li Yuzhe,0,0,[],4
+2540,Li Yuzhe,0,0,[],4
+2541,Li Yuzhe,0,0,[],4
+2542,Li Yuzhe,0,0,[],4
+2543,Li Yuzhe,0,0,[],4
+2544,Li Yuzhe,0,0,[],4
+2545,Li Yuzhe,0,0,[],4
+2546,Li Yuzhe,0,0,[],4
+2547,Li Yuzhe,0,0,[],4
+2548,Li Yuzhe,0,0,[],4
+2549,Li Yuzhe,0,0,[],4
+2550,Li Yuzhe,0,0,[],4
+2551,Li Yuzhe,0,0,[],4
+2552,Li Yuzhe,0,0,[],4
+2553,Li Yuzhe,0,0,[],4
+2554,Li Yuzhe,0,0,[],4
+2555,Li Yuzhe,0,0,[],4
+2556,Li Yuzhe,0,0,[],4
+2557,Qiu Italian View,0,0,[],4
+2558,Qiu Italian View,0,0,[],4
+2559,Qiu Italian View,0,0,[],4
+2560,Qiu Italian View,0,0,[],4
+2561,Qiu Italian View,0,0,[],4
+2562,Qiu Italian View,0,0,[],4
+2563,Qiu Italian View,0,0,[],4
+2564,Qiu Italian View,0,0,[],4
+2565,Qiu Italian View,0,0,[],4
+2566,Qiu Italian View,0,0,[],4
+2567,Qiu Italian View,0,0,[],4
+2568,Qiu Italian View,0,0,[],4
+2569,Qiu Italian View,0,0,[],4
+2570,Qiu Italian View,0,0,[],4
+2571,Qiu Italian View,0,0,[],4
+2572,Qiu Italian View,0,0,[],4
+2573,Qiu Italian View,0,0,[],4
+2574,Qiu Italian View,0,0,[],4
+2575,Qiu Italian View,0,0,[],4
+2576,Qiu Italian View,0,0,[],4
+2577,Qiu Italian View,0,0,[],4
+2578,Qiu Italian View,0,0,[],4
+2579,Qiu Italian View,0,0,[],4
+2580,Qiu Italian View,0,0,[],4
+2581,Qiu Italian View,0,0,[],4
+2582,Qiu Italian View,0,0,[],4
+2583,Qiu Italian View,0,0,[],4
+2584,Qiu Italian View,0,0,[],4
+2585,Qiu Italian View,0,0,[],4
+2586,Qiu Italian View,0,0,[],4
+2587,Qiu Italian View,0,0,[],4
+2588,Qiu Italian View,0,0,[],4
+2589,Qiu Italian View,0,0,[],4
+2590,Qiu Italian View,0,0,[],4
+2591,Qiu Italian View,0,0,[],4
+2592,Qiu Italian View,0,0,[],4
+2593,Qiu Italian View,0,0,[],4
+2594,Qiu Italian View,0,0,[],4
+2595,Qiu Italian View,0,0,[],4
+2596,Qiu Italian View,0,0,[],4
+2597,Qiu Italian View,0,0,[],4
+2598,Qiu Italian View,0,0,[],4
+2599,Qiu Italian View,0,0,[],4
+2600,Qiu Italian View,0,0,[],4
+2601,Qiu Italian View,0,0,[],4
+2602,Qiu Italian View,0,0,[],4
+2603,Lin Zhen,0,0,[],4
+2604,Lin Zhen,0,0,[],4
+2605,Lin Zhen,0,0,[],4
+2606,Lin Zhen,0,0,[],4
+2607,Lin Zhen,0,0,[],4
+2608,Lin Zhen,0,0,[],4
+2609,Lin Zhen,0,0,[],4
+2610,Lin Zhen,0,0,[],4
+2611,Lin Zhen,0,0,[],4
+2612,Lin Zhen,0,0,[],4
+2613,Lin Zhen,0,0,[],4
+2614,Lin Zhen,0,0,[],4
+2615,Lin Zhen,0,0,[],4
+2616,Lin Zhen,0,0,[],4
+2617,Lin Zhen,0,0,[],4
+2618,Lin Zhen,0,0,[],4
+2619,Lin Zhen,0,0,[],4
+2620,Lin Zhen,0,0,[],4
+2621,Lin Zhen,0,0,[],4
+2622,Lin Zhen,0,0,[],4
+2623,Lin Zhen,0,0,[],4
+2624,Lin Zhen,0,0,[],4
+2625,Lin Zhen,0,0,[],4
+2626,Lin Zhen,0,0,[],4
+2627,Lin Zhen,0,0,[],4
+2628,Lin Zhen,0,0,[],4
+2629,Lin Zhen,0,0,[],4
+2630,Lin Zhen,0,0,[],4
+2631,Lin Zhen,0,0,[],4
+2632,Lin Zhen,0,0,[],4
+2633,Lin Zhen,0,0,[],4
+2634,Lin Zhen,0,0,[],4
+2635,Lin Zhen,0,0,[],4
+2636,Lin Zhen,0,0,[],4
+2637,Lin Zhen,0,0,[],4
+2638,Lin Zhen,0,0,[],4
+2639,Lin Zhen,0,0,[],4
+2640,Lin Zhen,0,0,[],4
+2641,Lin Zhen,0,0,[],4
+2642,Lin Zhen,0,0,[],4
+2643,Lin Zhen,0,0,[],4
+2644,Lin Zhen,0,0,[],4
+2645,Lin Zhen,0,0,[],4
+2646,Lin Zhen,0,0,[],4
+2647,Lin Zhen,0,0,[],4
+2648,Lin Zhen,0,0,[],4
+2649,Lin Zhen,0,0,[],4
+2650,Lin Zhen,0,0,[],4
+2651,Lin Zhen,0,0,[],4
+2652,Lin Zhen,0,0,[],4
+2653,Lin Zhen,0,0,[],4
+2654,Ruan Yushan,0,0,[],4
+2655,Ruan Yushan,0,0,[],4
+2656,Ruan Yushan,0,0,[],4
+2657,Ruan Yushan,0,0,[],4
+2658,Ruan Yushan,0,0,[],4
+2659,Ruan Yushan,0,0,[],4
+2660,Ruan Yushan,0,0,[],4
+2661,Ruan Yushan,0,0,[],4
+2662,Ruan Yushan,0,0,[],4
+2663,Ruan Yushan,0,0,[],4
+2664,Ruan Yushan,0,0,[],4
+2665,Ruan Yushan,0,0,[],4
+2666,Ruan Yushan,0,0,[],4
+2667,Ruan Yushan,0,0,[],4
+2668,Ruan Yushan,0,0,[],4
+2669,Ruan Yushan,0,0,[],4
+2670,Ruan Yushan,0,0,[],4
+2671,Ruan Yushan,0,0,[],4
+2672,Ruan Yushan,0,0,[],4
+2673,Ruan Yushan,0,0,[],4
+2674,Ruan Yushan,0,0,[],4
+2675,Ruan Yushan,0,0,[],4
+2676,Ruan Yushan,0,0,[],4
+2677,Ruan Yushan,0,0,[],4
+2678,Ruan Yushan,0,0,[],4
+2679,Ruan Yushan,0,0,[],4
+2680,Ruan Yushan,0,0,[],4
+2681,Ruan Yushan,0,0,[],4
+2682,Ruan Yushan,0,0,[],4
+2683,Ruan Yushan,0,0,[],4
+2684,Ruan Yushan,0,0,[],4
+2685,Ruan Yushan,0,0,[],4
+2686,Ruan Yushan,0,0,[],4
+2687,Ruan Yushan,0,0,[],4
+2688,Ruan Yushan,0,0,[],4
+2689,Ruan Yushan,0,0,[],4
+2690,Ruan Yushan,0,0,[],4
+2691,Ruan Yushan,0,0,[],4
+2692,Ruan Yushan,0,0,[],4
+2693,Ruan Yushan,0,0,[],4
+2694,Ruan Yushan,0,0,[],4
+2695,Ruan Yushan,0,0,[],4
+2696,Ruan Yushan,0,0,[],4
+2697,Ruan Yushan,0,0,[],4
+2698,Ruan Yushan,0,0,[],4
+2699,Ruan Yushan,0,0,[],4
+2700,Su Yang Xi,0,0,[],4
+2701,Su Yang Xi,0,0,[],4
+2702,Su Yang Xi,0,0,[],4
+2703,Su Yang Xi,0,0,[],4
+2704,Su Yang Xi,0,0,[],4
+2705,Su Yang Xi,0,0,[],4
+2706,Su Yang Xi,0,0,[],4
+2707,Su Yang Xi,0,0,[],4
+2708,Su Yang Xi,0,0,[],4
+2709,Su Yang Xi,0,0,[],4
+2710,Su Yang Xi,0,0,[],4
+2711,Su Yang Xi,0,0,[],4
+2712,Su Yang Xi,0,0,[],4
+2713,Su Yang Xi,0,0,[],4
+2714,Su Yang Xi,0,0,[],4
+2715,Su Yang Xi,0,0,[],4
+2716,Su Yang Xi,0,0,[],4
+2717,Su Yang Xi,0,0,[],4
+2718,Su Yang Xi,0,0,[],4
+2719,Su Yang Xi,0,0,[],4
+2720,Su Yang Xi,0,0,[],4
+2721,Su Yang Xi,0,0,[],4
+2722,Su Yang Xi,0,0,[],4
+2723,Su Yang Xi,0,0,[],4
+2724,Su Yang Xi,0,0,[],4
+2725,Su Yang Xi,0,0,[],4
+2726,Su Yang Xi,0,0,[],4
+2727,Su Yang Xi,0,0,[],4
+2728,Su Yang Xi,0,0,[],4
+2729,Su Yang Xi,0,0,[],4
+2730,Su Yang Xi,0,0,[],4
+2731,Su Yang Xi,0,0,[],4
+2732,Su Yang Xi,0,0,[],4
+2733,Su Yang Xi,0,0,[],4
+2734,Su Yang Xi,0,0,[],4

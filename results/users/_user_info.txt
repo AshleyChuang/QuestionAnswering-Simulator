@@ -1,0 +1,62 @@
+Ruan Yushan,0,0,0.0, 0.0,0
+Liao Xun weight,0,0,0.0, 0.0,0
+Martha Fu,0,0,0.0, 0.0,0
+Li Yuzhe,0,0,0.0, 0.0,0
+Chang Chun Peng,0,0,0.0, 0.0,0
+Liu Yi Ning,0,0,0.0, 0.0,0
+Qiu Italian View,0,0,0.0, 0.0,0
+Xiang Yang Min,0,0,0.0, 0.0,0
+Su Yang Xi,0,0,0.0, 0.0,0
+Liuling Jun,0,0,0.0, 0.0,0
+Andy Chung,0,0,0.0, 0.0,0
+Yushi Yeap,0,0,0.0, 0.0,0
+Zhang Liangwei,0,0,0.0, 0.0,0
+Zou Yun Yun,0,0,0.0, 0.0,0
+Zhong Xuan can,0,0,0.0, 0.0,0
+Yang Zhuoyun,0,0,0.0, 0.0,0
+Jason Lin,0,0,0.0, 0.0,0
+Deng Yizhen,0,0,0.0, 0.0,0
+Lin Zhen,0,0,0.0, 0.0,0
+Huang Zhijun,0,0,0.0, 0.0,0
+Winnie Chang,0,0,0.0, 0.0,0
+Stephanie Kao,0,0,0.0, 0.0,0
+Chenjia Ru,0,0,0.0, 0.0,0
+Harry Chen,0,0,0.0, 0.0,0
+Jimmy Yuan,0,0,0.0, 0.0,0
+Chen Weijun,0,0,0.0, 0.0,0
+Lin Chunan,0,0,0.0, 0.0,0
+Huang Han,0,0,0.0, 0.0,0
+Carisa Hung,0,0,0.0, 0.0,0
+Yu Chen Chen,0,0,0.0, 0.0,0
+Liu Ting Yi,0,0,0.0, 0.0,0
+Yang Junwei,0,0,0.0, 0.0,0
+Lin Wan Xuan,0,0,0.0, 0.0,0
+High Ze Quan,0,0,0.0, 0.0,0
+Liu Fengxuan,0,0,0.0, 0.0,0
+Zhang Yan Yu,0,0,0.0, 0.0,0
+Kang Mingxi,0,0,0.0, 0.0,0
+Huang Tingbai,0,0,0.0, 0.0,0
+Hung Yu Heng,0,0,0.0, 0.0,0
+Bai Li Jian,0,0,0.0, 0.0,0
+Chen Yi Ling,0,0,0.0, 0.0,0
+Alex Chiang,0,0,0.0, 0.0,0
+Huang Zhenting,0,0,0.0, 0.0,0
+Song Pei Hoon,0,0,0.0, 0.0,0
+Yang Hyun Christine,0,0,0.0, 0.0,0
+Zhong Jiajun,0,0,0.0, 0.0,0
+Lizi Xuan,0,0,0.0, 0.0,0
+Peng Wei Wang,0,0,0.0, 0.0,0
+Yun Yun Tsai,0,0,0.0, 0.0,0
+Guo Baiyu,0,0,0.0, 0.0,0
+He Yuting,0,0,0.0, 0.0,0
+Wong Yang,0,0,0.0, 0.0,0
+Wu Chenxi,0,0,0.0, 0.0,0
+Guan Ai Wu,0,0,0.0, 0.0,0
+Wen Shi Kai,0,0,0.0, 0.0,0
+Lin Zonghan,0,0,0.0, 0.0,0
+Li Jingying,0,0,0.0, 0.0,0
+Fuzi Rui,0,0,0.0, 0.0,0
+Howard Hsu,0,0,0.0, 0.0,0
+Zhang Qi,0,0,0.0, 0.0,0
+Weng Zaihao,0,0,0.0, 0.0,0
+Liven Pan,0,0,0.0, 0.0,0

@@ -1,0 +1,4841 @@
+Asker Liao Xun weight : 183
+Asker Chang Chun Peng : 509
+Asker Liu Fengxuan : 855
+Asker Andy Chung : 1003
+Asker Wu Chenxi : 1111
+Asker Bai Li Jian : 1460
+Asker Liven Pan : 1593
+Asker Fuzi Rui : 1744
+Asker Jimmy Yuan : 1806
+Asker Weng Zaihao : 1963
+Asker Lin Chunan : 2083
+Asker Yun Yun Tsai : 2278
+Asker Huang Han : 2613
+Asker Wong Yang : 2913
+Asker Zhong Jiajun : 3058
+Asker Fuzi Rui : 3217
+Asker Yang Hyun Christine : 3289
+Asker Qiu Italian View : 3477
+Asker Huang Zhijun : 3726
+Asker Harry Chen : 3737
+Asker Zhang Liangwei : 4209
+Asker Stephanie Kao : 4330
+Asker High Ze Quan : 4516
+Asker Li Yuzhe : 4977
+370 passer Chenjia Ru : 5120
+370 passer Deng Yizhen : 5120
+370 passer High Ze Quan : 5120
+287 passer Weng Zaihao : 5389
+Asker Chenjia Ru : 5739
+115 passer Chang Chun Peng : 5743
+115 passer Chang Chun Peng : 5743
+115 passer Chang Chun Peng : 5743
+115 passer Chang Chun Peng : 5743
+164 passer Chenjia Ru : 6273
+164 passer Chenjia Ru : 6273
+164 passer Chenjia Ru : 6273
+164 passer Chenjia Ru : 6273
+Asker Qiu Italian View : 6457
+Asker Winnie Chang : 6634
+319 passer Song Pei Hoon : 6694
+319 passer Song Pei Hoon : 6694
+319 passer Song Pei Hoon : 6694
+Asker Qiu Italian View : 6710
+38 passer Chang Chun Peng : 6718
+38 passer Chang Chun Peng : 6718
+38 passer Chang Chun Peng : 6718
+38 passer Chang Chun Peng : 6718
+288 passer Weng Zaihao : 6862
+Asker Qiu Italian View : 7370
+218 answerer Ruan Yushan : 7443
+Asker Zou Yun Yun : 7567
+Asker Martha Fu : 7587
+Asker Liuling Jun : 7612
+0 passer Deng Yizhen : 7647
+0 passer Deng Yizhen : 7647
+0 passer Deng Yizhen : 7647
+Asker Jason Lin : 7864
+67 passer Ruan Yushan : 7869
+67 passer Ruan Yushan : 7869
+67 passer Ruan Yushan : 7869
+67 passer Ruan Yushan : 7869
+Asker Deng Yizhen : 8218
+303 passer Wen Shi Kai : 8248
+303 passer Wen Shi Kai : 8248
+303 passer Wen Shi Kai : 8248
+303 passer Wen Shi Kai : 8248
+Asker Xiang Yang Min : 8318
+Asker Zhang Liangwei : 8376
+205 passer Liven Pan : 8378
+205 passer Liven Pan : 8378
+68 passer Ruan Yushan : 8436
+68 passer Ruan Yushan : 8436
+68 passer Ruan Yushan : 8436
+68 passer Ruan Yushan : 8436
+Asker Liven Pan : 8663
+Asker Wen Shi Kai : 8913
+Asker Zou Yun Yun : 8996
+Asker Huang Han : 9006
+287 answerer Ruan Yushan : 9049
+Asker Yang Hyun Christine : 9083
+Asker Zhang Qi : 9326
+Asker Qiu Italian View : 9403
+Asker Guo Baiyu : 9586
+Asker Jason Lin : 9609
+Asker Li Jingying : 9756
+Asker Yang Zhuoyun : 9796
+Asker Wen Shi Kai : 9900
+Asker Qiu Italian View : 10037
+Asker Guan Ai Wu : 10094
+Asker Zhang Liangwei : 10115
+Asker Andy Chung : 10172
+338 passer Wen Shi Kai : 10173
+338 passer Wen Shi Kai : 10173
+338 passer Wen Shi Kai : 10173
+338 passer Wen Shi Kai : 10173
+69 passer Ruan Yushan : 10175
+69 passer Ruan Yushan : 10175
+69 passer Ruan Yushan : 10175
+69 passer Ruan Yushan : 10175
+304 passer Wen Shi Kai : 10217
+304 passer Wen Shi Kai : 10217
+304 passer Wen Shi Kai : 10217
+304 passer Wen Shi Kai : 10217
+288 answerer Ruan Yushan : 10522
+Asker Yang Zhuoyun : 10777
+Asker Bai Li Jian : 11030
+218 answerer Fuzi Rui : 11043
+Asker Liao Xun weight : 11121
+219 answerer Fuzi Rui : 11181
+82 answerer Fuzi Rui : 11227
+258 answerer Fuzi Rui : 11272
+Asker Howard Hsu : 11291
+0 passer Fuzi Rui : 11292
+0 answerer Fuzi Rui : 11292
+Asker Lin Zhen : 11298
+Asker Zhang Yan Yu : 11352
+275 answerer Fuzi Rui : 11700
+391 passer Fuzi Rui : 11776
+391 answerer Fuzi Rui : 11776
+331 passer Fuzi Rui : 11863
+331 answerer Fuzi Rui : 11863
+331 passer Fuzi Rui : 11863
+Asker Song Pei Hoon : 11960
+Asker Weng Zaihao : 11983
+Asker Lin Zonghan : 11996
+128 passer Fuzi Rui : 12020
+128 answerer Fuzi Rui : 12020
+188 answerer Fuzi Rui : 12028
+188 passer Fuzi Rui : 12028
+Asker Li Yuzhe : 12053
+229 answerer Fuzi Rui : 12056
+229 passer Fuzi Rui : 12056
+370 answerer Fuzi Rui : 12365
+Asker Su Yang Xi : 12448
+83 answerer Fuzi Rui : 12656
+Asker Lin Wan Xuan : 12683
+182 answerer Fuzi Rui : 12728
+237 passer Fuzi Rui : 12743
+237 answerer Fuzi Rui : 12743
+187 answerer Fuzi Rui : 12808
+187 passer Fuzi Rui : 12808
+198 answerer Fuzi Rui : 12999
+43 passer Fuzi Rui : 13138
+43 answerer Fuzi Rui : 13138
+Asker Xiang Yang Min : 13269
+164 answerer Fuzi Rui : 13533
+Asker Lin Zhen : 13884
+319 passer Fuzi Rui : 13954
+319 answerer Fuzi Rui : 13954
+Asker Kang Mingxi : 14121
+181 answerer Fuzi Rui : 14134
+355 passer Fuzi Rui : 14178
+355 answerer Fuzi Rui : 14178
+Asker Fuzi Rui : 14203
+Asker Wong Yang : 14485
+Asker Liuling Jun : 14678
+371 passer Liu Fengxuan : 14690
+82 passer Liu Fengxuan : 14812
+Asker Lin Zhen : 15027
+67 passer Liu Fengxuan : 15129
+Asker Peng Wei Wang : 15139
+Asker Weng Zaihao : 15225
+Asker Winnie Chang : 15602
+128 passer Liu Fengxuan : 15620
+68 passer Liu Fengxuan : 15696
+Asker Huang Zhijun : 15821
+370 passer Liu Fengxuan : 15920
+83 passer Liu Fengxuan : 16241
+138 passer Liu Fengxuan : 16846
+206 passer Liven Pan : 16929
+206 passer Liven Pan : 16929
+Asker Lin Chunan : 17298
+Asker Guan Ai Wu : 17381
+69 passer Liu Fengxuan : 17435
+Asker Liu Ting Yi : 17441
+Asker Huang Han : 17504
+355 passer Liu Fengxuan : 17778
+Asker High Ze Quan : 18666
+Asker Liven Pan : 19478
+Asker Lin Chunan : 19828
+Asker Su Yang Xi : 20647
+Asker Song Pei Hoon : 20770
+129 passer Liu Fengxuan : 20830
+Asker Kang Mingxi : 21057
+Asker Howard Hsu : 21083
+356 passer Liu Fengxuan : 21114
+Asker Chen Yi Ling : 21199
+Asker Huang Zhijun : 21393
+Asker Huang Han : 21418
+Asker Harry Chen : 21465
+Asker Wu Chenxi : 21558
+Asker Winnie Chang : 21768
+Asker Liu Yi Ning : 21821
+371 passer Deng Yizhen : 21890
+Asker Kang Mingxi : 22041
+Asker High Ze Quan : 22130
+Asker Deng Yizhen : 22388
+Asker Chen Yi Ling : 22994
+Asker Chang Chun Peng : 23015
+Asker Weng Zaihao : 23130
+Asker Hung Yu Heng : 23166
+Asker Stephanie Kao : 23319
+Asker Deng Yizhen : 23342
+Asker Liu Ting Yi : 23559
+Asker Song Pei Hoon : 23824
+Asker Huang Tingbai : 24385
+Asker Qiu Italian View : 24665
+Asker Lin Chunan : 24764
+Asker Qiu Italian View : 24876
+419 passer Winnie Chang : 25430
+419 passer Winnie Chang : 25430
+419 passer Winnie Chang : 25430
+419 passer Winnie Chang : 25430
+Asker High Ze Quan : 25663
+48 passer Winnie Chang : 25924
+48 passer Winnie Chang : 25924
+48 passer Winnie Chang : 25924
+48 passer Winnie Chang : 25924
+Asker Zhang Liangwei : 26091
+Asker Zhang Qi : 26094
+Asker Song Pei Hoon : 26239
+313 passer Winnie Chang : 26826
+313 passer Winnie Chang : 26826
+313 passer Winnie Chang : 26826
+313 passer Winnie Chang : 26826
+Asker Andy Chung : 26853
+Asker Liuling Jun : 26893
+Asker Lin Zonghan : 27015
+Asker Bai Li Jian : 27372
+372 passer Deng Yizhen : 27432
+420 passer Winnie Chang : 27463
+420 passer Winnie Chang : 27463
+420 passer Winnie Chang : 27463
+420 passer Winnie Chang : 27463
+49 passer Winnie Chang : 27669
+49 passer Winnie Chang : 27669
+49 passer Winnie Chang : 27669
+49 passer Winnie Chang : 27669
+421 passer Winnie Chang : 28097
+421 passer Winnie Chang : 28097
+421 passer Winnie Chang : 28097
+421 passer Winnie Chang : 28097
+417 passer Winnie Chang : 28117
+417 passer Winnie Chang : 28117
+417 passer Winnie Chang : 28117
+417 passer Winnie Chang : 28117
+422 passer Winnie Chang : 28325
+422 passer Winnie Chang : 28325
+422 passer Winnie Chang : 28325
+422 passer Winnie Chang : 28325
+Asker Peng Wei Wang : 28354
+418 passer Winnie Chang : 28370
+418 passer Winnie Chang : 28370
+418 passer Winnie Chang : 28370
+418 passer Winnie Chang : 28370
+Asker Winnie Chang : 28527
+423 passer Winnie Chang : 28536
+423 passer Winnie Chang : 28536
+423 passer Winnie Chang : 28536
+423 passer Winnie Chang : 28536
+416 passer Winnie Chang : 28737
+416 passer Winnie Chang : 28737
+416 passer Winnie Chang : 28737
+416 passer Winnie Chang : 28737
+Asker Xiang Yang Min : 28808
+339 passer Wen Shi Kai : 28945
+339 passer Wen Shi Kai : 28945
+339 passer Wen Shi Kai : 28945
+339 passer Wen Shi Kai : 28945
+Asker Yang Hyun Christine : 29280
+Asker Kang Mingxi : 29340
+93 passer Weng Zaihao : 29351
+93 passer Weng Zaihao : 29351
+93 passer Weng Zaihao : 29351
+67 passer Weng Zaihao : 29529
+67 passer Weng Zaihao : 29529
+Asker Alex Chiang : 29693
+68 passer Weng Zaihao : 30096
+68 passer Weng Zaihao : 30096
+11 passer Weng Zaihao : 30254
+Asker Lin Zhen : 30326
+305 passer Wen Shi Kai : 30498
+305 passer Wen Shi Kai : 30498
+305 passer Wen Shi Kai : 30498
+305 passer Wen Shi Kai : 30498
+Asker Yang Junwei : 30703
+28 passer Weng Zaihao : 30763
+28 passer Weng Zaihao : 30763
+Asker Li Jingying : 31071
+138 passer Weng Zaihao : 31246
+Asker Jimmy Yuan : 31603
+Asker Bai Li Jian : 31678
+69 passer Weng Zaihao : 31835
+69 passer Weng Zaihao : 31835
+Asker Yang Junwei : 31882
+29 passer Weng Zaihao : 31942
+29 passer Weng Zaihao : 31942
+94 passer Weng Zaihao : 31943
+94 passer Weng Zaihao : 31943
+94 passer Weng Zaihao : 31943
+Asker Chang Chun Peng : 31965
+Asker Chen Yi Ling : 32034
+10 passer Weng Zaihao : 32059
+12 passer Weng Zaihao : 32094
+Asker Li Jingying : 32234
+Asker Wong Yang : 32238
+289 passer Weng Zaihao : 32248
+Asker Chenjia Ru : 32251
+340 passer Wen Shi Kai : 32298
+340 passer Wen Shi Kai : 32298
+340 passer Wen Shi Kai : 32298
+340 passer Wen Shi Kai : 32298
+Asker Huang Zhenting : 32376
+Asker Winnie Chang : 32392
+17 passer Lin Zhen : 32597
+17 passer Lin Zhen : 32597
+17 passer Lin Zhen : 32597
+17 passer Lin Zhen : 32597
+321 passer Jimmy Yuan : 32628
+218 answerer Zou Yun Yun : 32643
+Asker Guan Ai Wu : 32678
+245 passer Jimmy Yuan : 32681
+245 passer Jimmy Yuan : 32681
+245 passer Jimmy Yuan : 32681
+245 passer Jimmy Yuan : 32681
+321 answerer Zou Yun Yun : 32688
+419 passer Jimmy Yuan : 32690
+371 passer High Ze Quan : 32690
+371 answerer Zou Yun Yun : 32735
+259 answerer Zou Yun Yun : 32738
+349 passer Chen Weijun : 32738
+349 passer Chen Weijun : 32738
+349 passer Chen Weijun : 32738
+349 passer Chen Weijun : 32738
+245 passer Zou Yun Yun : 32741
+245 passer Zou Yun Yun : 32741
+245 answerer Zou Yun Yun : 32741
+245 passer Zou Yun Yun : 32741
+419 answerer Zou Yun Yun : 32750
+219 answerer Zou Yun Yun : 32781
+349 passer Liu Fengxuan : 32798
+349 answerer Zou Yun Yun : 32843
+0 passer Jimmy Yuan : 32847
+Asker Li Yuzhe : 32852
+258 answerer Zou Yun Yun : 32872
+357 passer Liu Fengxuan : 32898
+0 answerer Zou Yun Yun : 32907
+411 passer Chen Weijun : 32912
+411 passer Chen Weijun : 32912
+411 passer Chen Weijun : 32912
+411 passer Chen Weijun : 32912
+394 answerer Zou Yun Yun : 32923
+Asker Andy Chung : 32935
+183 answerer Zou Yun Yun : 32940
+357 answerer Zou Yun Yun : 32943
+411 passer Liu Fengxuan : 32972
+393 answerer Zou Yun Yun : 32990
+358 passer Liu Fengxuan : 32997
+93 answerer Zou Yun Yun : 33011
+211 passer Jimmy Yuan : 33012
+211 passer Jimmy Yuan : 33012
+211 passer Jimmy Yuan : 33012
+211 passer Jimmy Yuan : 33012
+411 answerer Zou Yun Yun : 33017
+Asker Liu Yi Ning : 33036
+358 answerer Zou Yun Yun : 33042
+211 passer Zou Yun Yun : 33072
+211 passer Zou Yun Yun : 33072
+211 answerer Zou Yun Yun : 33072
+211 passer Zou Yun Yun : 33072
+246 passer Jimmy Yuan : 33096
+246 passer Jimmy Yuan : 33096
+246 passer Jimmy Yuan : 33096
+246 passer Jimmy Yuan : 33096
+392 answerer Zou Yun Yun : 33126
+246 passer Zou Yun Yun : 33156
+246 passer Zou Yun Yun : 33156
+246 answerer Zou Yun Yun : 33156
+246 passer Zou Yun Yun : 33156
+Asker Peng Wei Wang : 33165
+67 answerer Zou Yun Yun : 33174
+48 passer Jimmy Yuan : 33184
+155 passer Jimmy Yuan : 33190
+155 passer Jimmy Yuan : 33190
+155 passer Jimmy Yuan : 33190
+155 passer Jimmy Yuan : 33190
+22 passer Lin Zhen : 33199
+22 passer Lin Zhen : 33199
+22 passer Lin Zhen : 33199
+22 passer Lin Zhen : 33199
+24 passer Lin Zhen : 33225
+24 passer Lin Zhen : 33225
+24 passer Lin Zhen : 33225
+24 passer Lin Zhen : 33225
+48 answerer Zou Yun Yun : 33244
+155 passer Zou Yun Yun : 33250
+155 passer Zou Yun Yun : 33250
+155 answerer Zou Yun Yun : 33250
+155 passer Zou Yun Yun : 33250
+189 answerer Zou Yun Yun : 33285
+275 answerer Zou Yun Yun : 33300
+Asker Zhong Jiajun : 33321
+391 answerer Zou Yun Yun : 33376
+131 passer Liu Fengxuan : 33499
+331 answerer Zou Yun Yun : 33523
+131 answerer Zou Yun Yun : 33544
+172 passer Lin Zhen : 33571
+172 passer Lin Zhen : 33571
+172 passer Lin Zhen : 33571
+172 passer Lin Zhen : 33571
+205 answerer Zou Yun Yun : 33623
+188 answerer Zou Yun Yun : 33643
+320 passer Jimmy Yuan : 33662
+128 answerer Zou Yun Yun : 33665
+410 passer Chen Weijun : 33713
+410 passer Chen Weijun : 33713
+410 passer Chen Weijun : 33713
+410 passer Chen Weijun : 33713
+229 answerer Zou Yun Yun : 33716
+320 answerer Zou Yun Yun : 33722
+68 answerer Zou Yun Yun : 33741
+410 passer Liu Fengxuan : 33773
+Asker Li Yuzhe : 33803
+410 answerer Zou Yun Yun : 33818
+409 passer Chen Weijun : 33837
+409 passer Chen Weijun : 33837
+409 passer Chen Weijun : 33837
+409 passer Chen Weijun : 33837
+Asker Bai Li Jian : 33843
+11 answerer Zou Yun Yun : 33854
+412 passer Chen Weijun : 33863
+412 passer Chen Weijun : 33863
+412 passer Chen Weijun : 33863
+412 passer Chen Weijun : 33863
+Asker Xiang Yang Min : 33878
+409 passer Liu Fengxuan : 33897
+374 passer Liu Fengxuan : 33903
+374 passer High Ze Quan : 33903
+102 answerer Zou Yun Yun : 33908
+102 passer Zou Yun Yun : 33908
+Asker High Ze Quan : 33923
+103 answerer Zou Yun Yun : 33923
+103 passer Zou Yun Yun : 33923
+412 passer Liu Fengxuan : 33923
+409 answerer Zou Yun Yun : 33942
+374 answerer Zou Yun Yun : 33948
+370 answerer Zou Yun Yun : 33965
+412 answerer Zou Yun Yun : 33968
+395 answerer Zou Yun Yun : 33983
+190 answerer Zou Yun Yun : 33990
+101 answerer Zou Yun Yun : 34038
+101 passer Zou Yun Yun : 34038
+313 passer Jimmy Yuan : 34086
+313 answerer Zou Yun Yun : 34146
+260 answerer Zou Yun Yun : 34153
+156 passer Jimmy Yuan : 34179
+156 passer Jimmy Yuan : 34179
+156 passer Jimmy Yuan : 34179
+156 passer Jimmy Yuan : 34179
+287 answerer Zou Yun Yun : 34204
+156 passer Zou Yun Yun : 34239
+156 passer Zou Yun Yun : 34239
+156 answerer Zou Yun Yun : 34239
+156 passer Zou Yun Yun : 34239
+5 passer Zou Yun Yun : 34266
+5 passer Zou Yun Yun : 34266
+5 answerer Zou Yun Yun : 34266
+5 passer Zou Yun Yun : 34266
+182 answerer Zou Yun Yun : 34343
+237 answerer Zou Yun Yun : 34343
+28 passer Liu Fengxuan : 34363
+28 passer Liu Fengxuan : 34363
+28 answerer Zou Yun Yun : 34408
+386 passer Jimmy Yuan : 34419
+386 passer Jimmy Yuan : 34419
+386 passer Jimmy Yuan : 34419
+386 passer Jimmy Yuan : 34419
+187 answerer Zou Yun Yun : 34423
+386 passer Zou Yun Yun : 34479
+386 passer Zou Yun Yun : 34479
+386 answerer Zou Yun Yun : 34479
+386 passer Zou Yun Yun : 34479
+Asker Guan Ai Wu : 34629
+372 passer Liu Fengxuan : 34632
+372 passer High Ze Quan : 34632
+372 answerer Zou Yun Yun : 34677
+130 passer Liu Fengxuan : 34684
+350 passer Chen Weijun : 34689
+350 passer Chen Weijun : 34689
+350 passer Chen Weijun : 34689
+350 passer Chen Weijun : 34689
+420 passer Jimmy Yuan : 34723
+130 answerer Zou Yun Yun : 34729
+74 passer Jimmy Yuan : 34731
+74 passer Jimmy Yuan : 34731
+74 passer Jimmy Yuan : 34731
+74 passer Jimmy Yuan : 34731
+43 answerer Zou Yun Yun : 34738
+350 passer Liu Fengxuan : 34749
+420 answerer Zou Yun Yun : 34783
+74 passer Zou Yun Yun : 34791
+74 passer Zou Yun Yun : 34791
+74 answerer Zou Yun Yun : 34791
+74 passer Zou Yun Yun : 34791
+350 answerer Zou Yun Yun : 34794
+Asker Hung Yu Heng : 34842
+138 answerer Zou Yun Yun : 34891
+49 passer Jimmy Yuan : 34929
+206 answerer Zou Yun Yun : 34974
+49 answerer Zou Yun Yun : 34989
+73 passer Jimmy Yuan : 35016
+73 passer Jimmy Yuan : 35016
+73 passer Jimmy Yuan : 35016
+73 passer Jimmy Yuan : 35016
+150 passer Jimmy Yuan : 35056
+150 passer Jimmy Yuan : 35056
+150 passer Jimmy Yuan : 35056
+150 passer Jimmy Yuan : 35056
+73 passer Zou Yun Yun : 35076
+73 passer Zou Yun Yun : 35076
+73 answerer Zou Yun Yun : 35076
+73 passer Zou Yun Yun : 35076
+Asker Zhang Qi : 35089
+150 passer Zou Yun Yun : 35116
+150 passer Zou Yun Yun : 35116
+150 answerer Zou Yun Yun : 35116
+150 passer Zou Yun Yun : 35116
+311 answerer Zou Yun Yun : 35245
+6 passer Zou Yun Yun : 35263
+6 passer Zou Yun Yun : 35263
+6 answerer Zou Yun Yun : 35263
+6 passer Zou Yun Yun : 35263
+129 answerer Zou Yun Yun : 35275
+373 passer Liu Fengxuan : 35338
+373 passer High Ze Quan : 35338
+347 passer Chen Weijun : 35354
+347 passer Chen Weijun : 35354
+347 passer Chen Weijun : 35354
+347 passer Chen Weijun : 35354
+421 passer Jimmy Yuan : 35357
+417 passer Jimmy Yuan : 35377
+373 answerer Zou Yun Yun : 35383
+347 passer Liu Fengxuan : 35414
+421 answerer Zou Yun Yun : 35417
+417 answerer Zou Yun Yun : 35437
+348 passer Chen Weijun : 35441
+348 passer Chen Weijun : 35441
+348 passer Chen Weijun : 35441
+348 passer Chen Weijun : 35441
+347 answerer Zou Yun Yun : 35459
+69 answerer Zou Yun Yun : 35480
+319 passer Jimmy Yuan : 35494
+348 passer Liu Fengxuan : 35501
+385 passer Jimmy Yuan : 35501
+385 passer Jimmy Yuan : 35501
+385 passer Jimmy Yuan : 35501
+385 passer Jimmy Yuan : 35501
+Asker Qiu Italian View : 35511
+Asker Lin Chunan : 35527
+29 passer Liu Fengxuan : 35542
+29 passer Liu Fengxuan : 35542
+348 answerer Zou Yun Yun : 35546
+319 answerer Zou Yun Yun : 35554
+356 answerer Zou Yun Yun : 35559
+385 passer Zou Yun Yun : 35561
+385 passer Zou Yun Yun : 35561
+385 answerer Zou Yun Yun : 35561
+385 passer Zou Yun Yun : 35561
+422 passer Jimmy Yuan : 35585
+29 answerer Zou Yun Yun : 35587
+94 answerer Zou Yun Yun : 35603
+23 passer Lin Zhen : 35614
+23 passer Lin Zhen : 35614
+23 passer Lin Zhen : 35614
+23 passer Lin Zhen : 35614
+418 passer Jimmy Yuan : 35630
+422 answerer Zou Yun Yun : 35645
+10 answerer Zou Yun Yun : 35659
+288 answerer Zou Yun Yun : 35677
+418 answerer Zou Yun Yun : 35690
+12 answerer Zou Yun Yun : 35694
+181 answerer Zou Yun Yun : 35749
+322 passer Jimmy Yuan : 35787
+423 passer Jimmy Yuan : 35796
+355 answerer Zou Yun Yun : 35823
+322 answerer Zou Yun Yun : 35847
+423 answerer Zou Yun Yun : 35856
+289 answerer Zou Yun Yun : 35863
+75 passer Jimmy Yuan : 35894
+75 passer Jimmy Yuan : 35894
+75 passer Jimmy Yuan : 35894
+75 passer Jimmy Yuan : 35894
+18 passer Lin Zhen : 35925
+18 passer Lin Zhen : 35925
+18 passer Lin Zhen : 35925
+18 passer Lin Zhen : 35925
+Asker Guan Ai Wu : 35933
+75 passer Zou Yun Yun : 35954
+75 passer Zou Yun Yun : 35954
+75 answerer Zou Yun Yun : 35954
+75 passer Zou Yun Yun : 35954
+351 passer Chen Weijun : 35993
+351 passer Chen Weijun : 35993
+351 passer Chen Weijun : 35993
+351 passer Chen Weijun : 35993
+416 passer Jimmy Yuan : 35997
+173 passer Lin Zhen : 36018
+173 passer Lin Zhen : 36018
+173 passer Lin Zhen : 36018
+173 passer Lin Zhen : 36018
+86 passer Chen Weijun : 36036
+86 passer Chen Weijun : 36036
+86 passer Chen Weijun : 36036
+86 passer Chen Weijun : 36036
+151 passer Jimmy Yuan : 36037
+151 passer Jimmy Yuan : 36037
+151 passer Jimmy Yuan : 36037
+151 passer Jimmy Yuan : 36037
+Asker Carisa Hung : 36041
+323 passer Jimmy Yuan : 36052
+351 passer Liu Fengxuan : 36053
+416 answerer Zou Yun Yun : 36057
+173 passer Zhong Xuan can : 36063
+173 passer Zhong Xuan can : 36063
+173 passer Zhong Xuan can : 36063
+173 passer Zhong Xuan can : 36063
+Asker Wen Shi Kai : 36081
+86 passer Fuzi Rui : 36096
+86 answerer Fuzi Rui : 36096
+86 passer Liu Fengxuan : 36096
+86 answerer Liao Xun weight : 36096
+299 passer Wen Shi Kai : 36101
+299 passer Wen Shi Kai : 36101
+299 passer Wen Shi Kai : 36101
+299 passer Wen Shi Kai : 36101
+Asker Wu Chenxi : 36132
+402 passer Zhang Yan Yu : 36141
+402 passer Zhang Yan Yu : 36141
+402 passer Zhang Yan Yu : 36141
+402 passer Zhang Yan Yu : 36141
+299 passer Zhang Yan Yu : 36161
+299 passer Zhang Yan Yu : 36161
+299 passer Zhang Yan Yu : 36161
+299 passer Zhang Yan Yu : 36161
+339 passer Zhang Yan Yu : 36205
+339 passer Zhang Yan Yu : 36205
+339 passer Zhang Yan Yu : 36205
+339 passer Zhang Yan Yu : 36205
+17 passer Zhong Xuan can : 36242
+17 passer Zhong Xuan can : 36242
+17 passer Zhong Xuan can : 36242
+17 passer Zhong Xuan can : 36242
+371 passer Chenjia Ru : 36290
+371 answerer Fuzi Rui : 36335
+259 answerer Fuzi Rui : 36338
+259 answerer Liao Xun weight : 36338
+371 answerer Liao Xun weight : 36350
+349 passer Fuzi Rui : 36398
+349 answerer Fuzi Rui : 36398
+349 answerer Liao Xun weight : 36398
+245 answerer Fuzi Rui : 36401
+245 answerer Liao Xun weight : 36401
+82 answerer Liao Xun weight : 36427
+258 answerer Liao Xun weight : 36472
+357 passer Fuzi Rui : 36498
+357 answerer Fuzi Rui : 36498
+357 answerer Liao Xun weight : 36498
+0 answerer Liao Xun weight : 36507
+394 passer Fuzi Rui : 36523
+394 answerer Fuzi Rui : 36523
+394 answerer Liao Xun weight : 36523
+183 answerer Fuzi Rui : 36525
+183 answerer Liao Xun weight : 36540
+432 passer Zhong Xuan can : 36543
+432 passer Zhong Xuan can : 36543
+432 passer Zhong Xuan can : 36543
+432 passer Zhong Xuan can : 36543
+144 passer Zhang Yan Yu : 36569
+144 passer Zhang Yan Yu : 36569
+144 passer Zhang Yan Yu : 36569
+144 passer Zhang Yan Yu : 36569
+411 passer Fuzi Rui : 36572
+411 answerer Fuzi Rui : 36572
+411 answerer Liao Xun weight : 36572
+306 passer Wen Shi Kai : 36580
+306 passer Wen Shi Kai : 36580
+306 passer Wen Shi Kai : 36580
+306 passer Wen Shi Kai : 36580
+393 passer Fuzi Rui : 36590
+393 answerer Fuzi Rui : 36590
+393 answerer Liao Xun weight : 36590
+93 answerer Fuzi Rui : 36596
+358 passer Fuzi Rui : 36597
+358 answerer Fuzi Rui : 36597
+358 answerer Liao Xun weight : 36597
+306 passer Zhang Yan Yu : 36640
+306 passer Zhang Yan Yu : 36640
+306 passer Zhang Yan Yu : 36640
+306 passer Zhang Yan Yu : 36640
+434 passer Zhong Xuan can : 36672
+434 passer Zhong Xuan can : 36672
+434 passer Zhong Xuan can : 36672
+434 passer Zhong Xuan can : 36672
+Asker Yun Yun Tsai : 36697
+392 passer Fuzi Rui : 36726
+392 answerer Fuzi Rui : 36726
+392 answerer Liao Xun weight : 36726
+67 answerer Liao Xun weight : 36729
+211 answerer Fuzi Rui : 36732
+211 answerer Liao Xun weight : 36732
+44 passer Fuzi Rui : 36757
+44 answerer Fuzi Rui : 36757
+44 answerer Liao Xun weight : 36757
+67 answerer Fuzi Rui : 36774
+246 answerer Fuzi Rui : 36816
+246 answerer Liao Xun weight : 36816
+332 passer Fuzi Rui : 36833
+332 answerer Fuzi Rui : 36833
+332 passer Fuzi Rui : 36833
+22 passer Zhong Xuan can : 36844
+22 passer Zhong Xuan can : 36844
+22 passer Zhong Xuan can : 36844
+22 passer Zhong Xuan can : 36844
+332 answerer Liao Xun weight : 36848
+189 answerer Fuzi Rui : 36870
+189 passer Fuzi Rui : 36870
+24 passer Zhong Xuan can : 36870
+24 passer Zhong Xuan can : 36870
+24 passer Zhong Xuan can : 36870
+24 passer Zhong Xuan can : 36870
+155 answerer Fuzi Rui : 36910
+155 answerer Liao Xun weight : 36910
+275 answerer Liao Xun weight : 36915
+189 answerer Liao Xun weight : 36930
+53 passer Chenjia Ru : 36953
+60 passer Andy Chung : 36954
+60 passer Andy Chung : 36954
+60 passer Andy Chung : 36954
+60 passer Andy Chung : 36954
+391 answerer Liao Xun weight : 36976
+60 passer Wen Shi Kai : 36999
+60 passer Wen Shi Kai : 36999
+60 passer Wen Shi Kai : 36999
+60 passer Wen Shi Kai : 36999
+60 passer Zhang Yan Yu : 37059
+60 passer Zhang Yan Yu : 37059
+60 passer Zhang Yan Yu : 37059
+60 passer Zhang Yan Yu : 37059
+331 answerer Liao Xun weight : 37078
+Asker Yushi Yeap : 37094
+131 passer Fuzi Rui : 37099
+131 answerer Fuzi Rui : 37099
+131 answerer Liao Xun weight : 37099
+303 passer Zhang Yan Yu : 37108
+303 passer Zhang Yan Yu : 37108
+303 passer Zhang Yan Yu : 37108
+303 passer Zhang Yan Yu : 37108
+172 passer Zhong Xuan can : 37216
+172 passer Zhong Xuan can : 37216
+172 passer Zhong Xuan can : 37216
+172 passer Zhong Xuan can : 37216
+128 answerer Liao Xun weight : 37220
+229 answerer Liao Xun weight : 37256
+188 answerer Liao Xun weight : 37288
+68 answerer Liao Xun weight : 37296
+68 answerer Fuzi Rui : 37341
+410 passer Fuzi Rui : 37373
+410 answerer Fuzi Rui : 37373
+410 answerer Liao Xun weight : 37373
+Asker Chenjia Ru : 37374
+200 answerer Fuzi Rui : 37434
+200 answerer Liao Xun weight : 37434
+11 answerer Fuzi Rui : 37439
+11 answerer Liao Xun weight : 37454
+145 passer Zhang Yan Yu : 37475
+145 passer Zhang Yan Yu : 37475
+145 passer Zhang Yan Yu : 37475
+145 passer Zhang Yan Yu : 37475
+409 passer Fuzi Rui : 37497
+409 answerer Fuzi Rui : 37497
+409 answerer Liao Xun weight : 37497
+374 passer Chenjia Ru : 37503
+412 passer Fuzi Rui : 37523
+412 answerer Fuzi Rui : 37523
+412 answerer Liao Xun weight : 37523
+374 answerer Liao Xun weight : 37563
+102 answerer Liao Xun weight : 37568
+435 passer Zhong Xuan can : 37571
+435 passer Zhong Xuan can : 37571
+435 passer Zhong Xuan can : 37571
+435 passer Zhong Xuan can : 37571
+190 answerer Fuzi Rui : 37575
+190 passer Fuzi Rui : 37575
+370 answerer Liao Xun weight : 37580
+Asker Lizi Xuan : 37582
+103 answerer Liao Xun weight : 37583
+395 passer Fuzi Rui : 37583
+395 answerer Fuzi Rui : 37583
+395 answerer Liao Xun weight : 37583
+268 answerer Fuzi Rui : 37627
+190 answerer Liao Xun weight : 37635
+268 answerer Liao Xun weight : 37642
+Asker Lin Wan Xuan : 37688
+101 answerer Liao Xun weight : 37698
+442 passer Yushi Yeap : 37708
+442 passer Yushi Yeap : 37708
+442 passer Yushi Yeap : 37708
+442 passer Yushi Yeap : 37708
+238 passer Fuzi Rui : 37748
+238 answerer Fuzi Rui : 37748
+238 answerer Liao Xun weight : 37748
+260 answerer Fuzi Rui : 37753
+260 answerer Liao Xun weight : 37753
+305 passer Zhang Yan Yu : 37758
+305 passer Zhang Yan Yu : 37758
+305 passer Zhang Yan Yu : 37758
+305 passer Zhang Yan Yu : 37758
+400 passer Zhang Yan Yu : 37773
+400 passer Zhang Yan Yu : 37773
+400 passer Zhang Yan Yu : 37773
+400 passer Zhang Yan Yu : 37773
+333 passer Fuzi Rui : 37787
+333 answerer Fuzi Rui : 37787
+333 passer Fuzi Rui : 37787
+333 answerer Liao Xun weight : 37802
+287 answerer Liao Xun weight : 37804
+83 answerer Liao Xun weight : 37856
+165 passer Chenjia Ru : 37866
+165 passer Chenjia Ru : 37866
+165 passer Chenjia Ru : 37866
+165 passer Chenjia Ru : 37866
+230 answerer Fuzi Rui : 37875
+230 passer Fuzi Rui : 37875
+230 answerer Liao Xun weight : 37875
+156 answerer Fuzi Rui : 37899
+156 answerer Liao Xun weight : 37899
+5 answerer Fuzi Rui : 37926
+5 answerer Liao Xun weight : 37926
+165 answerer Fuzi Rui : 37926
+165 answerer Liao Xun weight : 37926
+182 answerer Liao Xun weight : 37943
+237 answerer Liao Xun weight : 37943
+28 answerer Fuzi Rui : 38008
+28 answerer Liao Xun weight : 38023
+Asker Chen Yi Ling : 38037
+187 answerer Liao Xun weight : 38068
+13 answerer Fuzi Rui : 38082
+13 answerer Liao Xun weight : 38097
+386 answerer Fuzi Rui : 38139
+386 answerer Liao Xun weight : 38139
+59 passer Andy Chung : 38186
+59 passer Andy Chung : 38186
+59 passer Andy Chung : 38186
+59 passer Andy Chung : 38186
+198 answerer Liao Xun weight : 38199
+115 passer Zhang Yan Yu : 38203
+115 passer Zhang Yan Yu : 38203
+115 passer Zhang Yan Yu : 38203
+115 passer Zhang Yan Yu : 38203
+59 passer Wen Shi Kai : 38231
+59 passer Wen Shi Kai : 38231
+59 passer Wen Shi Kai : 38231
+59 passer Wen Shi Kai : 38231
+372 passer Chenjia Ru : 38232
+Asker Yun Yun Tsai : 38253
+372 answerer Fuzi Rui : 38277
+130 passer Fuzi Rui : 38284
+130 answerer Fuzi Rui : 38284
+130 answerer Liao Xun weight : 38284
+59 passer Zhang Yan Yu : 38291
+59 passer Zhang Yan Yu : 38291
+59 passer Zhang Yan Yu : 38291
+59 passer Zhang Yan Yu : 38291
+372 answerer Liao Xun weight : 38292
+45 passer Fuzi Rui : 38313
+45 answerer Fuzi Rui : 38313
+45 answerer Liao Xun weight : 38313
+43 answerer Liao Xun weight : 38338
+350 passer Fuzi Rui : 38349
+350 answerer Fuzi Rui : 38349
+350 answerer Liao Xun weight : 38349
+138 passer Chenjia Ru : 38446
+138 passer Chenjia Ru : 38446
+74 answerer Fuzi Rui : 38451
+74 answerer Liao Xun weight : 38451
+Asker Wen Shi Kai : 38452
+Asker Zhong Jiajun : 38468
+138 answerer Fuzi Rui : 38491
+138 answerer Liao Xun weight : 38506
+403 passer Zhang Yan Yu : 38512
+403 passer Zhang Yan Yu : 38512
+403 passer Zhang Yan Yu : 38512
+403 passer Zhang Yan Yu : 38512
+443 passer Yushi Yeap : 38707
+443 passer Yushi Yeap : 38707
+443 passer Yushi Yeap : 38707
+443 passer Yushi Yeap : 38707
+164 answerer Liao Xun weight : 38733
+73 answerer Fuzi Rui : 38736
+73 answerer Liao Xun weight : 38736
+61 passer Andy Chung : 38749
+61 passer Andy Chung : 38749
+61 passer Andy Chung : 38749
+61 passer Andy Chung : 38749
+401 passer Zhang Yan Yu : 38760
+401 passer Zhang Yan Yu : 38760
+401 passer Zhang Yan Yu : 38760
+401 passer Zhang Yan Yu : 38760
+150 answerer Fuzi Rui : 38776
+150 answerer Liao Xun weight : 38776
+61 passer Wen Shi Kai : 38794
+61 passer Wen Shi Kai : 38794
+61 passer Wen Shi Kai : 38794
+61 passer Wen Shi Kai : 38794
+129 passer Fuzi Rui : 38830
+129 answerer Fuzi Rui : 38830
+129 answerer Liao Xun weight : 38830
+311 answerer Fuzi Rui : 38830
+311 answerer Liao Xun weight : 38845
+61 passer Zhang Yan Yu : 38854
+61 passer Zhang Yan Yu : 38854
+61 passer Zhang Yan Yu : 38854
+61 passer Zhang Yan Yu : 38854
+6 answerer Fuzi Rui : 38923
+6 answerer Liao Xun weight : 38923
+373 passer Chenjia Ru : 38938
+373 answerer Liao Xun weight : 38998
+347 passer Fuzi Rui : 39014
+347 answerer Fuzi Rui : 39014
+347 answerer Liao Xun weight : 39014
+338 passer Zhang Yan Yu : 39033
+338 passer Zhang Yan Yu : 39033
+338 passer Zhang Yan Yu : 39033
+338 passer Zhang Yan Yu : 39033
+69 answerer Liao Xun weight : 39035
+Asker Huang Zhenting : 39068
+304 passer Zhang Yan Yu : 39077
+304 passer Zhang Yan Yu : 39077
+304 passer Zhang Yan Yu : 39077
+304 passer Zhang Yan Yu : 39077
+69 answerer Fuzi Rui : 39080
+348 passer Fuzi Rui : 39101
+348 answerer Fuzi Rui : 39101
+348 answerer Liao Xun weight : 39101
+356 passer Fuzi Rui : 39114
+356 answerer Fuzi Rui : 39114
+356 answerer Liao Xun weight : 39114
+433 passer Zhong Xuan can : 39129
+433 passer Zhong Xuan can : 39129
+433 passer Zhong Xuan can : 39129
+433 passer Zhong Xuan can : 39129
+319 answerer Liao Xun weight : 39154
+166 passer Chenjia Ru : 39164
+166 passer Chenjia Ru : 39164
+166 passer Chenjia Ru : 39164
+166 passer Chenjia Ru : 39164
+38 passer Zhang Yan Yu : 39178
+38 passer Zhang Yan Yu : 39178
+38 passer Zhang Yan Yu : 39178
+38 passer Zhang Yan Yu : 39178
+29 answerer Fuzi Rui : 39187
+94 answerer Fuzi Rui : 39188
+29 answerer Liao Xun weight : 39202
+385 answerer Fuzi Rui : 39221
+385 answerer Liao Xun weight : 39221
+166 answerer Fuzi Rui : 39224
+166 answerer Liao Xun weight : 39224
+146 passer Zhang Yan Yu : 39225
+146 passer Zhang Yan Yu : 39225
+146 passer Zhang Yan Yu : 39225
+146 passer Zhang Yan Yu : 39225
+10 answerer Fuzi Rui : 39244
+10 answerer Liao Xun weight : 39259
+23 passer Zhong Xuan can : 39259
+23 passer Zhong Xuan can : 39259
+23 passer Zhong Xuan can : 39259
+23 passer Zhong Xuan can : 39259
+288 answerer Liao Xun weight : 39277
+12 answerer Fuzi Rui : 39279
+12 answerer Liao Xun weight : 39294
+181 answerer Liao Xun weight : 39349
+Asker Liven Pan : 39374
+355 answerer Liao Xun weight : 39378
+289 answerer Liao Xun weight : 39463
+167 passer Chenjia Ru : 39478
+167 passer Chenjia Ru : 39478
+167 passer Chenjia Ru : 39478
+167 passer Chenjia Ru : 39478
+199 answerer Fuzi Rui : 39511
+199 answerer Liao Xun weight : 39511
+167 answerer Fuzi Rui : 39538
+167 answerer Liao Xun weight : 39538
+340 passer Zhang Yan Yu : 39558
+340 passer Zhang Yan Yu : 39558
+340 passer Zhang Yan Yu : 39558
+340 passer Zhang Yan Yu : 39558
+18 passer Zhong Xuan can : 39570
+18 passer Zhong Xuan can : 39570
+18 passer Zhong Xuan can : 39570
+18 passer Zhong Xuan can : 39570
+75 answerer Fuzi Rui : 39614
+75 answerer Liao Xun weight : 39614
+351 passer Fuzi Rui : 39653
+351 answerer Fuzi Rui : 39653
+351 answerer Liao Xun weight : 39653
+151 passer Zou Yun Yun : 39697
+151 passer Zou Yun Yun : 39697
+151 answerer Zou Yun Yun : 39697
+151 passer Zou Yun Yun : 39697
+351 answerer Chen Yi Ling : 39698
+351 answerer Zou Yun Yun : 39698
+323 answerer Zou Yun Yun : 39712
+173 passer Jimmy Yuan : 39723
+173 passer Jimmy Yuan : 39723
+173 passer Jimmy Yuan : 39723
+173 passer Jimmy Yuan : 39723
+86 answerer Chen Yi Ling : 39741
+86 answerer Zou Yun Yun : 39741
+151 answerer Chen Yi Ling : 39757
+173 passer Zou Yun Yun : 39783
+173 passer Zou Yun Yun : 39783
+173 answerer Zou Yun Yun : 39783
+173 passer Zou Yun Yun : 39783
+174 passer Lin Zhen : 39792
+174 passer Lin Zhen : 39792
+174 passer Lin Zhen : 39792
+174 passer Lin Zhen : 39792
+402 passer Jimmy Yuan : 39801
+402 passer Jimmy Yuan : 39801
+402 passer Jimmy Yuan : 39801
+402 passer Jimmy Yuan : 39801
+299 passer Jimmy Yuan : 39821
+299 passer Jimmy Yuan : 39821
+299 passer Jimmy Yuan : 39821
+299 passer Jimmy Yuan : 39821
+218 answerer Chen Yi Ling : 39843
+173 answerer Chen Yi Ling : 39843
+402 passer Zou Yun Yun : 39861
+402 passer Zou Yun Yun : 39861
+402 answerer Zou Yun Yun : 39861
+402 passer Zou Yun Yun : 39861
+339 passer Jimmy Yuan : 39865
+339 passer Jimmy Yuan : 39865
+339 passer Jimmy Yuan : 39865
+339 passer Jimmy Yuan : 39865
+299 passer Zou Yun Yun : 39881
+299 passer Zou Yun Yun : 39881
+299 answerer Zou Yun Yun : 39881
+299 passer Zou Yun Yun : 39881
+17 passer Jimmy Yuan : 39902
+17 passer Jimmy Yuan : 39902
+17 passer Jimmy Yuan : 39902
+17 passer Jimmy Yuan : 39902
+402 answerer Chen Yi Ling : 39921
+339 passer Zou Yun Yun : 39925
+339 passer Zou Yun Yun : 39925
+339 answerer Zou Yun Yun : 39925
+339 passer Zou Yun Yun : 39925
+371 answerer Chen Yi Ling : 39935
+259 answerer Chen Yi Ling : 39938
+299 answerer Chen Yi Ling : 39941
+17 passer Zou Yun Yun : 39962
+17 passer Zou Yun Yun : 39962
+17 answerer Zou Yun Yun : 39962
+17 passer Zou Yun Yun : 39962
+219 answerer Chen Yi Ling : 39981
+339 answerer Chen Yi Ling : 39985
+245 answerer Chen Yi Ling : 40001
+17 answerer Chen Yi Ling : 40022
+82 answerer Chen Yi Ling : 40027
+349 answerer Chen Yi Ling : 40043
+258 answerer Chen Yi Ling : 40072
+183 answerer Chen Yi Ling : 40125
+0 answerer Chen Yi Ling : 40137
+357 answerer Chen Yi Ling : 40143
+394 answerer Chen Yi Ling : 40168
+432 passer Jimmy Yuan : 40203
+432 passer Jimmy Yuan : 40203
+432 passer Jimmy Yuan : 40203
+432 passer Jimmy Yuan : 40203
+93 answerer Chen Yi Ling : 40211
+411 answerer Chen Yi Ling : 40217
+144 passer Jimmy Yuan : 40229
+144 passer Jimmy Yuan : 40229
+144 passer Jimmy Yuan : 40229
+144 passer Jimmy Yuan : 40229
+393 answerer Chen Yi Ling : 40235
+358 answerer Chen Yi Ling : 40242
+432 passer Zou Yun Yun : 40263
+432 passer Zou Yun Yun : 40263
+432 answerer Zou Yun Yun : 40263
+432 passer Zou Yun Yun : 40263
+144 passer Zou Yun Yun : 40289
+144 passer Zou Yun Yun : 40289
+144 answerer Zou Yun Yun : 40289
+144 passer Zou Yun Yun : 40289
+306 passer Jimmy Yuan : 40300
+306 passer Jimmy Yuan : 40300
+306 passer Jimmy Yuan : 40300
+306 passer Jimmy Yuan : 40300
+432 answerer Chen Yi Ling : 40323
+211 answerer Chen Yi Ling : 40332
+434 passer Jimmy Yuan : 40332
+434 passer Jimmy Yuan : 40332
+434 passer Jimmy Yuan : 40332
+434 passer Jimmy Yuan : 40332
+144 answerer Chen Yi Ling : 40349
+44 answerer Zou Yun Yun : 40357
+306 passer Zou Yun Yun : 40360
+306 passer Zou Yun Yun : 40360
+306 answerer Zou Yun Yun : 40360
+306 passer Zou Yun Yun : 40360
+392 answerer Chen Yi Ling : 40371
+67 answerer Chen Yi Ling : 40389
+434 passer Zou Yun Yun : 40392
+434 passer Zou Yun Yun : 40392
+434 answerer Zou Yun Yun : 40392
+434 passer Zou Yun Yun : 40392
+44 answerer Chen Yi Ling : 40402
+246 answerer Chen Yi Ling : 40416
+306 answerer Chen Yi Ling : 40420
+434 answerer Chen Yi Ling : 40452
+Asker Li Jingying : 40454
+332 answerer Chen Yi Ling : 40478
+Asker Liuling Jun : 40482
+189 answerer Chen Yi Ling : 40485
+332 answerer Zou Yun Yun : 40493
+22 passer Jimmy Yuan : 40504
+22 passer Jimmy Yuan : 40504
+22 passer Jimmy Yuan : 40504
+22 passer Jimmy Yuan : 40504
+155 answerer Chen Yi Ling : 40510
+76 passer Jimmy Yuan : 40514
+76 passer Jimmy Yuan : 40514
+76 passer Jimmy Yuan : 40514
+76 passer Jimmy Yuan : 40514
+275 answerer Chen Yi Ling : 40515
+24 passer Jimmy Yuan : 40530
+24 passer Jimmy Yuan : 40530
+24 passer Jimmy Yuan : 40530
+24 passer Jimmy Yuan : 40530
+261 answerer Chen Yi Ling : 40542
+261 answerer Zou Yun Yun : 40542
+53 passer Deng Yizhen : 40553
+53 passer Deng Yizhen : 40553
+53 passer Deng Yizhen : 40553
+22 passer Zou Yun Yun : 40564
+22 passer Zou Yun Yun : 40564
+22 answerer Zou Yun Yun : 40564
+22 passer Zou Yun Yun : 40564
+76 passer Zou Yun Yun : 40574
+76 passer Zou Yun Yun : 40574
+76 answerer Zou Yun Yun : 40574
+76 passer Zou Yun Yun : 40574
+24 passer Zou Yun Yun : 40590
+24 passer Zou Yun Yun : 40590
+24 answerer Zou Yun Yun : 40590
+24 passer Zou Yun Yun : 40590
+53 answerer Chen Yi Ling : 40598
+391 answerer Chen Yi Ling : 40621
+22 answerer Chen Yi Ling : 40624
+76 answerer Chen Yi Ling : 40634
+24 answerer Chen Yi Ling : 40650
+331 answerer Chen Yi Ling : 40708
+60 passer Jimmy Yuan : 40719
+60 passer Jimmy Yuan : 40719
+60 passer Jimmy Yuan : 40719
+60 passer Jimmy Yuan : 40719
+131 answerer Chen Yi Ling : 40744
+364 passer Jimmy Yuan : 40754
+364 passer Jimmy Yuan : 40754
+364 passer Jimmy Yuan : 40754
+364 passer Jimmy Yuan : 40754
+303 passer Jimmy Yuan : 40768
+303 passer Jimmy Yuan : 40768
+303 passer Jimmy Yuan : 40768
+303 passer Jimmy Yuan : 40768
+60 passer Zou Yun Yun : 40779
+60 passer Zou Yun Yun : 40779
+60 answerer Zou Yun Yun : 40779
+60 passer Zou Yun Yun : 40779
+364 passer Zou Yun Yun : 40814
+364 passer Zou Yun Yun : 40814
+364 answerer Zou Yun Yun : 40814
+364 passer Zou Yun Yun : 40814
+205 answerer Chen Yi Ling : 40823
+303 passer Zou Yun Yun : 40828
+303 passer Zou Yun Yun : 40828
+303 answerer Zou Yun Yun : 40828
+303 passer Zou Yun Yun : 40828
+60 answerer Chen Yi Ling : 40839
+188 answerer Chen Yi Ling : 40843
+229 answerer Chen Yi Ling : 40856
+128 answerer Chen Yi Ling : 40865
+364 answerer Chen Yi Ling : 40874
+172 passer Jimmy Yuan : 40876
+172 passer Jimmy Yuan : 40876
+172 passer Jimmy Yuan : 40876
+172 passer Jimmy Yuan : 40876
+303 answerer Chen Yi Ling : 40888
+Asker Winnie Chang : 40907
+Asker Chen Weijun : 40918
+172 passer Zou Yun Yun : 40936
+172 passer Zou Yun Yun : 40936
+172 answerer Zou Yun Yun : 40936
+172 passer Zou Yun Yun : 40936
+68 answerer Chen Yi Ling : 40956
+Asker Zhang Qi : 40963
+324 passer Jimmy Yuan : 40967
+279 passer Liu Fengxuan : 40978
+172 answerer Chen Yi Ling : 40996
+410 answerer Chen Yi Ling : 41018
+200 answerer Chen Yi Ling : 41019
+200 passer Chen Yi Ling : 41019
+279 answerer Zou Yun Yun : 41023
+324 answerer Zou Yun Yun : 41027
+200 answerer Zou Yun Yun : 41079
+374 passer Deng Yizhen : 41103
+102 answerer Chen Yi Ling : 41108
+102 passer Chen Yi Ling : 41108
+103 answerer Chen Yi Ling : 41123
+103 passer Chen Yi Ling : 41123
+145 passer Jimmy Yuan : 41135
+145 passer Jimmy Yuan : 41135
+145 passer Jimmy Yuan : 41135
+145 passer Jimmy Yuan : 41135
+409 answerer Chen Yi Ling : 41142
+374 answerer Chen Yi Ling : 41148
+370 answerer Chen Yi Ling : 41165
+412 answerer Chen Yi Ling : 41168
+Asker Wong Yang : 41190
+190 answerer Chen Yi Ling : 41190
+145 passer Zou Yun Yun : 41195
+145 passer Zou Yun Yun : 41195
+145 answerer Zou Yun Yun : 41195
+145 passer Zou Yun Yun : 41195
+395 answerer Chen Yi Ling : 41228
+435 passer Jimmy Yuan : 41231
+435 passer Jimmy Yuan : 41231
+435 passer Jimmy Yuan : 41231
+435 passer Jimmy Yuan : 41231
+101 answerer Chen Yi Ling : 41238
+101 passer Chen Yi Ling : 41238
+268 answerer Chen Yi Ling : 41242
+268 answerer Zou Yun Yun : 41242
+145 answerer Chen Yi Ling : 41255
+435 passer Zou Yun Yun : 41291
+435 passer Zou Yun Yun : 41291
+435 answerer Zou Yun Yun : 41291
+435 passer Zou Yun Yun : 41291
+238 answerer Zou Yun Yun : 41348
+435 answerer Chen Yi Ling : 41351
+260 answerer Chen Yi Ling : 41353
+442 passer Jimmy Yuan : 41368
+442 passer Jimmy Yuan : 41368
+442 passer Jimmy Yuan : 41368
+442 passer Jimmy Yuan : 41368
+287 answerer Chen Yi Ling : 41389
+238 answerer Chen Yi Ling : 41393
+305 passer Jimmy Yuan : 41418
+305 passer Jimmy Yuan : 41418
+305 passer Jimmy Yuan : 41418
+305 passer Jimmy Yuan : 41418
+442 passer Zou Yun Yun : 41428
+442 passer Zou Yun Yun : 41428
+442 answerer Zou Yun Yun : 41428
+442 passer Zou Yun Yun : 41428
+333 answerer Chen Yi Ling : 41432
+400 passer Jimmy Yuan : 41433
+400 passer Jimmy Yuan : 41433
+400 passer Jimmy Yuan : 41433
+400 passer Jimmy Yuan : 41433
+333 answerer Zou Yun Yun : 41447
+83 answerer Chen Yi Ling : 41456
+230 answerer Chen Yi Ling : 41475
+305 passer Zou Yun Yun : 41478
+305 passer Zou Yun Yun : 41478
+305 answerer Zou Yun Yun : 41478
+305 passer Zou Yun Yun : 41478
+442 answerer Chen Yi Ling : 41488
+400 passer Zou Yun Yun : 41493
+400 passer Zou Yun Yun : 41493
+400 answerer Zou Yun Yun : 41493
+400 passer Zou Yun Yun : 41493
+156 answerer Chen Yi Ling : 41499
+165 answerer Chen Yi Ling : 41511
+165 passer Chen Yi Ling : 41511
+5 answerer Chen Yi Ling : 41526
+182 answerer Chen Yi Ling : 41528
+230 answerer Zou Yun Yun : 41535
+305 answerer Chen Yi Ling : 41538
+400 answerer Chen Yi Ling : 41553
+165 answerer Zou Yun Yun : 41571
+237 answerer Chen Yi Ling : 41588
+187 answerer Chen Yi Ling : 41623
+28 answerer Chen Yi Ling : 41623
+13 passer Weng Zaihao : 41697
+13 answerer Zou Yun Yun : 41697
+386 answerer Chen Yi Ling : 41739
+198 answerer Chen Yi Ling : 41784
+198 passer Chen Yi Ling : 41784
+Asker Zhang Qi : 41815
+198 answerer Zou Yun Yun : 41844
+115 passer Jimmy Yuan : 41863
+115 passer Jimmy Yuan : 41863
+115 passer Jimmy Yuan : 41863
+115 passer Jimmy Yuan : 41863
+372 answerer Chen Yi Ling : 41877
+45 answerer Zou Yun Yun : 41913
+115 passer Zou Yun Yun : 41923
+115 passer Zou Yun Yun : 41923
+115 answerer Zou Yun Yun : 41923
+115 passer Zou Yun Yun : 41923
+130 answerer Chen Yi Ling : 41929
+59 passer Jimmy Yuan : 41951
+59 passer Jimmy Yuan : 41951
+59 passer Jimmy Yuan : 41951
+59 passer Jimmy Yuan : 41951
+45 answerer Chen Yi Ling : 41958
+115 answerer Chen Yi Ling : 41983
+43 answerer Chen Yi Ling : 41983
+350 answerer Chen Yi Ling : 41994
+59 passer Zou Yun Yun : 42011
+59 passer Zou Yun Yun : 42011
+59 answerer Zou Yun Yun : 42011
+59 passer Zou Yun Yun : 42011
+74 answerer Chen Yi Ling : 42051
+59 answerer Chen Yi Ling : 42071
+138 answerer Chen Yi Ling : 42091
+403 passer Jimmy Yuan : 42172
+403 passer Jimmy Yuan : 42172
+403 passer Jimmy Yuan : 42172
+403 passer Jimmy Yuan : 42172
+206 answerer Chen Yi Ling : 42174
+Asker Liven Pan : 42188
+Asker Guo Baiyu : 42200
+403 passer Zou Yun Yun : 42232
+403 passer Zou Yun Yun : 42232
+403 answerer Zou Yun Yun : 42232
+403 passer Zou Yun Yun : 42232
+105 answerer Chen Yi Ling : 42233
+105 passer Chen Yi Ling : 42233
+105 answerer Zou Yun Yun : 42233
+105 passer Zou Yun Yun : 42233
+Asker Lin Zonghan : 42242
+139 passer Weng Zaihao : 42260
+139 passer Liu Fengxuan : 42260
+403 answerer Chen Yi Ling : 42292
+231 answerer Chen Yi Ling : 42302
+139 answerer Zou Yun Yun : 42305
+164 answerer Chen Yi Ling : 42318
+164 passer Chen Yi Ling : 42318
+Asker Yang Junwei : 42319
+73 answerer Chen Yi Ling : 42336
+443 passer Jimmy Yuan : 42367
+443 passer Jimmy Yuan : 42367
+443 passer Jimmy Yuan : 42367
+443 passer Jimmy Yuan : 42367
+150 answerer Chen Yi Ling : 42376
+164 answerer Zou Yun Yun : 42378
+30 passer Weng Zaihao : 42379
+30 passer Weng Zaihao : 42379
+30 passer Liu Fengxuan : 42379
+30 passer Liu Fengxuan : 42379
+401 passer Jimmy Yuan : 42420
+401 passer Jimmy Yuan : 42420
+401 passer Jimmy Yuan : 42420
+401 passer Jimmy Yuan : 42420
+30 answerer Zou Yun Yun : 42424
+443 passer Zou Yun Yun : 42427
+443 passer Zou Yun Yun : 42427
+443 answerer Zou Yun Yun : 42427
+443 passer Zou Yun Yun : 42427
+311 answerer Chen Yi Ling : 42430
+30 answerer Chen Yi Ling : 42439
+129 answerer Chen Yi Ling : 42475
+401 passer Zou Yun Yun : 42480
+401 passer Zou Yun Yun : 42480
+401 answerer Zou Yun Yun : 42480
+401 passer Zou Yun Yun : 42480
+443 answerer Chen Yi Ling : 42487
+61 passer Jimmy Yuan : 42514
+61 passer Jimmy Yuan : 42514
+61 passer Jimmy Yuan : 42514
+61 passer Jimmy Yuan : 42514
+6 answerer Chen Yi Ling : 42523
+373 passer Deng Yizhen : 42538
+401 answerer Chen Yi Ling : 42540
+Asker Guan Ai Wu : 42574
+61 passer Zou Yun Yun : 42574
+61 passer Zou Yun Yun : 42574
+61 answerer Zou Yun Yun : 42574
+61 passer Zou Yun Yun : 42574
+373 answerer Chen Yi Ling : 42583
+61 answerer Chen Yi Ling : 42634
+352 passer Chen Weijun : 42634
+352 passer Chen Weijun : 42634
+352 passer Chen Weijun : 42634
+352 passer Chen Weijun : 42634
+347 answerer Chen Yi Ling : 42659
+338 passer Jimmy Yuan : 42693
+338 passer Jimmy Yuan : 42693
+338 passer Jimmy Yuan : 42693
+338 passer Jimmy Yuan : 42693
+352 passer Liu Fengxuan : 42694
+69 answerer Chen Yi Ling : 42695
+87 passer Chen Weijun : 42728
+87 passer Chen Weijun : 42728
+87 passer Chen Weijun : 42728
+87 passer Chen Weijun : 42728
+304 passer Jimmy Yuan : 42737
+304 passer Jimmy Yuan : 42737
+304 passer Jimmy Yuan : 42737
+304 passer Jimmy Yuan : 42737
+352 answerer Zou Yun Yun : 42739
+348 answerer Chen Yi Ling : 42746
+338 passer Zou Yun Yun : 42753
+338 passer Zou Yun Yun : 42753
+338 answerer Zou Yun Yun : 42753
+338 passer Zou Yun Yun : 42753
+356 answerer Chen Yi Ling : 42759
+87 passer Liu Fengxuan : 42788
+433 passer Jimmy Yuan : 42789
+433 passer Jimmy Yuan : 42789
+433 passer Jimmy Yuan : 42789
+433 passer Jimmy Yuan : 42789
+304 passer Zou Yun Yun : 42797
+304 passer Zou Yun Yun : 42797
+304 answerer Zou Yun Yun : 42797
+304 passer Zou Yun Yun : 42797
+319 answerer Chen Yi Ling : 42799
+29 answerer Chen Yi Ling : 42802
+94 answerer Chen Yi Ling : 42803
+166 answerer Chen Yi Ling : 42809
+166 passer Chen Yi Ling : 42809
+338 answerer Chen Yi Ling : 42813
+385 answerer Chen Yi Ling : 42821
+87 answerer Zou Yun Yun : 42833
+38 passer Jimmy Yuan : 42838
+38 passer Jimmy Yuan : 42838
+38 passer Jimmy Yuan : 42838
+38 passer Jimmy Yuan : 42838
+433 passer Zou Yun Yun : 42849
+433 passer Zou Yun Yun : 42849
+433 answerer Zou Yun Yun : 42849
+433 passer Zou Yun Yun : 42849
+304 answerer Chen Yi Ling : 42857
+Asker Carisa Hung : 42862
+288 answerer Chen Yi Ling : 42862
+166 answerer Zou Yun Yun : 42869
+Asker Winnie Chang : 42877
+146 passer Jimmy Yuan : 42885
+146 passer Jimmy Yuan : 42885
+146 passer Jimmy Yuan : 42885
+146 passer Jimmy Yuan : 42885
+38 passer Zou Yun Yun : 42898
+38 passer Zou Yun Yun : 42898
+38 answerer Zou Yun Yun : 42898
+38 passer Zou Yun Yun : 42898
+433 answerer Chen Yi Ling : 42909
+23 passer Jimmy Yuan : 42919
+23 passer Jimmy Yuan : 42919
+23 passer Jimmy Yuan : 42919
+23 passer Jimmy Yuan : 42919
+181 answerer Chen Yi Ling : 42934
+325 passer Jimmy Yuan : 42937
+146 passer Zou Yun Yun : 42945
+146 passer Zou Yun Yun : 42945
+146 answerer Zou Yun Yun : 42945
+146 passer Zou Yun Yun : 42945
+38 answerer Chen Yi Ling : 42958
+23 passer Zou Yun Yun : 42979
+23 passer Zou Yun Yun : 42979
+23 answerer Zou Yun Yun : 42979
+23 passer Zou Yun Yun : 42979
+325 answerer Zou Yun Yun : 42997
+146 answerer Chen Yi Ling : 43005
+104 answerer Chen Yi Ling : 43019
+104 passer Chen Yi Ling : 43019
+104 answerer Zou Yun Yun : 43019
+104 passer Zou Yun Yun : 43019
+355 answerer Chen Yi Ling : 43023
+23 answerer Chen Yi Ling : 43039
+289 answerer Chen Yi Ling : 43048
+199 answerer Chen Yi Ling : 43096
+199 passer Chen Yi Ling : 43096
+167 answerer Chen Yi Ling : 43123
+167 passer Chen Yi Ling : 43123
+199 answerer Zou Yun Yun : 43156
+167 answerer Zou Yun Yun : 43183
+75 answerer Chen Yi Ling : 43214
+340 passer Jimmy Yuan : 43218
+340 passer Jimmy Yuan : 43218
+340 passer Jimmy Yuan : 43218
+340 passer Jimmy Yuan : 43218
+18 passer Jimmy Yuan : 43230
+18 passer Jimmy Yuan : 43230
+18 passer Jimmy Yuan : 43230
+18 passer Jimmy Yuan : 43230
+207 passer Liven Pan : 43268
+207 passer Liven Pan : 43268
+Asker Liao Xun weight : 43352
+220 answerer Ruan Yushan : 43412
+321 passer Song Pei Hoon : 43428
+321 passer Song Pei Hoon : 43428
+321 passer Song Pei Hoon : 43428
+174 passer Zhong Xuan can : 43437
+174 passer Zhong Xuan can : 43437
+174 passer Zhong Xuan can : 43437
+174 passer Zhong Xuan can : 43437
+Asker Kang Mingxi : 43470
+419 passer Song Pei Hoon : 43490
+419 passer Song Pei Hoon : 43490
+419 passer Song Pei Hoon : 43490
+219 answerer Ruan Yushan : 43581
+82 answerer Ruan Yushan : 43672
+Asker Liuling Jun : 43726
+93 passer Lin Zonghan : 43751
+Asker Alex Chiang : 43889
+54 passer Chenjia Ru : 43949
+54 passer Deng Yizhen : 43949
+54 passer Deng Yizhen : 43949
+54 passer Deng Yizhen : 43949
+48 passer Song Pei Hoon : 43984
+48 passer Song Pei Hoon : 43984
+48 passer Song Pei Hoon : 43984
+Asker Winnie Chang : 44003
+Asker Fuzi Rui : 44052
+326 passer Song Pei Hoon : 44063
+326 passer Song Pei Hoon : 44063
+326 passer Song Pei Hoon : 44063
+290 passer Weng Zaihao : 44097
+70 passer Ruan Yushan : 44151
+70 passer Ruan Yushan : 44151
+70 passer Ruan Yushan : 44151
+70 passer Ruan Yushan : 44151
+290 answerer Ruan Yushan : 44157
+70 passer Weng Zaihao : 44211
+70 passer Weng Zaihao : 44211
+Asker Weng Zaihao : 44340
+320 passer Song Pei Hoon : 44462
+320 passer Song Pei Hoon : 44462
+320 passer Song Pei Hoon : 44462
+Asker Zou Yun Yun : 44478
+324 passer Song Pei Hoon : 44567
+324 passer Song Pei Hoon : 44567
+324 passer Song Pei Hoon : 44567
+11 answerer Ruan Yushan : 44714
+208 passer Liven Pan : 44738
+208 passer Liven Pan : 44738
+341 passer Wen Shi Kai : 44850
+341 passer Wen Shi Kai : 44850
+341 passer Wen Shi Kai : 44850
+341 passer Wen Shi Kai : 44850
+313 passer Song Pei Hoon : 44886
+313 passer Song Pei Hoon : 44886
+313 passer Song Pei Hoon : 44886
+341 passer Zhang Yan Yu : 44910
+341 passer Zhang Yan Yu : 44910
+341 passer Zhang Yan Yu : 44910
+341 passer Zhang Yan Yu : 44910
+Asker Zhong Xuan can : 44954
+Asker Huang Zhijun : 45045
+83 answerer Ruan Yushan : 45101
+13 answerer Ruan Yushan : 45357
+Asker Lin Wan Xuan : 45431
+420 passer Song Pei Hoon : 45523
+420 passer Song Pei Hoon : 45523
+420 passer Song Pei Hoon : 45523
+Asker Song Pei Hoon : 45684
+314 passer Winnie Chang : 45702
+314 passer Winnie Chang : 45702
+314 passer Winnie Chang : 45702
+314 passer Winnie Chang : 45702
+49 passer Song Pei Hoon : 45729
+49 passer Song Pei Hoon : 45729
+49 passer Song Pei Hoon : 45729
+Asker Chenjia Ru : 45759
+314 passer Song Pei Hoon : 45762
+314 passer Song Pei Hoon : 45762
+314 passer Song Pei Hoon : 45762
+139 passer Chenjia Ru : 45860
+139 passer Chenjia Ru : 45860
+Asker Deng Yizhen : 46102
+421 passer Song Pei Hoon : 46157
+421 passer Song Pei Hoon : 46157
+421 passer Song Pei Hoon : 46157
+417 passer Song Pei Hoon : 46177
+417 passer Song Pei Hoon : 46177
+417 passer Song Pei Hoon : 46177
+Asker Yang Junwei : 46310
+94 passer Lin Zonghan : 46343
+31 passer Weng Zaihao : 46370
+31 passer Weng Zaihao : 46370
+424 passer Winnie Chang : 46371
+424 passer Winnie Chang : 46371
+424 passer Winnie Chang : 46371
+424 passer Winnie Chang : 46371
+422 passer Song Pei Hoon : 46385
+422 passer Song Pei Hoon : 46385
+422 passer Song Pei Hoon : 46385
+418 passer Song Pei Hoon : 46430
+418 passer Song Pei Hoon : 46430
+418 passer Song Pei Hoon : 46430
+424 passer Song Pei Hoon : 46431
+424 passer Song Pei Hoon : 46431
+424 passer Song Pei Hoon : 46431
+Asker Martha Fu : 46490
+10 answerer Ruan Yushan : 46519
+300 passer Wen Shi Kai : 46522
+300 passer Wen Shi Kai : 46522
+300 passer Wen Shi Kai : 46522
+300 passer Wen Shi Kai : 46522
+325 passer Song Pei Hoon : 46537
+325 passer Song Pei Hoon : 46537
+325 passer Song Pei Hoon : 46537
+1 passer Deng Yizhen : 46550
+1 passer Deng Yizhen : 46550
+1 passer Deng Yizhen : 46550
+12 answerer Ruan Yushan : 46554
+300 passer Zhang Yan Yu : 46582
+300 passer Zhang Yan Yu : 46582
+300 passer Zhang Yan Yu : 46582
+300 passer Zhang Yan Yu : 46582
+322 passer Song Pei Hoon : 46587
+322 passer Song Pei Hoon : 46587
+322 passer Song Pei Hoon : 46587
+423 passer Song Pei Hoon : 46596
+423 passer Song Pei Hoon : 46596
+423 passer Song Pei Hoon : 46596
+289 answerer Ruan Yushan : 46708
+Asker Carisa Hung : 46792
+416 passer Song Pei Hoon : 46797
+416 passer Song Pei Hoon : 46797
+416 passer Song Pei Hoon : 46797
+323 passer Song Pei Hoon : 46852
+323 passer Song Pei Hoon : 46852
+323 passer Song Pei Hoon : 46852
+301 passer Wen Shi Kai : 46852
+301 passer Wen Shi Kai : 46852
+301 passer Wen Shi Kai : 46852
+301 passer Wen Shi Kai : 46852
+207 passer Lizi Xuan : 46868
+207 passer Lizi Xuan : 46868
+340 passer Zou Yun Yun : 46878
+340 passer Zou Yun Yun : 46878
+340 answerer Zou Yun Yun : 46878
+340 passer Zou Yun Yun : 46878
+18 passer Zou Yun Yun : 46890
+18 passer Zou Yun Yun : 46890
+18 answerer Zou Yun Yun : 46890
+18 passer Zou Yun Yun : 46890
+323 answerer Liao Xun weight : 46912
+207 answerer Chen Yi Ling : 46913
+207 answerer Zou Yun Yun : 46913
+207 answerer Liao Xun weight : 46928
+340 answerer Chen Yi Ling : 46938
+340 answerer Liao Xun weight : 46938
+18 answerer Chen Yi Ling : 46950
+18 answerer Liao Xun weight : 46950
+151 answerer Liao Xun weight : 46957
+248 passer Lizi Xuan : 46983
+248 passer Lizi Xuan : 46983
+248 passer Lizi Xuan : 46983
+248 passer Lizi Xuan : 46983
+220 answerer Chen Yi Ling : 47012
+220 answerer Zou Yun Yun : 47012
+248 answerer Chen Yi Ling : 47043
+248 answerer Zou Yun Yun : 47043
+248 answerer Liao Xun weight : 47043
+173 answerer Liao Xun weight : 47043
+Asker Lizi Xuan : 47044
+321 answerer Liao Xun weight : 47088
+174 passer Jimmy Yuan : 47097
+174 passer Jimmy Yuan : 47097
+174 passer Jimmy Yuan : 47097
+174 passer Jimmy Yuan : 47097
+269 answerer Chen Yi Ling : 47104
+269 answerer Zou Yun Yun : 47104
+269 answerer Liao Xun weight : 47104
+402 answerer Liao Xun weight : 47121
+359 answerer Liao Xun weight : 47127
+299 answerer Liao Xun weight : 47141
+419 answerer Liao Xun weight : 47150
+174 passer Zou Yun Yun : 47157
+174 passer Zou Yun Yun : 47157
+174 answerer Zou Yun Yun : 47157
+174 passer Zou Yun Yun : 47157
+Asker Wong Yang : 47162
+339 answerer Liao Xun weight : 47185
+174 answerer Chen Yi Ling : 47217
+174 answerer Liao Xun weight : 47217
+17 answerer Liao Xun weight : 47222
+Asker Guo Baiyu : 47342
+262 answerer Chen Yi Ling : 47386
+262 answerer Zou Yun Yun : 47386
+262 answerer Liao Xun weight : 47386
+140 passer Chenjia Ru : 47402
+140 passer Chenjia Ru : 47402
+93 answerer Liao Xun weight : 47411
+140 answerer Chen Yi Ling : 47447
+140 answerer Liao Xun weight : 47462
+432 answerer Liao Xun weight : 47523
+144 answerer Liao Xun weight : 47549
+Asker Ruan Yushan : 47555
+54 answerer Chen Yi Ling : 47594
+Asker Lin Wan Xuan : 47597
+54 answerer Liao Xun weight : 47609
+438 answerer Liao Xun weight : 47615
+306 answerer Liao Xun weight : 47620
+Asker Lin Zonghan : 47625
+48 answerer Liao Xun weight : 47644
+434 answerer Liao Xun weight : 47652
+240 answerer Zou Yun Yun : 47657
+240 answerer Liao Xun weight : 47657
+326 passer Jimmy Yuan : 47663
+232 answerer Chen Yi Ling : 47685
+232 answerer Liao Xun weight : 47685
+290 answerer Chen Yi Ling : 47697
+290 answerer Zou Yun Yun : 47712
+290 answerer Liao Xun weight : 47712
+326 answerer Zou Yun Yun : 47723
+326 answerer Liao Xun weight : 47723
+261 answerer Liao Xun weight : 47742
+70 answerer Liao Xun weight : 47811
+53 answerer Liao Xun weight : 47813
+22 answerer Liao Xun weight : 47824
+76 answerer Liao Xun weight : 47834
+24 answerer Liao Xun weight : 47850
+70 answerer Chen Yi Ling : 47871
+205 passer Lizi Xuan : 47978
+205 passer Lizi Xuan : 47978
+191 answerer Chen Yi Ling : 48000
+191 answerer Zou Yun Yun : 48000
+205 answerer Liao Xun weight : 48038
+60 answerer Liao Xun weight : 48039
+364 answerer Liao Xun weight : 48074
+Asker Huang Han : 48084
+303 answerer Liao Xun weight : 48088
+320 answerer Liao Xun weight : 48122
+84 answerer Chen Yi Ling : 48138
+84 answerer Liao Xun weight : 48138
+168 passer Chenjia Ru : 48144
+168 passer Chenjia Ru : 48144
+168 passer Chenjia Ru : 48144
+168 passer Chenjia Ru : 48144
+279 answerer Liao Xun weight : 48178
+168 answerer Chen Yi Ling : 48189
+168 passer Chen Yi Ling : 48189
+172 answerer Liao Xun weight : 48196
+168 answerer Liao Xun weight : 48204
+324 answerer Liao Xun weight : 48227
+168 answerer Zou Yun Yun : 48249
+249 passer Lizi Xuan : 48278
+249 passer Lizi Xuan : 48278
+249 passer Lizi Xuan : 48278
+249 passer Lizi Xuan : 48278
+Asker Wong Yang : 48316
+Asker Lizi Xuan : 48334
+249 answerer Chen Yi Ling : 48338
+249 answerer Zou Yun Yun : 48338
+249 answerer Liao Xun weight : 48338
+208 passer Lizi Xuan : 48338
+208 passer Lizi Xuan : 48338
+208 answerer Chen Yi Ling : 48383
+208 answerer Zou Yun Yun : 48383
+270 answerer Chen Yi Ling : 48394
+270 answerer Zou Yun Yun : 48394
+270 answerer Liao Xun weight : 48394
+208 answerer Liao Xun weight : 48398
+Asker Guo Baiyu : 48427
+145 answerer Liao Xun weight : 48455
+141 passer Chenjia Ru : 48487
+141 passer Chenjia Ru : 48487
+141 answerer Chen Yi Ling : 48532
+313 answerer Liao Xun weight : 48546
+141 answerer Liao Xun weight : 48547
+435 answerer Liao Xun weight : 48551
+341 passer Jimmy Yuan : 48570
+341 passer Jimmy Yuan : 48570
+341 passer Jimmy Yuan : 48570
+341 passer Jimmy Yuan : 48570
+109 passer Jimmy Yuan : 48614
+109 passer Jimmy Yuan : 48614
+109 passer Jimmy Yuan : 48614
+109 passer Jimmy Yuan : 48614
+341 passer Zou Yun Yun : 48630
+341 passer Zou Yun Yun : 48630
+341 answerer Zou Yun Yun : 48630
+341 passer Zou Yun Yun : 48630
+109 passer Zou Yun Yun : 48674
+109 passer Zou Yun Yun : 48674
+109 answerer Zou Yun Yun : 48674
+109 passer Zou Yun Yun : 48674
+442 answerer Liao Xun weight : 48688
+341 answerer Chen Yi Ling : 48690
+341 answerer Liao Xun weight : 48690
+251 passer Lizi Xuan : 48702
+251 passer Lizi Xuan : 48702
+251 passer Lizi Xuan : 48702
+251 passer Lizi Xuan : 48702
+109 answerer Chen Yi Ling : 48734
+109 answerer Liao Xun weight : 48734
+305 answerer Liao Xun weight : 48738
+400 answerer Liao Xun weight : 48753
+251 answerer Chen Yi Ling : 48762
+251 answerer Zou Yun Yun : 48762
+251 answerer Liao Xun weight : 48762
+Asker Wen Shi Kai : 48825
+239 answerer Zou Yun Yun : 49091
+239 answerer Liao Xun weight : 49091
+Asker Jason Lin : 49103
+115 answerer Liao Xun weight : 49183
+420 answerer Liao Xun weight : 49183
+59 answerer Liao Xun weight : 49271
+206 passer Lizi Xuan : 49329
+206 passer Lizi Xuan : 49329
+132 answerer Liao Xun weight : 49344
+314 passer Jimmy Yuan : 49362
+49 answerer Liao Xun weight : 49389
+206 answerer Liao Xun weight : 49389
+201 answerer Chen Yi Ling : 49404
+201 passer Chen Yi Ling : 49404
+201 answerer Liao Xun weight : 49419
+314 answerer Zou Yun Yun : 49422
+314 answerer Liao Xun weight : 49422
+201 answerer Zou Yun Yun : 49464
+403 answerer Liao Xun weight : 49492
+105 answerer Liao Xun weight : 49493
+231 answerer Liao Xun weight : 49502
+139 answerer Chen Yi Ling : 49505
+139 answerer Liao Xun weight : 49520
+Asker Yang Junwei : 49554
+Asker High Ze Quan : 49582
+30 answerer Liao Xun weight : 49639
+396 answerer Zou Yun Yun : 49642
+396 answerer Liao Xun weight : 49642
+443 answerer Liao Xun weight : 49687
+401 answerer Liao Xun weight : 49740
+334 answerer Liao Xun weight : 49762
+421 answerer Liao Xun weight : 49817
+61 answerer Liao Xun weight : 49834
+417 answerer Liao Xun weight : 49837
+352 answerer Liao Xun weight : 49894
+Asker Zhang Yan Yu : 49911
+212 passer Jimmy Yuan : 49971
+212 passer Jimmy Yuan : 49971
+212 passer Jimmy Yuan : 49971
+212 passer Jimmy Yuan : 49971
+Asker Wu Chenxi : 49972
+87 answerer Liao Xun weight : 49988
+94 answerer Liao Xun weight : 50003
+338 answerer Liao Xun weight : 50013
+31 answerer Chen Yi Ling : 50030
+424 passer Jimmy Yuan : 50031
+212 passer Zou Yun Yun : 50031
+212 passer Zou Yun Yun : 50031
+212 answerer Zou Yun Yun : 50031
+212 passer Zou Yun Yun : 50031
+175 passer Lin Zhen : 50032
+175 passer Lin Zhen : 50032
+175 passer Lin Zhen : 50032
+175 passer Lin Zhen : 50032
+422 answerer Liao Xun weight : 50045
+304 answerer Liao Xun weight : 50057
+175 passer Zhong Xuan can : 50077
+175 passer Zhong Xuan can : 50077
+175 passer Zhong Xuan can : 50077
+175 passer Zhong Xuan can : 50077
+418 answerer Liao Xun weight : 50090
+424 answerer Zou Yun Yun : 50091
+424 answerer Liao Xun weight : 50091
+212 answerer Chen Yi Ling : 50091
+212 answerer Liao Xun weight : 50091
+433 answerer Liao Xun weight : 50109
+175 passer Jimmy Yuan : 50137
+175 passer Jimmy Yuan : 50137
+175 passer Jimmy Yuan : 50137
+175 passer Jimmy Yuan : 50137
+1 passer Jimmy Yuan : 50150
+38 answerer Liao Xun weight : 50158
+325 answerer Liao Xun weight : 50197
+175 passer Zou Yun Yun : 50197
+175 passer Zou Yun Yun : 50197
+175 answerer Zou Yun Yun : 50197
+175 passer Zou Yun Yun : 50197
+146 answerer Liao Xun weight : 50205
+1 answerer Zou Yun Yun : 50210
+1 answerer Liao Xun weight : 50210
+23 answerer Liao Xun weight : 50239
+300 passer Jimmy Yuan : 50242
+300 passer Jimmy Yuan : 50242
+300 passer Jimmy Yuan : 50242
+300 passer Jimmy Yuan : 50242
+322 answerer Liao Xun weight : 50247
+250 passer Lizi Xuan : 50250
+250 passer Lizi Xuan : 50250
+250 passer Lizi Xuan : 50250
+250 passer Lizi Xuan : 50250
+423 answerer Liao Xun weight : 50256
+175 answerer Chen Yi Ling : 50257
+175 answerer Liao Xun weight : 50257
+104 answerer Liao Xun weight : 50279
+Asker Song Pei Hoon : 50286
+300 passer Zou Yun Yun : 50302
+300 passer Zou Yun Yun : 50302
+300 answerer Zou Yun Yun : 50302
+300 passer Zou Yun Yun : 50302
+250 answerer Chen Yi Ling : 50310
+250 answerer Zou Yun Yun : 50310
+250 answerer Liao Xun weight : 50310
+133 answerer Liao Xun weight : 50346
+300 answerer Chen Yi Ling : 50362
+300 answerer Liao Xun weight : 50362
+Asker Lin Chunan : 50371
+Asker Fuzi Rui : 50404
+Asker Chang Chun Peng : 50425
+291 answerer Chen Yi Ling : 50449
+Asker Chen Yi Ling : 50455
+416 answerer Liao Xun weight : 50457
+14 answerer Fuzi Rui : 50500
+323 passer Fuzi Rui : 50512
+323 answerer Fuzi Rui : 50512
+207 answerer Fuzi Rui : 50513
+340 answerer Fuzi Rui : 50538
+18 answerer Fuzi Rui : 50550
+151 answerer Fuzi Rui : 50557
+323 answerer Chen Yi Ling : 50557
+220 answerer Fuzi Rui : 50612
+248 answerer Fuzi Rui : 50628
+173 answerer Fuzi Rui : 50643
+321 passer Fuzi Rui : 50688
+321 answerer Fuzi Rui : 50688
+269 answerer Fuzi Rui : 50689
+402 answerer Fuzi Rui : 50721
+359 passer Fuzi Rui : 50727
+359 answerer Fuzi Rui : 50727
+321 answerer Chen Yi Ling : 50733
+299 answerer Fuzi Rui : 50741
+419 passer Fuzi Rui : 50750
+419 answerer Fuzi Rui : 50750
+Asker Li Jingying : 50752
+359 answerer Chen Yi Ling : 50772
+339 answerer Fuzi Rui : 50785
+419 answerer Chen Yi Ling : 50795
+174 answerer Fuzi Rui : 50817
+17 answerer Fuzi Rui : 50822
+262 answerer Fuzi Rui : 50986
+Asker Lin Chunan : 51120
+432 answerer Fuzi Rui : 51123
+144 answerer Fuzi Rui : 51149
+Asker Lizi Xuan : 51164
+121 passer Chang Chun Peng : 51180
+121 passer Chang Chun Peng : 51180
+121 passer Chang Chun Peng : 51180
+121 passer Chang Chun Peng : 51180
+54 answerer Fuzi Rui : 51194
+54 passer Fuzi Rui : 51194
+271 answerer Fuzi Rui : 51209
+306 answerer Fuzi Rui : 51220
+271 answerer Chen Yi Ling : 51224
+Asker Yang Zhuoyun : 51232
+48 passer Fuzi Rui : 51244
+48 answerer Fuzi Rui : 51244
+434 answerer Fuzi Rui : 51252
+240 passer Fuzi Rui : 51257
+240 answerer Fuzi Rui : 51257
+Asker Stephanie Kao : 51268
+232 answerer Fuzi Rui : 51285
+232 passer Fuzi Rui : 51285
+48 answerer Chen Yi Ling : 51289
+240 answerer Chen Yi Ling : 51302
+Asker Huang Han : 51311
+326 passer Fuzi Rui : 51323
+326 answerer Fuzi Rui : 51323
+261 answerer Fuzi Rui : 51342
+326 answerer Chen Yi Ling : 51368
+39 passer Chang Chun Peng : 51381
+39 passer Chang Chun Peng : 51381
+39 passer Chang Chun Peng : 51381
+39 passer Chang Chun Peng : 51381
+53 answerer Fuzi Rui : 51398
+53 passer Fuzi Rui : 51398
+22 answerer Fuzi Rui : 51424
+76 answerer Fuzi Rui : 51434
+24 answerer Fuzi Rui : 51450
+Asker Deng Yizhen : 51456
+70 answerer Fuzi Rui : 51456
+Asker Martha Fu : 51492
+335 passer Fuzi Rui : 51501
+335 answerer Fuzi Rui : 51501
+335 passer Fuzi Rui : 51501
+335 answerer Chen Yi Ling : 51546
+2 passer Deng Yizhen : 51552
+2 passer Deng Yizhen : 51552
+2 passer Deng Yizhen : 51552
+191 answerer Fuzi Rui : 51585
+191 passer Fuzi Rui : 51585
+2 passer Fuzi Rui : 51597
+2 answerer Fuzi Rui : 51597
+205 answerer Fuzi Rui : 51623
+60 answerer Fuzi Rui : 51639
+2 answerer Chen Yi Ling : 51642
+364 answerer Fuzi Rui : 51674
+303 answerer Fuzi Rui : 51688
+320 passer Fuzi Rui : 51722
+320 answerer Fuzi Rui : 51722
+84 answerer Fuzi Rui : 51738
+320 answerer Chen Yi Ling : 51767
+279 passer Fuzi Rui : 51778
+279 answerer Fuzi Rui : 51778
+172 answerer Fuzi Rui : 51796
+168 answerer Fuzi Rui : 51804
+279 answerer Chen Yi Ling : 51823
+324 passer Fuzi Rui : 51827
+324 answerer Fuzi Rui : 51827
+324 answerer Chen Yi Ling : 51872
+249 answerer Fuzi Rui : 51923
+374 answerer Fuzi Rui : 51948
+102 answerer Fuzi Rui : 51953
+103 answerer Fuzi Rui : 51968
+Asker Li Yuzhe : 51975
+270 answerer Fuzi Rui : 51979
+208 answerer Fuzi Rui : 51983
+145 answerer Fuzi Rui : 52055
+101 answerer Fuzi Rui : 52083
+313 passer Fuzi Rui : 52146
+313 answerer Fuzi Rui : 52146
+435 answerer Fuzi Rui : 52151
+Asker Wen Shi Kai : 52184
+313 answerer Chen Yi Ling : 52191
+Asker Huang Zhijun : 52237
+Asker Huang Zhijun : 52281
+442 answerer Fuzi Rui : 52288
+117 passer Chang Chun Peng : 52288
+117 passer Chang Chun Peng : 52288
+117 passer Chang Chun Peng : 52288
+117 passer Chang Chun Peng : 52288
+341 answerer Fuzi Rui : 52290
+109 answerer Fuzi Rui : 52334
+305 answerer Fuzi Rui : 52338
+251 answerer Fuzi Rui : 52347
+400 answerer Fuzi Rui : 52353
+Asker Chang Chun Peng : 52409
+Asker Chenjia Ru : 52550
+202 answerer Chen Yi Ling : 52595
+202 passer Chen Yi Ling : 52595
+202 answerer Fuzi Rui : 52610
+239 passer Fuzi Rui : 52691
+239 answerer Fuzi Rui : 52691
+239 answerer Chen Yi Ling : 52736
+115 answerer Fuzi Rui : 52783
+420 passer Fuzi Rui : 52783
+420 answerer Fuzi Rui : 52783
+Asker Li Yuzhe : 52818
+420 answerer Chen Yi Ling : 52828
+Asker Weng Zaihao : 52843
+59 answerer Fuzi Rui : 52871
+192 answerer Fuzi Rui : 52888
+192 passer Fuzi Rui : 52888
+192 answerer Chen Yi Ling : 52903
+40 passer Chang Chun Peng : 52928
+40 passer Chang Chun Peng : 52928
+40 passer Chang Chun Peng : 52928
+40 passer Chang Chun Peng : 52928
+132 passer Fuzi Rui : 52944
+132 answerer Fuzi Rui : 52944
+206 answerer Fuzi Rui : 52974
+49 passer Fuzi Rui : 52989
+49 answerer Fuzi Rui : 52989
+132 answerer Chen Yi Ling : 52989
+Asker Liven Pan : 53009
+201 answerer Fuzi Rui : 53019
+314 passer Fuzi Rui : 53022
+314 answerer Fuzi Rui : 53022
+49 answerer Chen Yi Ling : 53034
+106 answerer Chen Yi Ling : 53054
+106 passer Chen Yi Ling : 53054
+314 answerer Chen Yi Ling : 53067
+105 answerer Fuzi Rui : 53078
+403 answerer Fuzi Rui : 53092
+106 answerer Fuzi Rui : 53099
+231 answerer Fuzi Rui : 53102
+231 passer Fuzi Rui : 53102
+Asker Martha Fu : 53104
+139 answerer Fuzi Rui : 53105
+Asker Huang Zhenting : 53152
+3 passer Deng Yizhen : 53164
+3 passer Deng Yizhen : 53164
+3 passer Deng Yizhen : 53164
+3 passer Fuzi Rui : 53209
+3 answerer Fuzi Rui : 53209
+30 answerer Fuzi Rui : 53224
+396 passer Fuzi Rui : 53242
+396 answerer Fuzi Rui : 53242
+3 answerer Chen Yi Ling : 53254
+443 answerer Fuzi Rui : 53287
+396 answerer Chen Yi Ling : 53287
+Asker Su Yang Xi : 53317
+401 answerer Fuzi Rui : 53340
+334 passer Fuzi Rui : 53347
+334 answerer Fuzi Rui : 53347
+334 passer Fuzi Rui : 53347
+116 passer Chang Chun Peng : 53358
+116 passer Chang Chun Peng : 53358
+116 passer Chang Chun Peng : 53358
+116 passer Chang Chun Peng : 53358
+373 answerer Fuzi Rui : 53383
+334 answerer Chen Yi Ling : 53392
+421 passer Fuzi Rui : 53417
+421 answerer Fuzi Rui : 53417
+61 answerer Fuzi Rui : 53434
+417 passer Fuzi Rui : 53437
+417 answerer Fuzi Rui : 53437
+421 answerer Chen Yi Ling : 53462
+417 answerer Chen Yi Ling : 53482
+352 passer Fuzi Rui : 53494
+352 answerer Fuzi Rui : 53494
+352 answerer Chen Yi Ling : 53539
+119 passer Chang Chun Peng : 53587
+119 passer Chang Chun Peng : 53587
+119 passer Chang Chun Peng : 53587
+119 passer Chang Chun Peng : 53587
+87 passer Fuzi Rui : 53588
+87 answerer Fuzi Rui : 53588
+338 answerer Fuzi Rui : 53613
+31 answerer Fuzi Rui : 53615
+118 passer Chang Chun Peng : 53624
+118 passer Chang Chun Peng : 53624
+118 passer Chang Chun Peng : 53624
+118 passer Chang Chun Peng : 53624
+87 answerer Chen Yi Ling : 53633
+422 passer Fuzi Rui : 53645
+422 answerer Fuzi Rui : 53645
+304 answerer Fuzi Rui : 53657
+418 passer Fuzi Rui : 53690
+418 answerer Fuzi Rui : 53690
+422 answerer Chen Yi Ling : 53690
+424 passer Fuzi Rui : 53691
+424 answerer Fuzi Rui : 53691
+212 answerer Fuzi Rui : 53691
+Asker Zhong Xuan can : 53704
+433 answerer Fuzi Rui : 53709
+418 answerer Chen Yi Ling : 53735
+424 answerer Chen Yi Ling : 53736
+Asker Zhang Qi : 53758
+38 answerer Fuzi Rui : 53758
+1 passer Fuzi Rui : 53795
+1 answerer Fuzi Rui : 53795
+325 passer Fuzi Rui : 53797
+325 answerer Fuzi Rui : 53797
+146 answerer Fuzi Rui : 53805
+23 answerer Fuzi Rui : 53839
+1 answerer Chen Yi Ling : 53840
+325 answerer Chen Yi Ling : 53842
+322 passer Fuzi Rui : 53847
+322 answerer Fuzi Rui : 53847
+423 passer Fuzi Rui : 53856
+423 answerer Fuzi Rui : 53856
+175 answerer Fuzi Rui : 53857
+104 answerer Fuzi Rui : 53864
+322 answerer Chen Yi Ling : 53892
+250 answerer Fuzi Rui : 53895
+423 answerer Chen Yi Ling : 53901
+133 passer Fuzi Rui : 53946
+133 answerer Fuzi Rui : 53946
+300 answerer Fuzi Rui : 53962
+133 answerer Chen Yi Ling : 53991
+120 passer Chang Chun Peng : 54031
+120 passer Chang Chun Peng : 54031
+120 passer Chang Chun Peng : 54031
+120 passer Chang Chun Peng : 54031
+291 passer Weng Zaihao : 54049
+416 passer Fuzi Rui : 54057
+416 answerer Fuzi Rui : 54057
+291 answerer Zou Yun Yun : 54064
+147 passer Zhang Yan Yu : 54085
+147 passer Zhang Yan Yu : 54085
+147 passer Zhang Yan Yu : 54085
+147 passer Zhang Yan Yu : 54085
+120 passer Zhang Yan Yu : 54091
+120 passer Zhang Yan Yu : 54091
+120 passer Zhang Yan Yu : 54091
+120 passer Zhang Yan Yu : 54091
+301 passer Zhang Yan Yu : 54112
+301 passer Zhang Yan Yu : 54112
+301 passer Zhang Yan Yu : 54112
+301 passer Zhang Yan Yu : 54112
+14 passer Weng Zaihao : 54115
+14 answerer Zou Yun Yun : 54115
+147 passer Jimmy Yuan : 54145
+147 passer Jimmy Yuan : 54145
+147 passer Jimmy Yuan : 54145
+147 passer Jimmy Yuan : 54145
+120 passer Jimmy Yuan : 54151
+120 passer Jimmy Yuan : 54151
+120 passer Jimmy Yuan : 54151
+120 passer Jimmy Yuan : 54151
+301 passer Jimmy Yuan : 54172
+301 passer Jimmy Yuan : 54172
+301 passer Jimmy Yuan : 54172
+301 passer Jimmy Yuan : 54172
+147 passer Zou Yun Yun : 54205
+147 passer Zou Yun Yun : 54205
+147 answerer Zou Yun Yun : 54205
+147 passer Zou Yun Yun : 54205
+120 passer Zou Yun Yun : 54211
+120 passer Zou Yun Yun : 54211
+120 answerer Zou Yun Yun : 54211
+120 passer Zou Yun Yun : 54211
+301 passer Zou Yun Yun : 54232
+301 passer Zou Yun Yun : 54232
+301 answerer Zou Yun Yun : 54232
+301 passer Zou Yun Yun : 54232
+147 answerer Fuzi Rui : 54265
+120 answerer Fuzi Rui : 54271
+301 answerer Fuzi Rui : 54292
+359 passer Liu Fengxuan : 54327
+359 answerer Zou Yun Yun : 54372
+77 passer Jimmy Yuan : 54412
+77 passer Jimmy Yuan : 54412
+77 passer Jimmy Yuan : 54412
+77 passer Jimmy Yuan : 54412
+77 passer Zou Yun Yun : 54472
+77 passer Zou Yun Yun : 54472
+77 answerer Zou Yun Yun : 54472
+77 passer Zou Yun Yun : 54472
+Asker Yang Junwei : 54526
+77 answerer Fuzi Rui : 54532
+33 passer Weng Zaihao : 54586
+33 passer Weng Zaihao : 54586
+33 passer Liu Fengxuan : 54586
+33 passer Liu Fengxuan : 54586
+140 passer Weng Zaihao : 54602
+140 passer Liu Fengxuan : 54602
+33 answerer Fuzi Rui : 54631
+33 answerer Zou Yun Yun : 54631
+140 answerer Fuzi Rui : 54647
+140 answerer Zou Yun Yun : 54647
+438 passer Weng Zaihao : 54815
+438 passer Weng Zaihao : 54815
+438 passer Liu Fengxuan : 54815
+271 answerer Zou Yun Yun : 54824
+121 passer Zhang Yan Yu : 54840
+121 passer Zhang Yan Yu : 54840
+121 passer Zhang Yan Yu : 54840
+121 passer Zhang Yan Yu : 54840
+54 answerer Zou Yun Yun : 54854
+438 answerer Fuzi Rui : 54860
+438 answerer Zou Yun Yun : 54860
+152 passer Jimmy Yuan : 54892
+152 passer Jimmy Yuan : 54892
+152 passer Jimmy Yuan : 54892
+152 passer Jimmy Yuan : 54892
+121 passer Jimmy Yuan : 54900
+121 passer Jimmy Yuan : 54900
+121 passer Jimmy Yuan : 54900
+121 passer Jimmy Yuan : 54900
+Asker Jason Lin : 54901
+157 passer Jimmy Yuan : 54928
+157 passer Jimmy Yuan : 54928
+157 passer Jimmy Yuan : 54928
+157 passer Jimmy Yuan : 54928
+232 answerer Zou Yun Yun : 54945
+152 passer Zou Yun Yun : 54952
+152 passer Zou Yun Yun : 54952
+152 answerer Zou Yun Yun : 54952
+152 passer Zou Yun Yun : 54952
+121 passer Zou Yun Yun : 54960
+121 passer Zou Yun Yun : 54960
+121 answerer Zou Yun Yun : 54960
+121 passer Zou Yun Yun : 54960
+169 passer Chenjia Ru : 54971
+169 passer Chenjia Ru : 54971
+169 passer Chenjia Ru : 54971
+169 passer Chenjia Ru : 54971
+157 passer Zou Yun Yun : 54988
+157 passer Zou Yun Yun : 54988
+157 answerer Zou Yun Yun : 54988
+157 passer Zou Yun Yun : 54988
+70 passer Liu Fengxuan : 55011
+152 answerer Fuzi Rui : 55012
+121 answerer Fuzi Rui : 55020
+169 answerer Fuzi Rui : 55031
+39 passer Zhang Yan Yu : 55041
+39 passer Zhang Yan Yu : 55041
+39 passer Zhang Yan Yu : 55041
+39 passer Zhang Yan Yu : 55041
+157 answerer Fuzi Rui : 55048
+70 answerer Zou Yun Yun : 55056
+53 answerer Zou Yun Yun : 55058
+39 passer Jimmy Yuan : 55101
+39 passer Jimmy Yuan : 55101
+39 passer Jimmy Yuan : 55101
+39 passer Jimmy Yuan : 55101
+2 passer Jimmy Yuan : 55152
+39 passer Zou Yun Yun : 55161
+39 passer Zou Yun Yun : 55161
+39 answerer Zou Yun Yun : 55161
+39 passer Zou Yun Yun : 55161
+335 answerer Zou Yun Yun : 55161
+2 answerer Zou Yun Yun : 55212
+39 answerer Fuzi Rui : 55221
+84 passer Liu Fengxuan : 55323
+Asker Yang Junwei : 55628
+413 passer Chen Weijun : 55635
+413 passer Chen Weijun : 55635
+413 passer Chen Weijun : 55635
+413 passer Chen Weijun : 55635
+141 passer Weng Zaihao : 55687
+141 passer Liu Fengxuan : 55687
+34 passer Weng Zaihao : 55688
+34 passer Weng Zaihao : 55688
+34 passer Liu Fengxuan : 55688
+34 passer Liu Fengxuan : 55688
+413 passer Fuzi Rui : 55695
+413 answerer Fuzi Rui : 55695
+413 passer Liu Fengxuan : 55695
+141 answerer Fuzi Rui : 55732
+141 answerer Zou Yun Yun : 55732
+34 answerer Fuzi Rui : 55733
+34 answerer Zou Yun Yun : 55733
+413 answerer Zou Yun Yun : 55740
+405 passer Zhang Yan Yu : 55844
+405 passer Zhang Yan Yu : 55844
+405 passer Zhang Yan Yu : 55844
+405 passer Zhang Yan Yu : 55844
+405 passer Jimmy Yuan : 55904
+405 passer Jimmy Yuan : 55904
+405 passer Jimmy Yuan : 55904
+405 passer Jimmy Yuan : 55904
+117 passer Zhang Yan Yu : 55948
+117 passer Zhang Yan Yu : 55948
+117 passer Zhang Yan Yu : 55948
+117 passer Zhang Yan Yu : 55948
+405 passer Zou Yun Yun : 55964
+405 passer Zou Yun Yun : 55964
+405 answerer Zou Yun Yun : 55964
+405 passer Zou Yun Yun : 55964
+Asker Guan Ai Wu : 55996
+Asker Yang Zhuoyun : 56001
+117 passer Jimmy Yuan : 56008
+117 passer Jimmy Yuan : 56008
+117 passer Jimmy Yuan : 56008
+117 passer Jimmy Yuan : 56008
+405 answerer Fuzi Rui : 56024
+353 passer Chen Weijun : 56056
+353 passer Chen Weijun : 56056
+353 passer Chen Weijun : 56056
+353 passer Chen Weijun : 56056
+153 passer Jimmy Yuan : 56061
+153 passer Jimmy Yuan : 56061
+153 passer Jimmy Yuan : 56061
+153 passer Jimmy Yuan : 56061
+117 passer Zou Yun Yun : 56068
+117 passer Zou Yun Yun : 56068
+117 answerer Zou Yun Yun : 56068
+117 passer Zou Yun Yun : 56068
+148 passer Zhang Yan Yu : 56069
+148 passer Zhang Yan Yu : 56069
+148 passer Zhang Yan Yu : 56069
+148 passer Zhang Yan Yu : 56069
+404 passer Zhang Yan Yu : 56085
+404 passer Zhang Yan Yu : 56085
+404 passer Zhang Yan Yu : 56085
+404 passer Zhang Yan Yu : 56085
+Asker Howard Hsu : 56108
+353 passer Fuzi Rui : 56116
+353 answerer Fuzi Rui : 56116
+353 passer Liu Fengxuan : 56116
+153 passer Zou Yun Yun : 56121
+153 passer Zou Yun Yun : 56121
+153 answerer Zou Yun Yun : 56121
+153 passer Zou Yun Yun : 56121
+117 answerer Fuzi Rui : 56128
+148 passer Jimmy Yuan : 56129
+148 passer Jimmy Yuan : 56129
+148 passer Jimmy Yuan : 56129
+148 passer Jimmy Yuan : 56129
+404 passer Jimmy Yuan : 56145
+404 passer Jimmy Yuan : 56145
+404 passer Jimmy Yuan : 56145
+404 passer Jimmy Yuan : 56145
+353 answerer Zou Yun Yun : 56161
+95 passer Weng Zaihao : 56168
+95 passer Weng Zaihao : 56168
+95 passer Weng Zaihao : 56168
+153 answerer Fuzi Rui : 56181
+148 passer Zou Yun Yun : 56189
+148 passer Zou Yun Yun : 56189
+148 answerer Zou Yun Yun : 56189
+148 passer Zou Yun Yun : 56189
+404 passer Zou Yun Yun : 56205
+404 passer Zou Yun Yun : 56205
+404 answerer Zou Yun Yun : 56205
+404 passer Zou Yun Yun : 56205
+95 answerer Fuzi Rui : 56213
+95 answerer Zou Yun Yun : 56228
+148 answerer Fuzi Rui : 56249
+202 answerer Zou Yun Yun : 56255
+404 answerer Fuzi Rui : 56265
+Asker Su Yang Xi : 56292
+Asker Peng Wei Wang : 56432
+414 passer Chen Weijun : 56478
+414 passer Chen Weijun : 56478
+414 passer Chen Weijun : 56478
+414 passer Chen Weijun : 56478
+192 answerer Zou Yun Yun : 56503
+414 passer Fuzi Rui : 56538
+414 answerer Fuzi Rui : 56538
+414 passer Liu Fengxuan : 56538
+132 passer Liu Fengxuan : 56544
+414 answerer Zou Yun Yun : 56583
+40 passer Zhang Yan Yu : 56588
+40 passer Zhang Yan Yu : 56588
+40 passer Zhang Yan Yu : 56588
+40 passer Zhang Yan Yu : 56588
+132 answerer Zou Yun Yun : 56589
+40 passer Jimmy Yuan : 56648
+40 passer Jimmy Yuan : 56648
+40 passer Jimmy Yuan : 56648
+40 passer Jimmy Yuan : 56648
+106 answerer Zou Yun Yun : 56654
+106 passer Zou Yun Yun : 56654
+40 passer Zou Yun Yun : 56708
+40 passer Zou Yun Yun : 56708
+40 answerer Zou Yun Yun : 56708
+40 passer Zou Yun Yun : 56708
+231 answerer Zou Yun Yun : 56762
+3 passer Jimmy Yuan : 56764
+40 answerer Fuzi Rui : 56768
+88 passer Chen Weijun : 56812
+88 passer Chen Weijun : 56812
+88 passer Chen Weijun : 56812
+88 passer Chen Weijun : 56812
+32 passer Weng Zaihao : 56814
+32 passer Weng Zaihao : 56814
+32 passer Liu Fengxuan : 56814
+32 passer Liu Fengxuan : 56814
+3 answerer Zou Yun Yun : 56824
+32 answerer Fuzi Rui : 56859
+32 answerer Zou Yun Yun : 56859
+88 passer Fuzi Rui : 56872
+88 answerer Fuzi Rui : 56872
+88 passer Liu Fengxuan : 56872
+88 answerer Zou Yun Yun : 56917
+334 answerer Zou Yun Yun : 57007
+116 passer Zhang Yan Yu : 57018
+116 passer Zhang Yan Yu : 57018
+116 passer Zhang Yan Yu : 57018
+116 passer Zhang Yan Yu : 57018
+116 passer Jimmy Yuan : 57078
+116 passer Jimmy Yuan : 57078
+116 passer Jimmy Yuan : 57078
+116 passer Jimmy Yuan : 57078
+Asker Jimmy Yuan : 57084
+116 passer Zou Yun Yun : 57138
+116 passer Zou Yun Yun : 57138
+116 answerer Zou Yun Yun : 57138
+116 passer Zou Yun Yun : 57138
+7 passer Zou Yun Yun : 57144
+7 passer Zou Yun Yun : 57144
+7 answerer Zou Yun Yun : 57144
+7 passer Zou Yun Yun : 57144
+31 passer Liu Fengxuan : 57170
+31 passer Liu Fengxuan : 57170
+116 answerer Fuzi Rui : 57198
+7 answerer Fuzi Rui : 57204
+31 answerer Zou Yun Yun : 57215
+119 passer Zhang Yan Yu : 57247
+119 passer Zhang Yan Yu : 57247
+119 passer Zhang Yan Yu : 57247
+119 passer Zhang Yan Yu : 57247
+118 passer Zhang Yan Yu : 57284
+118 passer Zhang Yan Yu : 57284
+118 passer Zhang Yan Yu : 57284
+118 passer Zhang Yan Yu : 57284
+119 passer Jimmy Yuan : 57307
+119 passer Jimmy Yuan : 57307
+119 passer Jimmy Yuan : 57307
+119 passer Jimmy Yuan : 57307
+Asker Weng Zaihao : 57324
+118 passer Jimmy Yuan : 57344
+118 passer Jimmy Yuan : 57344
+118 passer Jimmy Yuan : 57344
+118 passer Jimmy Yuan : 57344
+110 passer Jimmy Yuan : 57364
+110 passer Jimmy Yuan : 57364
+110 passer Jimmy Yuan : 57364
+110 passer Jimmy Yuan : 57364
+119 passer Zou Yun Yun : 57367
+119 passer Zou Yun Yun : 57367
+119 answerer Zou Yun Yun : 57367
+119 passer Zou Yun Yun : 57367
+193 answerer Fuzi Rui : 57369
+193 passer Fuzi Rui : 57369
+193 answerer Zou Yun Yun : 57384
+118 passer Zou Yun Yun : 57404
+118 passer Zou Yun Yun : 57404
+118 answerer Zou Yun Yun : 57404
+118 passer Zou Yun Yun : 57404
+110 passer Zou Yun Yun : 57424
+110 passer Zou Yun Yun : 57424
+110 answerer Zou Yun Yun : 57424
+110 passer Zou Yun Yun : 57424
+119 answerer Fuzi Rui : 57427
+118 answerer Fuzi Rui : 57464
+110 answerer Fuzi Rui : 57484
+Asker Stephanie Kao : 57532
+133 passer Liu Fengxuan : 57546
+133 answerer Zou Yun Yun : 57591
+158 passer Jimmy Yuan : 57592
+158 passer Jimmy Yuan : 57592
+158 passer Jimmy Yuan : 57592
+158 passer Jimmy Yuan : 57592
+Asker Xiang Yang Min : 57647
+158 passer Zou Yun Yun : 57652
+158 passer Zou Yun Yun : 57652
+158 answerer Zou Yun Yun : 57652
+158 passer Zou Yun Yun : 57652
+291 answerer Liao Xun weight : 57664
+209 passer Liven Pan : 57707
+209 passer Liven Pan : 57707
+158 answerer Liao Xun weight : 57712
+14 answerer Liao Xun weight : 57715
+147 answerer Liao Xun weight : 57865
+120 answerer Liao Xun weight : 57871
+301 answerer Liao Xun weight : 57892
+Asker Li Jingying : 57918
+78 passer Jimmy Yuan : 57978
+78 passer Jimmy Yuan : 57978
+78 passer Jimmy Yuan : 57978
+78 passer Jimmy Yuan : 57978
+Asker Huang Han : 57998
+342 passer Wen Shi Kai : 58022
+342 passer Wen Shi Kai : 58022
+342 passer Wen Shi Kai : 58022
+342 passer Wen Shi Kai : 58022
+342 passer Zhang Yan Yu : 58082
+342 passer Zhang Yan Yu : 58082
+342 passer Zhang Yan Yu : 58082
+342 passer Zhang Yan Yu : 58082
+Asker Lin Zhen : 58097
+77 answerer Liao Xun weight : 58132
+342 passer Jimmy Yuan : 58142
+342 passer Jimmy Yuan : 58142
+342 passer Jimmy Yuan : 58142
+342 passer Jimmy Yuan : 58142
+436 passer Zhong Xuan can : 58142
+436 passer Zhong Xuan can : 58142
+436 passer Zhong Xuan can : 58142
+436 passer Zhong Xuan can : 58142
+436 passer Jimmy Yuan : 58202
+436 passer Jimmy Yuan : 58202
+436 passer Jimmy Yuan : 58202
+436 passer Jimmy Yuan : 58202
+33 answerer Liao Xun weight : 58246
+271 answerer Liao Xun weight : 58424
+Asker Bai Li Jian : 58437
+375 passer Liu Fengxuan : 58497
+51 passer Winnie Chang : 58561
+51 passer Winnie Chang : 58561
+51 passer Winnie Chang : 58561
+51 passer Winnie Chang : 58561
+152 answerer Liao Xun weight : 58612
+Asker Howard Hsu : 58615
+121 answerer Liao Xun weight : 58620
+51 passer Song Pei Hoon : 58621
+51 passer Song Pei Hoon : 58621
+51 passer Jimmy Yuan : 58621
+51 passer Song Pei Hoon : 58621
+169 answerer Liao Xun weight : 58631
+Asker Yushi Yeap : 58633
+157 answerer Liao Xun weight : 58648
+96 passer Weng Zaihao : 58675
+96 passer Weng Zaihao : 58675
+96 passer Weng Zaihao : 58675
+51 answerer Liao Xun weight : 58681
+365 passer Jimmy Yuan : 58693
+365 passer Jimmy Yuan : 58693
+365 passer Jimmy Yuan : 58693
+365 passer Jimmy Yuan : 58693
+335 answerer Liao Xun weight : 58716
+Asker Alex Chiang : 58792
+Asker Huang Zhenting : 58805
+2 answerer Liao Xun weight : 58812
+39 answerer Liao Xun weight : 58821
+191 answerer Liao Xun weight : 58845
+Asker Stephanie Kao : 59051
+159 passer Jimmy Yuan : 59111
+159 passer Jimmy Yuan : 59111
+159 passer Jimmy Yuan : 59111
+159 passer Jimmy Yuan : 59111
+343 passer Wen Shi Kai : 59176
+343 passer Wen Shi Kai : 59176
+343 passer Wen Shi Kai : 59176
+343 passer Wen Shi Kai : 59176
+343 passer Zhang Yan Yu : 59236
+343 passer Zhang Yan Yu : 59236
+343 passer Zhang Yan Yu : 59236
+343 passer Zhang Yan Yu : 59236
+413 answerer Liao Xun weight : 59295
+343 passer Jimmy Yuan : 59296
+343 passer Jimmy Yuan : 59296
+343 passer Jimmy Yuan : 59296
+343 passer Jimmy Yuan : 59296
+Asker Stephanie Kao : 59335
+Asker Yang Junwei : 59339
+34 answerer Liao Xun weight : 59348
+160 passer Jimmy Yuan : 59395
+160 passer Jimmy Yuan : 59395
+160 passer Jimmy Yuan : 59395
+160 passer Jimmy Yuan : 59395
+35 passer Weng Zaihao : 59399
+35 passer Weng Zaihao : 59399
+35 passer Liu Fengxuan : 59399
+35 passer Liu Fengxuan : 59399
+35 answerer Liao Xun weight : 59459
+Asker Ruan Yushan : 59583
+405 answerer Liao Xun weight : 59624
+439 passer Weng Zaihao : 59643
+439 passer Weng Zaihao : 59643
+439 passer Liu Fengxuan : 59643
+439 answerer Liao Xun weight : 59643
+353 answerer Liao Xun weight : 59716
+117 answerer Liao Xun weight : 59728
+153 answerer Liao Xun weight : 59781
+202 answerer Liao Xun weight : 59810
+148 answerer Liao Xun weight : 59849
+404 answerer Liao Xun weight : 59865
+50 passer Winnie Chang : 59963
+50 passer Winnie Chang : 59963
+50 passer Winnie Chang : 59963
+50 passer Winnie Chang : 59963
+50 passer Song Pei Hoon : 60023
+50 passer Song Pei Hoon : 60023
+50 passer Jimmy Yuan : 60023
+50 passer Song Pei Hoon : 60023
+50 answerer Liao Xun weight : 60083
+414 answerer Liao Xun weight : 60138
+192 answerer Liao Xun weight : 60148
+Asker Deng Yizhen : 60303
+106 answerer Liao Xun weight : 60314
+336 answerer Liao Xun weight : 60363
+40 answerer Liao Xun weight : 60368
+3 answerer Liao Xun weight : 60424
+Asker Fuzi Rui : 60428
+88 answerer Liao Xun weight : 60472
+292 passer Weng Zaihao : 60473
+32 answerer Liao Xun weight : 60474
+292 answerer Liao Xun weight : 60488
+Asker Harry Chen : 60589
+116 answerer Liao Xun weight : 60798
+7 answerer Liao Xun weight : 60804
+31 answerer Liao Xun weight : 60830
+Asker Liuling Jun : 60851
+263 answerer Liao Xun weight : 60911
+119 answerer Liao Xun weight : 61027
+193 answerer Liao Xun weight : 61029
+Asker Lin Chunan : 61030
+118 answerer Liao Xun weight : 61064
+110 answerer Liao Xun weight : 61084
+Asker Wu Chenxi : 61576
+Asker Fuzi Rui : 61602
+176 passer Lin Zhen : 61636
+176 passer Lin Zhen : 61636
+176 passer Lin Zhen : 61636
+176 passer Lin Zhen : 61636
+Asker Liu Ting Yi : 61730
+Asker High Ze Quan : 61777
+Asker Harry Chen : 61788
+20 passer Lin Zhen : 61848
+20 passer Lin Zhen : 61848
+20 passer Lin Zhen : 61848
+20 passer Lin Zhen : 61848
+Asker Chen Weijun : 62044
+280 passer Liu Fengxuan : 62104
+Asker Jimmy Yuan : 62177
+Asker Wong Yang : 62279
+344 passer Wen Shi Kai : 62339
+344 passer Wen Shi Kai : 62339
+344 passer Wen Shi Kai : 62339
+344 passer Wen Shi Kai : 62339
+89 passer Chen Weijun : 62465
+89 passer Chen Weijun : 62465
+89 passer Chen Weijun : 62465
+89 passer Chen Weijun : 62465
+Asker Wong Yang : 62490
+89 passer Liu Fengxuan : 62525
+345 passer Wen Shi Kai : 62550
+345 passer Wen Shi Kai : 62550
+345 passer Wen Shi Kai : 62550
+345 passer Wen Shi Kai : 62550
+Asker Li Jingying : 63060
+Asker Yushi Yeap : 63108
+Asker Yang Hyun Christine : 63297
+Asker Wu Chenxi : 63506
+177 passer Lin Zhen : 63566
+177 passer Lin Zhen : 63566
+177 passer Lin Zhen : 63566
+177 passer Lin Zhen : 63566
+Asker Liu Ting Yi : 63687
+25 passer Lin Zhen : 63692
+25 passer Lin Zhen : 63692
+25 passer Lin Zhen : 63692
+25 passer Lin Zhen : 63692
+Asker Chen Yi Ling : 63732
+Asker Lin Wan Xuan : 64202
+Asker Kang Mingxi : 64227
+19 passer Lin Zhen : 64249
+19 passer Lin Zhen : 64249
+19 passer Lin Zhen : 64249
+19 passer Lin Zhen : 64249
+360 passer Liu Fengxuan : 64284
+Asker Chen Weijun : 64353
+281 passer Liu Fengxuan : 64413
+Asker Zhang Liangwei : 64946
+Asker Lin Wan Xuan : 65130
+242 answerer Liao Xun weight : 65190
+293 passer Weng Zaihao : 65247
+293 answerer Liao Xun weight : 65262
+176 passer Zhong Xuan can : 65281
+176 passer Zhong Xuan can : 65281
+176 passer Zhong Xuan can : 65281
+176 passer Zhong Xuan can : 65281
+176 passer Jimmy Yuan : 65341
+176 passer Jimmy Yuan : 65341
+176 passer Jimmy Yuan : 65341
+176 passer Jimmy Yuan : 65341
+387 passer Jimmy Yuan : 65390
+387 passer Jimmy Yuan : 65390
+387 passer Jimmy Yuan : 65390
+387 passer Jimmy Yuan : 65390
+Asker Zhang Qi : 65409
+397 answerer Liao Xun weight : 65437
+20 passer Zhong Xuan can : 65493
+20 passer Zhong Xuan can : 65493
+20 passer Zhong Xuan can : 65493
+20 passer Zhong Xuan can : 65493
+20 passer Jimmy Yuan : 65553
+20 passer Jimmy Yuan : 65553
+20 passer Jimmy Yuan : 65553
+20 passer Jimmy Yuan : 65553
+Asker Chen Weijun : 65602
+282 answerer Liao Xun weight : 65662
+375 passer Deng Yizhen : 65697
+375 passer High Ze Quan : 65697
+280 answerer Liao Xun weight : 65704
+375 answerer Liao Xun weight : 65757
+96 passer Lin Zonghan : 65875
+96 answerer Liao Xun weight : 65935
+55 passer Deng Yizhen : 66052
+55 passer Deng Yizhen : 66052
+55 passer Deng Yizhen : 66052
+Asker High Ze Quan : 66078
+Asker Liven Pan : 66088
+55 answerer Liao Xun weight : 66112
+89 answerer Liao Xun weight : 66125
+398 answerer Liao Xun weight : 66138
+Asker Liu Fengxuan : 66393
+276 answerer Liao Xun weight : 66453
+Asker Huang Zhenting : 66517
+Asker Su Yang Xi : 66529
+446 passer Yushi Yeap : 66589
+446 passer Yushi Yeap : 66589
+446 passer Yushi Yeap : 66589
+446 passer Yushi Yeap : 66589
+446 passer Jimmy Yuan : 66649
+446 passer Jimmy Yuan : 66649
+446 passer Jimmy Yuan : 66649
+446 passer Jimmy Yuan : 66649
+Asker Lin Chunan : 66687
+79 passer Jimmy Yuan : 66720
+79 passer Jimmy Yuan : 66720
+79 passer Jimmy Yuan : 66720
+79 passer Jimmy Yuan : 66720
+123 passer Chang Chun Peng : 66747
+123 passer Chang Chun Peng : 66747
+123 passer Chang Chun Peng : 66747
+123 passer Chang Chun Peng : 66747
+366 passer Jimmy Yuan : 66768
+366 passer Jimmy Yuan : 66768
+366 passer Jimmy Yuan : 66768
+366 passer Jimmy Yuan : 66768
+184 answerer Liao Xun weight : 66957
+95 passer Lin Zonghan : 66968
+95 answerer Liao Xun weight : 67028
+445 passer Yushi Yeap : 67152
+445 passer Yushi Yeap : 67152
+445 passer Yushi Yeap : 67152
+445 passer Yushi Yeap : 67152
+177 passer Zhong Xuan can : 67211
+177 passer Zhong Xuan can : 67211
+177 passer Zhong Xuan can : 67211
+177 passer Zhong Xuan can : 67211
+445 passer Jimmy Yuan : 67212
+445 passer Jimmy Yuan : 67212
+445 passer Jimmy Yuan : 67212
+445 passer Jimmy Yuan : 67212
+177 passer Jimmy Yuan : 67271
+177 passer Jimmy Yuan : 67271
+177 passer Jimmy Yuan : 67271
+177 passer Jimmy Yuan : 67271
+25 passer Zhong Xuan can : 67337
+25 passer Zhong Xuan can : 67337
+25 passer Zhong Xuan can : 67337
+25 passer Zhong Xuan can : 67337
+388 passer Jimmy Yuan : 67347
+388 passer Jimmy Yuan : 67347
+388 passer Jimmy Yuan : 67347
+388 passer Jimmy Yuan : 67347
+15 passer Weng Zaihao : 67392
+15 answerer Liao Xun weight : 67392
+25 passer Jimmy Yuan : 67397
+25 passer Jimmy Yuan : 67397
+25 passer Jimmy Yuan : 67397
+25 passer Jimmy Yuan : 67397
+Asker Liuling Jun : 67517
+264 answerer Liao Xun weight : 67577
+Asker Chen Weijun : 67743
+444 passer Yushi Yeap : 67777
+444 passer Yushi Yeap : 67777
+444 passer Yushi Yeap : 67777
+444 passer Yushi Yeap : 67777
+283 answerer Liao Xun weight : 67803
+444 passer Jimmy Yuan : 67837
+444 passer Jimmy Yuan : 67837
+444 passer Jimmy Yuan : 67837
+444 passer Jimmy Yuan : 67837
+241 answerer Liao Xun weight : 67862
+Asker Song Pei Hoon : 67867
+360 answerer Liao Xun weight : 67884
+19 passer Zhong Xuan can : 67894
+19 passer Zhong Xuan can : 67894
+19 passer Zhong Xuan can : 67894
+19 passer Zhong Xuan can : 67894
+134 answerer Liao Xun weight : 67927
+19 passer Jimmy Yuan : 67954
+19 passer Jimmy Yuan : 67954
+19 passer Jimmy Yuan : 67954
+19 passer Jimmy Yuan : 67954
+281 answerer Liao Xun weight : 68013
+Asker Howard Hsu : 68244
+122 passer Chang Chun Peng : 68290
+122 passer Chang Chun Peng : 68290
+122 passer Chang Chun Peng : 68290
+122 passer Chang Chun Peng : 68290
+97 passer Weng Zaihao : 68304
+97 passer Weng Zaihao : 68304
+97 passer Weng Zaihao : 68304
+97 passer Lin Zonghan : 68304
+97 answerer Liao Xun weight : 68364
+Asker Wen Shi Kai : 68436
+406 passer Zhang Yan Yu : 68496
+406 passer Zhang Yan Yu : 68496
+406 passer Zhang Yan Yu : 68496
+406 passer Zhang Yan Yu : 68496
+416 answerer Chen Yi Ling : 68502
+209 passer Lizi Xuan : 68507
+209 passer Lizi Xuan : 68507
+291 answerer Ruan Yushan : 68509
+158 answerer Chen Yi Ling : 68512
+209 answerer Chen Yi Ling : 68552
+209 answerer Zou Yun Yun : 68552
+209 answerer Liao Xun weight : 68567
+14 answerer Ruan Yushan : 68575
+71 passer Ruan Yushan : 68606
+71 passer Ruan Yushan : 68606
+71 passer Ruan Yushan : 68606
+71 passer Ruan Yushan : 68606
+Asker Yang Junwei : 68663
+147 answerer Chen Yi Ling : 68665
+71 answerer Liao Xun weight : 68666
+120 answerer Chen Yi Ling : 68671
+301 answerer Chen Yi Ling : 68692
+242 answerer Zou Yun Yun : 68790
+78 passer Zou Yun Yun : 68838
+78 passer Zou Yun Yun : 68838
+78 answerer Zou Yun Yun : 68838
+78 passer Zou Yun Yun : 68838
+293 answerer Chen Yi Ling : 68847
+170 passer Chenjia Ru : 68858
+170 passer Chenjia Ru : 68858
+170 passer Chenjia Ru : 68858
+170 passer Chenjia Ru : 68858
+293 answerer Zou Yun Yun : 68862
+78 answerer Chen Yi Ling : 68898
+78 answerer Liao Xun weight : 68898
+170 answerer Chen Yi Ling : 68903
+170 passer Chen Yi Ling : 68903
+293 answerer Ruan Yushan : 68907
+170 answerer Liao Xun weight : 68918
+77 answerer Chen Yi Ling : 68932
+170 answerer Zou Yun Yun : 68963
+176 passer Zou Yun Yun : 69001
+176 passer Zou Yun Yun : 69001
+176 answerer Zou Yun Yun : 69001
+176 passer Zou Yun Yun : 69001
+342 passer Zou Yun Yun : 69002
+342 passer Zou Yun Yun : 69002
+342 answerer Zou Yun Yun : 69002
+342 passer Zou Yun Yun : 69002
+397 answerer Zou Yun Yun : 69037
+33 answerer Chen Yi Ling : 69046
+387 passer Zou Yun Yun : 69050
+387 passer Zou Yun Yun : 69050
+387 answerer Zou Yun Yun : 69050
+387 passer Zou Yun Yun : 69050
+176 answerer Chen Yi Ling : 69061
+176 answerer Liao Xun weight : 69061
+342 answerer Chen Yi Ling : 69062
+342 answerer Liao Xun weight : 69062
+436 passer Zou Yun Yun : 69062
+436 passer Zou Yun Yun : 69062
+436 answerer Zou Yun Yun : 69062
+436 passer Zou Yun Yun : 69062
+Asker Yang Hyun Christine : 69085
+387 answerer Chen Yi Ling : 69110
+387 answerer Liao Xun weight : 69110
+436 answerer Chen Yi Ling : 69122
+436 answerer Liao Xun weight : 69122
+185 answerer Chen Yi Ling : 69130
+185 answerer Zou Yun Yun : 69145
+185 answerer Liao Xun weight : 69145
+Asker Winnie Chang : 69172
+20 passer Zou Yun Yun : 69213
+20 passer Zou Yun Yun : 69213
+20 answerer Zou Yun Yun : 69213
+20 passer Zou Yun Yun : 69213
+327 passer Song Pei Hoon : 69232
+327 passer Song Pei Hoon : 69232
+327 passer Song Pei Hoon : 69232
+20 answerer Chen Yi Ling : 69273
+20 answerer Liao Xun weight : 69273
+438 answerer Chen Yi Ling : 69275
+327 answerer Liao Xun weight : 69292
+375 passer Chenjia Ru : 69297
+375 answerer Chen Yi Ling : 69342
+375 answerer Zou Yun Yun : 69342
+280 answerer Zou Yun Yun : 69349
+152 answerer Chen Yi Ling : 69412
+169 answerer Chen Yi Ling : 69416
+169 passer Chen Yi Ling : 69416
+121 answerer Chen Yi Ling : 69420
+8 passer Zou Yun Yun : 69437
+8 passer Zou Yun Yun : 69437
+8 answerer Zou Yun Yun : 69437
+8 passer Zou Yun Yun : 69437
+157 answerer Chen Yi Ling : 69448
+169 answerer Zou Yun Yun : 69476
+Asker Huang Zhijun : 69478
+51 answerer Zou Yun Yun : 69481
+8 answerer Chen Yi Ling : 69497
+8 answerer Liao Xun weight : 69497
+96 answerer Chen Yi Ling : 69535
+96 answerer Zou Yun Yun : 69535
+254 passer Lizi Xuan : 69535
+254 passer Lizi Xuan : 69535
+254 passer Lizi Xuan : 69535
+254 passer Lizi Xuan : 69535
+365 passer Zou Yun Yun : 69553
+365 passer Zou Yun Yun : 69553
+365 answerer Zou Yun Yun : 69553
+365 passer Zou Yun Yun : 69553
+254 answerer Chen Yi Ling : 69595
+254 answerer Zou Yun Yun : 69595
+254 answerer Liao Xun weight : 69595
+344 passer Zhang Yan Yu : 69599
+344 passer Zhang Yan Yu : 69599
+344 passer Zhang Yan Yu : 69599
+344 passer Zhang Yan Yu : 69599
+365 answerer Chen Yi Ling : 69613
+365 answerer Liao Xun weight : 69613
+39 answerer Chen Yi Ling : 69621
+55 passer Chenjia Ru : 69652
+55 answerer Chen Yi Ling : 69697
+107 answerer Chen Yi Ling : 69733
+107 passer Chen Yi Ling : 69733
+107 answerer Zou Yun Yun : 69733
+107 passer Zou Yun Yun : 69733
+398 answerer Zou Yun Yun : 69738
+89 answerer Zou Yun Yun : 69770
+84 answerer Ruan Yushan : 69783
+107 answerer Liao Xun weight : 69793
+345 passer Zhang Yan Yu : 69810
+345 passer Zhang Yan Yu : 69810
+345 passer Zhang Yan Yu : 69810
+345 passer Zhang Yan Yu : 69810
+159 passer Zou Yun Yun : 69971
+159 passer Zou Yun Yun : 69971
+159 answerer Zou Yun Yun : 69971
+159 passer Zou Yun Yun : 69971
+159 answerer Chen Yi Ling : 70031
+159 answerer Liao Xun weight : 70031
+276 answerer Zou Yun Yun : 70038
+Asker Wen Shi Kai : 70041
+276 answerer Chen Yi Ling : 70053
+407 passer Zhang Yan Yu : 70101
+407 passer Zhang Yan Yu : 70101
+407 passer Zhang Yan Yu : 70101
+407 passer Zhang Yan Yu : 70101
+413 answerer Chen Yi Ling : 70140
+34 answerer Chen Yi Ling : 70148
+343 passer Zou Yun Yun : 70156
+343 passer Zou Yun Yun : 70156
+343 answerer Zou Yun Yun : 70156
+343 passer Zou Yun Yun : 70156
+Asker Wu Chenxi : 70158
+90 passer Chen Weijun : 70177
+90 passer Chen Weijun : 70177
+90 passer Chen Weijun : 70177
+90 passer Chen Weijun : 70177
+343 answerer Chen Yi Ling : 70216
+343 answerer Liao Xun weight : 70216
+90 answerer Liao Xun weight : 70237
+35 answerer Zou Yun Yun : 70244
+160 passer Zou Yun Yun : 70255
+160 passer Zou Yun Yun : 70255
+160 answerer Zou Yun Yun : 70255
+160 passer Zou Yun Yun : 70255
+35 answerer Chen Yi Ling : 70259
+252 passer Lizi Xuan : 70294
+252 passer Lizi Xuan : 70294
+252 passer Lizi Xuan : 70294
+252 passer Lizi Xuan : 70294
+446 passer Zou Yun Yun : 70309
+446 passer Zou Yun Yun : 70309
+446 answerer Zou Yun Yun : 70309
+446 passer Zou Yun Yun : 70309
+160 answerer Chen Yi Ling : 70315
+160 answerer Liao Xun weight : 70315
+253 passer Lizi Xuan : 70338
+253 passer Lizi Xuan : 70338
+253 passer Lizi Xuan : 70338
+253 passer Lizi Xuan : 70338
+252 answerer Chen Yi Ling : 70354
+252 answerer Zou Yun Yun : 70354
+252 answerer Liao Xun weight : 70354
+446 answerer Chen Yi Ling : 70369
+446 answerer Liao Xun weight : 70369
+Asker Zhong Xuan can : 70374
+79 passer Zou Yun Yun : 70380
+79 passer Zou Yun Yun : 70380
+79 answerer Zou Yun Yun : 70380
+79 passer Zou Yun Yun : 70380
+253 answerer Chen Yi Ling : 70398
+253 answerer Zou Yun Yun : 70398
+253 answerer Liao Xun weight : 70398
+123 passer Zhang Yan Yu : 70407
+123 passer Zhang Yan Yu : 70407
+123 passer Zhang Yan Yu : 70407
+123 passer Zhang Yan Yu : 70407
+405 answerer Chen Yi Ling : 70424
+366 passer Zou Yun Yun : 70428
+366 passer Zou Yun Yun : 70428
+366 answerer Zou Yun Yun : 70428
+366 passer Zou Yun Yun : 70428
+79 answerer Chen Yi Ling : 70440
+79 answerer Liao Xun weight : 70440
+439 answerer Zou Yun Yun : 70488
+366 answerer Chen Yi Ling : 70488
+366 answerer Liao Xun weight : 70488
+439 answerer Chen Yi Ling : 70503
+117 answerer Chen Yi Ling : 70528
+184 answerer Chen Yi Ling : 70542
+184 answerer Zou Yun Yun : 70557
+353 answerer Chen Yi Ling : 70561
+153 answerer Chen Yi Ling : 70581
+95 answerer Chen Yi Ling : 70628
+148 answerer Chen Yi Ling : 70649
+404 answerer Chen Yi Ling : 70665
+Asker Guo Baiyu : 70738
+Asker Zhong Xuan can : 70753
+142 passer Chenjia Ru : 70798
+142 passer Chenjia Ru : 70798
+Asker Bai Li Jian : 70800
+142 answerer Chen Yi Ling : 70843
+142 answerer Liao Xun weight : 70858
+376 passer Chenjia Ru : 70860
+445 passer Zou Yun Yun : 70872
+445 passer Zou Yun Yun : 70872
+445 answerer Zou Yun Yun : 70872
+445 passer Zou Yun Yun : 70872
+50 answerer Zou Yun Yun : 70883
+376 answerer Chen Yi Ling : 70905
+Asker Fuzi Rui : 70927
+177 passer Zou Yun Yun : 70931
+177 passer Zou Yun Yun : 70931
+177 answerer Zou Yun Yun : 70931
+177 passer Zou Yun Yun : 70931
+445 answerer Chen Yi Ling : 70932
+445 answerer Liao Xun weight : 70932
+Asker Andy Chung : 70971
+294 answerer Chen Yi Ling : 70972
+414 answerer Chen Yi Ling : 70983
+294 answerer Zou Yun Yun : 70987
+294 answerer Liao Xun weight : 70987
+177 answerer Chen Yi Ling : 70991
+177 answerer Liao Xun weight : 70991
+15 answerer Zou Yun Yun : 70992
+Asker Lin Zonghan : 71003
+388 passer Zou Yun Yun : 71007
+388 passer Zou Yun Yun : 71007
+388 answerer Zou Yun Yun : 71007
+388 passer Zou Yun Yun : 71007
+307 passer Wen Shi Kai : 71016
+307 passer Wen Shi Kai : 71016
+307 passer Wen Shi Kai : 71016
+307 passer Wen Shi Kai : 71016
+15 answerer Ruan Yushan : 71052
+25 passer Zou Yun Yun : 71057
+25 passer Zou Yun Yun : 71057
+25 answerer Zou Yun Yun : 71057
+25 passer Zou Yun Yun : 71057
+233 answerer Chen Yi Ling : 71063
+233 answerer Liao Xun weight : 71063
+388 answerer Chen Yi Ling : 71067
+388 answerer Liao Xun weight : 71067
+307 passer Zhang Yan Yu : 71076
+307 passer Zhang Yan Yu : 71076
+307 passer Zhang Yan Yu : 71076
+307 passer Zhang Yan Yu : 71076
+Asker Lizi Xuan : 71105
+Asker Yun Yun Tsai : 71112
+25 answerer Chen Yi Ling : 71117
+25 answerer Liao Xun weight : 71117
+272 answerer Chen Yi Ling : 71165
+272 answerer Zou Yun Yun : 71165
+272 answerer Liao Xun weight : 71165
+40 answerer Chen Yi Ling : 71168
+46 answerer Zou Yun Yun : 71172
+46 answerer Liao Xun weight : 71172
+264 answerer Chen Yi Ling : 71177
+264 answerer Zou Yun Yun : 71177
+292 answerer Chen Yi Ling : 71273
+32 answerer Chen Yi Ling : 71274
+292 answerer Zou Yun Yun : 71288
+88 answerer Chen Yi Ling : 71317
+292 answerer Ruan Yushan : 71333
+241 answerer Zou Yun Yun : 71462
+444 passer Zou Yun Yun : 71497
+444 passer Zou Yun Yun : 71497
+444 answerer Zou Yun Yun : 71497
+444 passer Zou Yun Yun : 71497
+360 answerer Zou Yun Yun : 71529
+444 answerer Chen Yi Ling : 71557
+444 answerer Liao Xun weight : 71557
+116 answerer Chen Yi Ling : 71598
+7 answerer Chen Yi Ling : 71604
+19 passer Zou Yun Yun : 71614
+19 passer Zou Yun Yun : 71614
+19 answerer Zou Yun Yun : 71614
+19 passer Zou Yun Yun : 71614
+281 answerer Zou Yun Yun : 71658
+19 answerer Chen Yi Ling : 71674
+19 answerer Liao Xun weight : 71674
+263 answerer Chen Yi Ling : 71711
+263 answerer Zou Yun Yun : 71711
+193 answerer Chen Yi Ling : 71784
+119 answerer Chen Yi Ling : 71827
+Asker Zhong Jiajun : 71831
+118 answerer Chen Yi Ling : 71864
+110 answerer Chen Yi Ling : 71884
+122 passer Zhang Yan Yu : 71950
+122 passer Zhang Yan Yu : 71950
+122 passer Zhang Yan Yu : 71950
+122 passer Zhang Yan Yu : 71950
+97 answerer Chen Yi Ling : 71964
+97 answerer Zou Yun Yun : 71964
+406 passer Jimmy Yuan : 72156
+406 passer Jimmy Yuan : 72156
+406 passer Jimmy Yuan : 72156
+406 passer Jimmy Yuan : 72156
+406 passer Zou Yun Yun : 72216
+406 passer Zou Yun Yun : 72216
+406 answerer Zou Yun Yun : 72216
+406 passer Zou Yun Yun : 72216
+71 passer Liu Fengxuan : 72266
+71 answerer Zou Yun Yun : 72311
+36 passer Liu Fengxuan : 72323
+36 passer Liu Fengxuan : 72323
+36 answerer Zou Yun Yun : 72368
+Asker Fuzi Rui : 72455
+295 answerer Zou Yun Yun : 72515
+65 passer Andy Chung : 72669
+65 passer Andy Chung : 72669
+65 passer Andy Chung : 72669
+65 passer Andy Chung : 72669
+Asker Stephanie Kao : 72721
+161 passer Jimmy Yuan : 72781
+161 passer Jimmy Yuan : 72781
+161 passer Jimmy Yuan : 72781
+161 passer Jimmy Yuan : 72781
+327 passer Jimmy Yuan : 72832
+161 passer Zou Yun Yun : 72841
+161 passer Zou Yun Yun : 72841
+161 answerer Zou Yun Yun : 72841
+161 passer Zou Yun Yun : 72841
+Asker Zhang Yan Yu : 72845
+282 passer Liu Fengxuan : 72862
+327 answerer Zou Yun Yun : 72892
+213 passer Jimmy Yuan : 72905
+213 passer Jimmy Yuan : 72905
+213 passer Jimmy Yuan : 72905
+213 passer Jimmy Yuan : 72905
+282 answerer Zou Yun Yun : 72907
+213 passer Zou Yun Yun : 72965
+213 passer Zou Yun Yun : 72965
+213 answerer Zou Yun Yun : 72965
+213 passer Zou Yun Yun : 72965
+344 passer Jimmy Yuan : 73259
+344 passer Jimmy Yuan : 73259
+344 passer Jimmy Yuan : 73259
+344 passer Jimmy Yuan : 73259
+Asker Su Yang Xi : 73291
+344 passer Zou Yun Yun : 73319
+344 passer Zou Yun Yun : 73319
+344 answerer Zou Yun Yun : 73319
+344 passer Zou Yun Yun : 73319
+447 passer Yushi Yeap : 73351
+447 passer Yushi Yeap : 73351
+447 passer Yushi Yeap : 73351
+447 passer Yushi Yeap : 73351
+447 passer Jimmy Yuan : 73411
+447 passer Jimmy Yuan : 73411
+447 passer Jimmy Yuan : 73411
+447 passer Jimmy Yuan : 73411
+62 passer Andy Chung : 73423
+62 passer Andy Chung : 73423
+62 passer Andy Chung : 73423
+62 passer Andy Chung : 73423
+345 passer Jimmy Yuan : 73470
+345 passer Jimmy Yuan : 73470
+345 passer Jimmy Yuan : 73470
+345 passer Jimmy Yuan : 73470
+447 passer Zou Yun Yun : 73471
+447 passer Zou Yun Yun : 73471
+447 answerer Zou Yun Yun : 73471
+447 passer Zou Yun Yun : 73471
+345 passer Zou Yun Yun : 73530
+345 passer Zou Yun Yun : 73530
+345 answerer Zou Yun Yun : 73530
+345 passer Zou Yun Yun : 73530
+Asker Ruan Yushan : 73576
+Asker Weng Zaihao : 73621
+440 passer Liu Fengxuan : 73636
+440 answerer Zou Yun Yun : 73681
+194 answerer Zou Yun Yun : 73681
+407 passer Jimmy Yuan : 73761
+407 passer Jimmy Yuan : 73761
+407 passer Jimmy Yuan : 73761
+407 passer Jimmy Yuan : 73761
+178 passer Lin Zhen : 73818
+178 passer Lin Zhen : 73818
+178 passer Lin Zhen : 73818
+178 passer Lin Zhen : 73818
+407 passer Zou Yun Yun : 73821
+407 passer Zou Yun Yun : 73821
+407 answerer Zou Yun Yun : 73821
+407 passer Zou Yun Yun : 73821
+90 passer Liu Fengxuan : 73837
+178 passer Zhong Xuan can : 73863
+178 passer Zhong Xuan can : 73863
+178 passer Zhong Xuan can : 73863
+178 passer Zhong Xuan can : 73863
+90 answerer Zou Yun Yun : 73882
+178 passer Jimmy Yuan : 73923
+178 passer Jimmy Yuan : 73923
+178 passer Jimmy Yuan : 73923
+178 passer Jimmy Yuan : 73923
+178 passer Zou Yun Yun : 73983
+178 passer Zou Yun Yun : 73983
+178 answerer Zou Yun Yun : 73983
+178 passer Zou Yun Yun : 73983
+Asker Bai Li Jian : 74019
+111 passer Jimmy Yuan : 74034
+111 passer Jimmy Yuan : 74034
+111 passer Jimmy Yuan : 74034
+111 passer Jimmy Yuan : 74034
+123 passer Jimmy Yuan : 74067
+123 passer Jimmy Yuan : 74067
+123 passer Jimmy Yuan : 74067
+123 passer Jimmy Yuan : 74067
+377 passer Deng Yizhen : 74079
+377 passer Liu Fengxuan : 74079
+111 passer Zou Yun Yun : 74094
+111 passer Zou Yun Yun : 74094
+111 answerer Zou Yun Yun : 74094
+111 passer Zou Yun Yun : 74094
+377 answerer Zou Yun Yun : 74124
+123 passer Zou Yun Yun : 74127
+123 passer Zou Yun Yun : 74127
+123 answerer Zou Yun Yun : 74127
+123 passer Zou Yun Yun : 74127
+Asker Lizi Xuan : 74274
+63 passer Andy Chung : 74275
+63 passer Andy Chung : 74275
+63 passer Andy Chung : 74275
+63 passer Andy Chung : 74275
+Asker Qiu Italian View : 74279
+273 answerer Zou Yun Yun : 74334
+425 passer Winnie Chang : 74339
+425 passer Winnie Chang : 74339
+425 passer Winnie Chang : 74339
+425 passer Winnie Chang : 74339
+142 passer Liu Fengxuan : 74398
+425 passer Jimmy Yuan : 74399
+112 passer Jimmy Yuan : 74413
+112 passer Jimmy Yuan : 74413
+112 passer Jimmy Yuan : 74413
+112 passer Jimmy Yuan : 74413
+142 answerer Zou Yun Yun : 74443
+425 answerer Zou Yun Yun : 74459
+376 passer Deng Yizhen : 74460
+376 passer Liu Fengxuan : 74460
+112 passer Zou Yun Yun : 74473
+112 passer Zou Yun Yun : 74473
+112 answerer Zou Yun Yun : 74473
+112 passer Zou Yun Yun : 74473
+376 answerer Zou Yun Yun : 74505
+Asker Liuling Jun : 74608
+265 answerer Zou Yun Yun : 74668
+307 passer Jimmy Yuan : 74736
+307 passer Jimmy Yuan : 74736
+307 passer Jimmy Yuan : 74736
+307 passer Jimmy Yuan : 74736
+307 passer Zou Yun Yun : 74796
+307 passer Zou Yun Yun : 74796
+307 answerer Zou Yun Yun : 74796
+307 passer Zou Yun Yun : 74796
+Asker Qiu Italian View : 74929
+426 passer Winnie Chang : 74989
+426 passer Winnie Chang : 74989
+426 passer Winnie Chang : 74989
+426 passer Winnie Chang : 74989
+283 passer Liu Fengxuan : 75003
+283 answerer Zou Yun Yun : 75048
+426 passer Jimmy Yuan : 75049
+426 answerer Zou Yun Yun : 75109
+134 passer Liu Fengxuan : 75127
+134 answerer Zou Yun Yun : 75172
+Asker Liu Ting Yi : 75198
+389 passer Jimmy Yuan : 75258
+389 passer Jimmy Yuan : 75258
+389 passer Jimmy Yuan : 75258
+389 passer Jimmy Yuan : 75258
+Asker Wu Chenxi : 75297
+389 passer Zou Yun Yun : 75318
+389 passer Zou Yun Yun : 75318
+389 answerer Zou Yun Yun : 75318
+389 passer Zou Yun Yun : 75318
+179 passer Lin Zhen : 75357
+179 passer Lin Zhen : 75357
+179 passer Lin Zhen : 75357
+179 passer Lin Zhen : 75357
+179 passer Zhong Xuan can : 75402
+179 passer Zhong Xuan can : 75402
+179 passer Zhong Xuan can : 75402
+179 passer Zhong Xuan can : 75402
+64 passer Andy Chung : 75418
+64 passer Andy Chung : 75418
+64 passer Andy Chung : 75418
+64 passer Andy Chung : 75418
+179 passer Jimmy Yuan : 75462
+179 passer Jimmy Yuan : 75462
+179 passer Jimmy Yuan : 75462
+179 passer Jimmy Yuan : 75462
+179 passer Zou Yun Yun : 75522
+179 passer Zou Yun Yun : 75522
+179 answerer Zou Yun Yun : 75522
+179 passer Zou Yun Yun : 75522
+122 passer Jimmy Yuan : 75610
+122 passer Jimmy Yuan : 75610
+122 passer Jimmy Yuan : 75610
+122 passer Jimmy Yuan : 75610
+122 passer Zou Yun Yun : 75670
+122 passer Zou Yun Yun : 75670
+122 answerer Zou Yun Yun : 75670
+122 passer Zou Yun Yun : 75670
+158 answerer Fuzi Rui : 75712
+122 answerer Chen Yi Ling : 75730
+122 answerer Fuzi Rui : 75730
+209 answerer Fuzi Rui : 75752
+Asker Li Jingying : 75805
+80 passer Jimmy Yuan : 75865
+80 passer Jimmy Yuan : 75865
+80 passer Jimmy Yuan : 75865
+80 passer Jimmy Yuan : 75865
+71 passer Weng Zaihao : 75866
+71 passer Weng Zaihao : 75866
+406 answerer Chen Yi Ling : 75876
+406 answerer Fuzi Rui : 75876
+71 answerer Fuzi Rui : 75911
+36 passer Weng Zaihao : 75923
+36 passer Weng Zaihao : 75923
+80 passer Zou Yun Yun : 75925
+80 passer Zou Yun Yun : 75925
+80 answerer Zou Yun Yun : 75925
+80 passer Zou Yun Yun : 75925
+71 answerer Chen Yi Ling : 75926
+36 answerer Fuzi Rui : 75968
+36 answerer Chen Yi Ling : 75983
+80 answerer Chen Yi Ling : 75985
+80 answerer Fuzi Rui : 75985
+242 passer Fuzi Rui : 75990
+242 answerer Fuzi Rui : 75990
+242 answerer Chen Yi Ling : 76035
+78 answerer Fuzi Rui : 76098
+295 passer Weng Zaihao : 76100
+295 answerer Chen Yi Ling : 76100
+170 answerer Fuzi Rui : 76118
+295 answerer Ruan Yushan : 76160
+397 passer Fuzi Rui : 76237
+397 answerer Fuzi Rui : 76237
+176 answerer Fuzi Rui : 76261
+342 answerer Fuzi Rui : 76262
+397 answerer Chen Yi Ling : 76282
+387 answerer Fuzi Rui : 76310
+65 passer Wen Shi Kai : 76314
+65 passer Wen Shi Kai : 76314
+65 passer Wen Shi Kai : 76314
+65 passer Wen Shi Kai : 76314
+436 answerer Fuzi Rui : 76322
+185 answerer Fuzi Rui : 76330
+65 passer Zhang Yan Yu : 76374
+65 passer Zhang Yan Yu : 76374
+65 passer Zhang Yan Yu : 76374
+65 passer Zhang Yan Yu : 76374
+65 passer Jimmy Yuan : 76434
+65 passer Jimmy Yuan : 76434
+65 passer Jimmy Yuan : 76434
+65 passer Jimmy Yuan : 76434
+282 passer Fuzi Rui : 76462
+282 answerer Fuzi Rui : 76462
+20 answerer Fuzi Rui : 76473
+327 passer Fuzi Rui : 76492
+327 answerer Fuzi Rui : 76492
+65 passer Zou Yun Yun : 76494
+65 passer Zou Yun Yun : 76494
+65 answerer Zou Yun Yun : 76494
+65 passer Zou Yun Yun : 76494
+161 answerer Chen Yi Ling : 76501
+161 answerer Fuzi Rui : 76501
+280 passer Fuzi Rui : 76504
+280 answerer Fuzi Rui : 76504
+282 answerer Chen Yi Ling : 76507
+327 answerer Chen Yi Ling : 76537
+375 answerer Fuzi Rui : 76542
+280 answerer Chen Yi Ling : 76549
+65 answerer Chen Yi Ling : 76554
+65 answerer Fuzi Rui : 76554
+213 answerer Chen Yi Ling : 76625
+213 answerer Fuzi Rui : 76625
+Asker Song Pei Hoon : 76645
+51 passer Fuzi Rui : 76681
+51 answerer Fuzi Rui : 76681
+8 answerer Fuzi Rui : 76697
+Asker Lin Chunan : 76702
+135 passer Fuzi Rui : 76705
+135 answerer Fuzi Rui : 76705
+135 passer Liu Fengxuan : 76705
+96 answerer Fuzi Rui : 76720
+51 answerer Chen Yi Ling : 76726
+135 answerer Chen Yi Ling : 76750
+135 answerer Zou Yun Yun : 76750
+Asker Hung Yu Heng : 76755
+254 answerer Fuzi Rui : 76780
+365 answerer Fuzi Rui : 76813
+55 answerer Fuzi Rui : 76897
+55 passer Fuzi Rui : 76897
+89 passer Fuzi Rui : 76925
+89 answerer Fuzi Rui : 76925
+398 passer Fuzi Rui : 76938
+398 answerer Fuzi Rui : 76938
+55 answerer Zou Yun Yun : 76957
+89 answerer Chen Yi Ling : 76970
+107 answerer Fuzi Rui : 76978
+344 answerer Chen Yi Ling : 76979
+344 answerer Fuzi Rui : 76979
+398 answerer Chen Yi Ling : 76983
+62 passer Wen Shi Kai : 77068
+62 passer Wen Shi Kai : 77068
+62 passer Wen Shi Kai : 77068
+62 passer Wen Shi Kai : 77068
+62 passer Zhang Yan Yu : 77128
+62 passer Zhang Yan Yu : 77128
+62 passer Zhang Yan Yu : 77128
+62 passer Zhang Yan Yu : 77128
+447 answerer Chen Yi Ling : 77131
+447 answerer Fuzi Rui : 77131
+62 passer Jimmy Yuan : 77188
+62 passer Jimmy Yuan : 77188
+62 passer Jimmy Yuan : 77188
+62 passer Jimmy Yuan : 77188
+345 answerer Chen Yi Ling : 77190
+345 answerer Fuzi Rui : 77190
+159 answerer Fuzi Rui : 77231
+440 passer Weng Zaihao : 77236
+440 passer Weng Zaihao : 77236
+276 answerer Fuzi Rui : 77238
+62 passer Zou Yun Yun : 77248
+62 passer Zou Yun Yun : 77248
+62 answerer Zou Yun Yun : 77248
+62 passer Zou Yun Yun : 77248
+194 answerer Fuzi Rui : 77266
+194 passer Fuzi Rui : 77266
+440 answerer Fuzi Rui : 77281
+194 answerer Chen Yi Ling : 77281
+440 answerer Chen Yi Ling : 77296
+62 answerer Chen Yi Ling : 77308
+62 answerer Fuzi Rui : 77308
+343 answerer Fuzi Rui : 77416
+90 passer Fuzi Rui : 77437
+90 answerer Fuzi Rui : 77437
+35 answerer Fuzi Rui : 77444
+407 answerer Chen Yi Ling : 77481
+407 answerer Fuzi Rui : 77481
+90 answerer Chen Yi Ling : 77482
+160 answerer Fuzi Rui : 77515
+252 answerer Fuzi Rui : 77539
+446 answerer Fuzi Rui : 77569
+253 answerer Fuzi Rui : 77583
+Asker Lin Zonghan : 77630
+79 answerer Fuzi Rui : 77640
+178 answerer Chen Yi Ling : 77643
+178 answerer Fuzi Rui : 77643
+Asker Winnie Chang : 77651
+377 passer Chenjia Ru : 77679
+377 passer High Ze Quan : 77679
+439 answerer Fuzi Rui : 77688
+366 answerer Fuzi Rui : 77688
+234 answerer Chen Yi Ling : 77690
+234 answerer Fuzi Rui : 77690
+234 passer Fuzi Rui : 77690
+328 passer Song Pei Hoon : 77711
+328 passer Song Pei Hoon : 77711
+328 passer Jimmy Yuan : 77711
+328 passer Song Pei Hoon : 77711
+377 answerer Chen Yi Ling : 77724
+377 answerer Fuzi Rui : 77724
+184 answerer Fuzi Rui : 77742
+234 answerer Zou Yun Yun : 77750
+111 answerer Chen Yi Ling : 77754
+111 answerer Fuzi Rui : 77754
+328 passer Fuzi Rui : 77771
+328 answerer Fuzi Rui : 77771
+328 answerer Zou Yun Yun : 77771
+123 answerer Chen Yi Ling : 77787
+123 answerer Fuzi Rui : 77787
+328 answerer Chen Yi Ling : 77816
+Asker Stephanie Kao : 77841
+162 passer Jimmy Yuan : 77901
+162 passer Jimmy Yuan : 77901
+162 passer Jimmy Yuan : 77901
+162 passer Jimmy Yuan : 77901
+Asker Lin Zonghan : 77911
+273 answerer Fuzi Rui : 77919
+63 passer Wen Shi Kai : 77920
+63 passer Wen Shi Kai : 77920
+63 passer Wen Shi Kai : 77920
+63 passer Wen Shi Kai : 77920
+273 answerer Chen Yi Ling : 77934
+162 passer Zou Yun Yun : 77961
+162 passer Zou Yun Yun : 77961
+162 answerer Zou Yun Yun : 77961
+162 passer Zou Yun Yun : 77961
+235 answerer Chen Yi Ling : 77971
+235 answerer Fuzi Rui : 77971
+235 passer Fuzi Rui : 77971
+63 passer Zhang Yan Yu : 77980
+63 passer Zhang Yan Yu : 77980
+63 passer Zhang Yan Yu : 77980
+63 passer Zhang Yan Yu : 77980
+142 passer Weng Zaihao : 77998
+425 passer Song Pei Hoon : 77999
+425 passer Song Pei Hoon : 77999
+425 passer Song Pei Hoon : 77999
+162 answerer Chen Yi Ling : 78021
+162 answerer Fuzi Rui : 78021
+235 answerer Zou Yun Yun : 78031
+63 passer Jimmy Yuan : 78040
+63 passer Jimmy Yuan : 78040
+63 passer Jimmy Yuan : 78040
+63 passer Jimmy Yuan : 78040
+142 answerer Fuzi Rui : 78043
+425 passer Fuzi Rui : 78059
+425 answerer Fuzi Rui : 78059
+376 passer High Ze Quan : 78060
+50 passer Fuzi Rui : 78083
+50 answerer Fuzi Rui : 78083
+63 passer Zou Yun Yun : 78100
+63 passer Zou Yun Yun : 78100
+63 answerer Zou Yun Yun : 78100
+63 passer Zou Yun Yun : 78100
+425 answerer Chen Yi Ling : 78104
+376 answerer Fuzi Rui : 78105
+50 answerer Chen Yi Ling : 78128
+445 answerer Fuzi Rui : 78132
+112 answerer Chen Yi Ling : 78133
+112 answerer Fuzi Rui : 78133
+63 answerer Chen Yi Ling : 78160
+63 answerer Fuzi Rui : 78160
+294 passer Weng Zaihao : 78172
+15 answerer Fuzi Rui : 78177
+177 answerer Fuzi Rui : 78191
+294 answerer Ruan Yushan : 78232
+233 answerer Fuzi Rui : 78263
+233 passer Fuzi Rui : 78263
+388 answerer Fuzi Rui : 78267
+265 answerer Chen Yi Ling : 78268
+265 answerer Fuzi Rui : 78268
+25 answerer Fuzi Rui : 78317
+233 answerer Zou Yun Yun : 78323
+336 passer Fuzi Rui : 78348
+336 answerer Fuzi Rui : 78348
+336 passer Fuzi Rui : 78348
+272 answerer Fuzi Rui : 78350
+46 passer Fuzi Rui : 78372
+46 answerer Fuzi Rui : 78372
+264 answerer Fuzi Rui : 78377
+336 answerer Chen Yi Ling : 78393
+336 answerer Zou Yun Yun : 78408
+46 answerer Chen Yi Ling : 78417
+307 answerer Chen Yi Ling : 78456
+307 answerer Fuzi Rui : 78456
+283 passer Fuzi Rui : 78603
+283 answerer Fuzi Rui : 78603
+283 answerer Chen Yi Ling : 78648
+426 passer Song Pei Hoon : 78649
+426 passer Song Pei Hoon : 78649
+426 passer Song Pei Hoon : 78649
+241 passer Fuzi Rui : 78662
+241 answerer Fuzi Rui : 78662
+360 passer Fuzi Rui : 78684
+360 answerer Fuzi Rui : 78684
+Asker Zhang Yan Yu : 78697
+241 answerer Chen Yi Ling : 78707
+426 passer Fuzi Rui : 78709
+426 answerer Fuzi Rui : 78709
+134 passer Fuzi Rui : 78727
+134 answerer Fuzi Rui : 78727
+360 answerer Chen Yi Ling : 78729
+Asker Huang Zhenting : 78735
+426 answerer Chen Yi Ling : 78754
+444 answerer Fuzi Rui : 78757
+214 passer Jimmy Yuan : 78757
+214 passer Jimmy Yuan : 78757
+214 passer Jimmy Yuan : 78757
+214 passer Jimmy Yuan : 78757
+134 answerer Chen Yi Ling : 78772
+Asker Zhang Yan Yu : 78788
+281 passer Fuzi Rui : 78813
+281 answerer Fuzi Rui : 78813
+214 passer Zou Yun Yun : 78817
+214 passer Zou Yun Yun : 78817
+214 answerer Zou Yun Yun : 78817
+214 passer Zou Yun Yun : 78817
+215 passer Jimmy Yuan : 78848
+215 passer Jimmy Yuan : 78848
+215 passer Jimmy Yuan : 78848
+215 passer Jimmy Yuan : 78848
+281 answerer Chen Yi Ling : 78858
+19 answerer Fuzi Rui : 78874
+214 answerer Chen Yi Ling : 78877
+214 answerer Fuzi Rui : 78877
+Asker Huang Zhijun : 78901
+215 passer Zou Yun Yun : 78908
+215 passer Zou Yun Yun : 78908
+215 answerer Zou Yun Yun : 78908
+215 passer Zou Yun Yun : 78908
+263 answerer Fuzi Rui : 78911
+215 answerer Chen Yi Ling : 78968
+215 answerer Fuzi Rui : 78968
+389 answerer Chen Yi Ling : 78978
+389 answerer Fuzi Rui : 78978
+Asker Qiu Italian View : 79048
+64 passer Wen Shi Kai : 79063
+64 passer Wen Shi Kai : 79063
+64 passer Wen Shi Kai : 79063
+64 passer Wen Shi Kai : 79063
+64 passer Zhang Yan Yu : 79123
+64 passer Zhang Yan Yu : 79123
+64 passer Zhang Yan Yu : 79123
+64 passer Zhang Yan Yu : 79123
+97 answerer Fuzi Rui : 79149
+179 answerer Chen Yi Ling : 79182
+179 answerer Fuzi Rui : 79182
+64 passer Jimmy Yuan : 79183
+64 passer Jimmy Yuan : 79183
+64 passer Jimmy Yuan : 79183
+64 passer Jimmy Yuan : 79183
+64 passer Zou Yun Yun : 79243
+64 passer Zou Yun Yun : 79243
+64 answerer Zou Yun Yun : 79243
+64 passer Zou Yun Yun : 79243
+64 answerer Liao Xun weight : 79303
+122 answerer Liao Xun weight : 79330
+406 answerer Liao Xun weight : 79476
+36 answerer Liao Xun weight : 79583
+80 answerer Liao Xun weight : 79585
+Asker Song Pei Hoon : 79664
+Asker Alex Chiang : 79705
+295 answerer Liao Xun weight : 79715
+136 passer Liu Fengxuan : 79724
+136 answerer Liao Xun weight : 79724
+56 passer Chenjia Ru : 79765
+56 passer Deng Yizhen : 79765
+56 passer Deng Yizhen : 79765
+56 passer Deng Yizhen : 79765
+56 answerer Liao Xun weight : 79825
+161 answerer Liao Xun weight : 80101
+Asker Huang Zhijun : 80129
+65 answerer Liao Xun weight : 80154
+213 answerer Liao Xun weight : 80225
+135 answerer Liao Xun weight : 80305
+124 passer Chang Chun Peng : 80362
+124 passer Chang Chun Peng : 80362
+124 passer Chang Chun Peng : 80362
+124 passer Chang Chun Peng : 80362
+315 passer Winnie Chang : 80415
+315 passer Winnie Chang : 80415
+315 passer Winnie Chang : 80415
+315 passer Winnie Chang : 80415
+344 answerer Liao Xun weight : 80579
+447 answerer Liao Xun weight : 80731
+345 answerer Liao Xun weight : 80790
+440 answerer Liao Xun weight : 80836
+62 answerer Liao Xun weight : 80908
+Asker Zhong Xuan can : 80921
+194 answerer Liao Xun weight : 80926
+Asker Liuling Jun : 81006
+266 answerer Liao Xun weight : 81066
+407 answerer Liao Xun weight : 81081
+Asker Hung Yu Heng : 81172
+316 passer Winnie Chang : 81232
+316 passer Winnie Chang : 81232
+316 passer Winnie Chang : 81232
+316 passer Winnie Chang : 81232
+178 answerer Liao Xun weight : 81243
+Asker Weng Zaihao : 81262
+234 answerer Liao Xun weight : 81290
+377 answerer Liao Xun weight : 81339
+111 answerer Liao Xun weight : 81354
+Asker Chen Weijun : 81365
+328 answerer Liao Xun weight : 81371
+123 answerer Liao Xun weight : 81387
+284 passer Liu Fengxuan : 81425
+284 answerer Liao Xun weight : 81425
+Asker Howard Hsu : 81470
+273 answerer Liao Xun weight : 81534
+235 answerer Liao Xun weight : 81571
+162 answerer Liao Xun weight : 81621
+425 answerer Liao Xun weight : 81659
+376 answerer Liao Xun weight : 81720
+112 answerer Liao Xun weight : 81733
+Asker Lin Wan Xuan : 81760
+63 answerer Liao Xun weight : 81760
+Asker Chen Weijun : 81803
+243 answerer Liao Xun weight : 81820
+285 passer Liu Fengxuan : 81863
+285 answerer Liao Xun weight : 81863
+265 answerer Liao Xun weight : 81868
+307 answerer Liao Xun weight : 82056
+Asker Hung Yu Heng : 82081
+317 passer Winnie Chang : 82141
+317 passer Winnie Chang : 82141
+317 passer Winnie Chang : 82141
+317 passer Winnie Chang : 82141
+Asker Bai Li Jian : 82184
+378 passer Chenjia Ru : 82244
+378 passer Deng Yizhen : 82244
+378 passer Liu Fengxuan : 82244
+378 passer High Ze Quan : 82244
+378 answerer Liao Xun weight : 82304
+426 answerer Liao Xun weight : 82309
+Asker Kang Mingxi : 82376
+91 passer Chen Weijun : 82395
+91 passer Chen Weijun : 82395
+91 passer Chen Weijun : 82395
+91 passer Chen Weijun : 82395
+361 passer Liu Fengxuan : 82433
+361 answerer Liao Xun weight : 82433
+Asker Weng Zaihao : 82439
+91 passer Liu Fengxuan : 82455
+91 answerer Liao Xun weight : 82455
+214 answerer Liao Xun weight : 82477
+215 answerer Liao Xun weight : 82568
+389 answerer Liao Xun weight : 82578
+41 passer Chang Chun Peng : 82691
+41 passer Chang Chun Peng : 82691
+41 passer Chang Chun Peng : 82691
+41 passer Chang Chun Peng : 82691
+427 passer Winnie Chang : 82708
+427 passer Winnie Chang : 82708
+427 passer Winnie Chang : 82708
+427 passer Winnie Chang : 82708
+Asker Lin Chunan : 82713
+125 passer Chang Chun Peng : 82773
+125 passer Chang Chun Peng : 82773
+125 passer Chang Chun Peng : 82773
+125 passer Chang Chun Peng : 82773
+179 answerer Liao Xun weight : 82782
+Asker Qiu Italian View : 82807
+Asker Liu Fengxuan : 82849
+428 passer Winnie Chang : 82867
+428 passer Winnie Chang : 82867
+428 passer Winnie Chang : 82867
+428 passer Winnie Chang : 82867
+277 answerer Liao Xun weight : 82909
+Asker Winnie Chang : 82983
+Asker Fuzi Rui : 83110
+296 passer Weng Zaihao : 83155
+296 answerer Liao Xun weight : 83170
+296 answerer Ruan Yushan : 83215
+Asker Qiu Italian View : 83423
+429 passer Winnie Chang : 83483
+429 passer Winnie Chang : 83483
+429 passer Winnie Chang : 83483
+429 passer Winnie Chang : 83483
+Asker Andy Chung : 83580
+Asker Fuzi Rui : 83671
+Asker Howard Hsu : 83712
+297 passer Weng Zaihao : 83716
+297 answerer Liao Xun weight : 83731
+99 passer Weng Zaihao : 83772
+99 passer Weng Zaihao : 83772
+99 passer Weng Zaihao : 83772
+297 answerer Ruan Yushan : 83776
+124 passer Zhang Yan Yu : 84022
+124 passer Zhang Yan Yu : 84022
+124 passer Zhang Yan Yu : 84022
+124 passer Zhang Yan Yu : 84022
+Asker Peng Wei Wang : 84369
+26 passer Lin Zhen : 84429
+26 passer Lin Zhen : 84429
+26 passer Lin Zhen : 84429
+26 passer Lin Zhen : 84429
+26 passer Zhong Xuan can : 84474
+26 passer Zhong Xuan can : 84474
+26 passer Zhong Xuan can : 84474
+26 passer Zhong Xuan can : 84474
+Asker Yushi Yeap : 84690
+Asker Alex Chiang : 84760
+57 passer Deng Yizhen : 84820
+57 passer Deng Yizhen : 84820
+57 passer Deng Yizhen : 84820
+Asker Andy Chung : 84845
+Asker Chenjia Ru : 84870
+57 answerer Liao Xun weight : 84880
+203 answerer Liao Xun weight : 84930
+Asker Lin Chunan : 85026
+98 passer Weng Zaihao : 85130
+98 passer Weng Zaihao : 85130
+98 passer Weng Zaihao : 85130
+Asker Kang Mingxi : 85459
+362 answerer Liao Xun weight : 85516
+Asker Yushi Yeap : 85630
+Asker Qiu Italian View : 85804
+430 passer Winnie Chang : 85864
+430 passer Winnie Chang : 85864
+430 passer Winnie Chang : 85864
+430 passer Winnie Chang : 85864
+Asker Zhang Yan Yu : 86311
+41 passer Zhang Yan Yu : 86351
+41 passer Zhang Yan Yu : 86351
+41 passer Zhang Yan Yu : 86351
+41 passer Zhang Yan Yu : 86351
+125 passer Zhang Yan Yu : 86433
+125 passer Zhang Yan Yu : 86433
+125 passer Zhang Yan Yu : 86433
+125 passer Zhang Yan Yu : 86433
+Asker High Ze Quan : 86446
+277 answerer Zou Yun Yun : 86494
+428 passer Jimmy Yuan : 86527
+Asker Zhang Liangwei : 86550
+Asker Yang Hyun Christine : 86592
+329 passer Jimmy Yuan : 86643
+Asker Wen Shi Kai : 86701
+296 answerer Zou Yun Yun : 86770
+136 answerer Zou Yun Yun : 86969
+Asker Fuzi Rui : 86993
+429 passer Jimmy Yuan : 87143
+Asker Ruan Yushan : 87240
+297 answerer Zou Yun Yun : 87331
+99 answerer Zou Yun Yun : 87432
+Asker Liu Ting Yi : 87440
+315 passer Jimmy Yuan : 87675
+124 passer Jimmy Yuan : 87682
+124 passer Jimmy Yuan : 87682
+124 passer Jimmy Yuan : 87682
+124 passer Jimmy Yuan : 87682
+Asker Yang Junwei : 87747
+26 passer Jimmy Yuan : 88134
+26 passer Jimmy Yuan : 88134
+26 passer Jimmy Yuan : 88134
+26 passer Jimmy Yuan : 88134
+113 passer Jimmy Yuan : 88181
+113 passer Jimmy Yuan : 88181
+113 passer Jimmy Yuan : 88181
+113 passer Jimmy Yuan : 88181
+Asker Zhang Yan Yu : 88241
+266 answerer Zou Yun Yun : 88266
+367 passer Jimmy Yuan : 88350
+367 passer Jimmy Yuan : 88350
+367 passer Jimmy Yuan : 88350
+367 passer Jimmy Yuan : 88350
+57 passer Chenjia Ru : 88420
+316 passer Jimmy Yuan : 88492
+Asker Stephanie Kao : 88504
+195 answerer Zou Yun Yun : 88522
+284 answerer Zou Yun Yun : 88670
+98 answerer Zou Yun Yun : 88790
+243 answerer Zou Yun Yun : 89020
+285 answerer Zou Yun Yun : 89108
+Asker Carisa Hung : 89246
+368 passer Jimmy Yuan : 89290
+368 passer Jimmy Yuan : 89290
+368 passer Jimmy Yuan : 89290
+368 passer Jimmy Yuan : 89290
+317 passer Jimmy Yuan : 89401
+378 answerer Zou Yun Yun : 89489
+430 passer Jimmy Yuan : 89524
+Asker Yang Zhuoyun : 89583
+361 answerer Zou Yun Yun : 89678
+196 answerer Zou Yun Yun : 89699
+91 answerer Zou Yun Yun : 89700
+Asker Lin Zonghan : 89792
+Asker Wu Chenxi : 89841
+427 passer Jimmy Yuan : 89968
+216 passer Jimmy Yuan : 89971
+216 passer Jimmy Yuan : 89971
+216 passer Jimmy Yuan : 89971
+216 passer Jimmy Yuan : 89971
+41 passer Jimmy Yuan : 90011
+41 passer Jimmy Yuan : 90011
+41 passer Jimmy Yuan : 90011
+41 passer Jimmy Yuan : 90011
+428 passer Song Pei Hoon : 90127
+428 passer Song Pei Hoon : 90127
+428 passer Song Pei Hoon : 90127
+329 passer Song Pei Hoon : 90243
+329 passer Song Pei Hoon : 90243
+329 passer Song Pei Hoon : 90243
+Asker Zhong Xuan can : 90439
+298 passer Weng Zaihao : 90638
+429 passer Song Pei Hoon : 90743
+429 passer Song Pei Hoon : 90743
+429 passer Song Pei Hoon : 90743
+441 passer Weng Zaihao : 90900
+441 passer Weng Zaihao : 90900
+Asker Peng Wei Wang : 90932
+315 passer Song Pei Hoon : 91275
+315 passer Song Pei Hoon : 91275
+315 passer Song Pei Hoon : 91275
+37 passer Weng Zaihao : 91407
+37 passer Weng Zaihao : 91407
+Asker Su Yang Xi : 91461
+Asker Guan Ai Wu : 91475
+448 passer Yushi Yeap : 91521
+448 passer Yushi Yeap : 91521
+448 passer Yushi Yeap : 91521
+448 passer Yushi Yeap : 91521
+Asker Li Yuzhe : 91673
+Asker Liuling Jun : 91897
+316 passer Song Pei Hoon : 92092
+316 passer Song Pei Hoon : 92092
+316 passer Song Pei Hoon : 92092
+Asker Hung Yu Heng : 92217
+126 passer Chang Chun Peng : 92286
+126 passer Chang Chun Peng : 92286
+126 passer Chang Chun Peng : 92286
+126 passer Chang Chun Peng : 92286
+Asker Jason Lin : 92327
+Asker Harry Chen : 92862
+317 passer Song Pei Hoon : 93001
+317 passer Song Pei Hoon : 93001
+317 passer Song Pei Hoon : 93001
+Asker Guo Baiyu : 93124
+430 passer Song Pei Hoon : 93124
+430 passer Song Pei Hoon : 93124
+430 passer Song Pei Hoon : 93124
+Asker Liu Yi Ning : 93142
+143 passer Chenjia Ru : 93184
+143 passer Weng Zaihao : 93184
+143 passer Chenjia Ru : 93184
+Asker Wong Yang : 93303
+Asker Martha Fu : 93396
+4 passer Deng Yizhen : 93456
+4 passer Deng Yizhen : 93456
+4 passer Deng Yizhen : 93456
+427 passer Song Pei Hoon : 93568
+427 passer Song Pei Hoon : 93568
+427 passer Song Pei Hoon : 93568
+Asker Huang Zhenting : 93572
+72 passer Ruan Yushan : 93810
+72 passer Ruan Yushan : 93810
+72 passer Ruan Yushan : 93810
+72 passer Ruan Yushan : 93810
+Asker Liven Pan : 93931
+298 answerer Ruan Yushan : 94298
+308 passer Wen Shi Kai : 94425
+308 passer Wen Shi Kai : 94425
+308 passer Wen Shi Kai : 94425
+308 passer Wen Shi Kai : 94425
+Asker Li Jingying : 94564
+Asker Liu Fengxuan : 94569
+Asker Lin Zhen : 95382
+437 passer Zhong Xuan can : 95427
+437 passer Zhong Xuan can : 95427
+437 passer Zhong Xuan can : 95427
+437 passer Zhong Xuan can : 95427
+Asker Huang Han : 95430
+Asker Winnie Chang : 95624
+330 passer Song Pei Hoon : 95684
+330 passer Song Pei Hoon : 95684
+330 passer Song Pei Hoon : 95684
+309 passer Wen Shi Kai : 95690
+309 passer Wen Shi Kai : 95690
+309 passer Wen Shi Kai : 95690
+309 passer Wen Shi Kai : 95690
+Asker Alex Chiang : 95790
+58 passer Deng Yizhen : 95850
+58 passer Deng Yizhen : 95850
+58 passer Deng Yizhen : 95850
+Asker Yun Yun Tsai : 95901
+302 passer Wen Shi Kai : 96506
+302 passer Wen Shi Kai : 96506
+302 passer Wen Shi Kai : 96506
+302 passer Wen Shi Kai : 96506
+Asker Huang Tingbai : 96925
+346 passer Wen Shi Kai : 96963
+346 passer Wen Shi Kai : 96963
+346 passer Wen Shi Kai : 96963
+346 passer Wen Shi Kai : 96963
+Asker Lin Wan Xuan : 97049
+277 answerer Fuzi Rui : 97294
+64 answerer Fuzi Rui : 97303
+399 passer Fuzi Rui : 97306
+399 answerer Fuzi Rui : 97306
+428 passer Fuzi Rui : 97387
+428 answerer Fuzi Rui : 97387
+186 answerer Fuzi Rui : 97437
+Asker Chen Weijun : 97495
+329 passer Fuzi Rui : 97503
+329 answerer Fuzi Rui : 97503
+286 passer Fuzi Rui : 97555
+286 answerer Fuzi Rui : 97555
+136 passer Fuzi Rui : 97724
+136 answerer Fuzi Rui : 97724
+56 answerer Fuzi Rui : 97810
+56 passer Fuzi Rui : 97810
+Asker Chang Chun Peng : 97815
+429 passer Fuzi Rui : 98003
+429 answerer Fuzi Rui : 98003
+441 answerer Fuzi Rui : 98145
+278 answerer Fuzi Rui : 98214
+99 answerer Fuzi Rui : 98217
+315 passer Fuzi Rui : 98535
+315 answerer Fuzi Rui : 98535
+37 answerer Fuzi Rui : 98652
+Asker Deng Yizhen : 98774
+337 passer Fuzi Rui : 98819
+337 answerer Fuzi Rui : 98819
+337 passer Fuzi Rui : 98819
+266 answerer Fuzi Rui : 99066
+267 answerer Fuzi Rui : 99157
+57 answerer Fuzi Rui : 99265
+57 passer Fuzi Rui : 99265
+195 answerer Fuzi Rui : 99307
+195 passer Fuzi Rui : 99307
+203 answerer Fuzi Rui : 99330
+330 passer Fuzi Rui : 99344
+330 answerer Fuzi Rui : 99344
+316 passer Fuzi Rui : 99352
+316 answerer Fuzi Rui : 99352
+284 passer Fuzi Rui : 99425
+284 answerer Fuzi Rui : 99425
+58 answerer Fuzi Rui : 99495
+58 passer Fuzi Rui : 99495
+47 passer Fuzi Rui : 99561
+47 answerer Fuzi Rui : 99561
+98 answerer Fuzi Rui : 99575
+243 passer Fuzi Rui : 99820
+243 answerer Fuzi Rui : 99820
+285 passer Fuzi Rui : 99863
+285 answerer Fuzi Rui : 99863
+362 passer Fuzi Rui : 99916
+362 answerer Fuzi Rui : 99916
+Asker Huang Zhijun : 100158
+317 passer Fuzi Rui : 100261
+317 answerer Fuzi Rui : 100261
+378 answerer Fuzi Rui : 100289
+430 passer Fuzi Rui : 100384
+430 answerer Fuzi Rui : 100384
+143 answerer Fuzi Rui : 100429
+361 passer Fuzi Rui : 100433
+361 answerer Fuzi Rui : 100433
+91 passer Fuzi Rui : 100455
+91 answerer Fuzi Rui : 100455
+196 answerer Fuzi Rui : 100484
+196 passer Fuzi Rui : 100484
+312 answerer Fuzi Rui : 100570
+236 answerer Fuzi Rui : 100652
+236 passer Fuzi Rui : 100652
+4 passer Fuzi Rui : 100701
+4 answerer Fuzi Rui : 100701
+244 passer Fuzi Rui : 100709
+244 answerer Fuzi Rui : 100709
+427 passer Fuzi Rui : 100828
+427 answerer Fuzi Rui : 100828
+72 passer Liu Fengxuan : 101070
+286 passer Liu Fengxuan : 101155
+441 passer Liu Fengxuan : 101700
+37 passer Liu Fengxuan : 102207
+37 passer Liu Fengxuan : 102207
+362 passer Liu Fengxuan : 103516
+Asker Jimmy Yuan : 103803
+143 passer Liu Fengxuan : 103984
+Asker Chenjia Ru : 105311
+Asker Bai Li Jian : 106972
+379 passer Liu Fengxuan : 107032
+Asker Lin Chunan : 107940
+Asker Xiang Yang Min : 110002
+379 passer Deng Yizhen : 110632
+Asker Kang Mingxi : 112527
+Asker Andy Chung : 112758
+318 passer Winnie Chang : 113877
+318 passer Winnie Chang : 113877
+318 passer Winnie Chang : 113877
+318 passer Winnie Chang : 113877
+52 passer Winnie Chang : 113987
+52 passer Winnie Chang : 113987
+52 passer Winnie Chang : 113987
+52 passer Winnie Chang : 113987
+72 passer Weng Zaihao : 115470
+72 passer Weng Zaihao : 115470
+Asker Zou Yun Yun : 115840
+310 passer Wen Shi Kai : 116403
+310 passer Wen Shi Kai : 116403
+310 passer Wen Shi Kai : 116403
+310 passer Wen Shi Kai : 116403
+41 passer Zou Yun Yun : 118871
+41 passer Zou Yun Yun : 118871
+41 answerer Zou Yun Yun : 118871
+41 passer Zou Yun Yun : 118871
+125 passer Jimmy Yuan : 118893
+125 passer Jimmy Yuan : 118893
+125 passer Jimmy Yuan : 118893
+125 passer Jimmy Yuan : 118893
+399 answerer Zou Yun Yun : 118906
+125 passer Zou Yun Yun : 118953
+125 passer Zou Yun Yun : 118953
+125 answerer Zou Yun Yun : 118953
+125 passer Zou Yun Yun : 118953
+428 answerer Zou Yun Yun : 118987
+186 answerer Zou Yun Yun : 119052
+329 answerer Zou Yun Yun : 119103
+72 answerer Zou Yun Yun : 119115
+108 answerer Zou Yun Yun : 119176
+108 passer Zou Yun Yun : 119176
+286 answerer Zou Yun Yun : 119200
+114 passer Jimmy Yuan : 119299
+114 passer Jimmy Yuan : 119299
+114 passer Jimmy Yuan : 119299
+114 passer Jimmy Yuan : 119299
+114 passer Zou Yun Yun : 119359
+114 passer Zou Yun Yun : 119359
+114 answerer Zou Yun Yun : 119359
+114 passer Zou Yun Yun : 119359
+298 answerer Zou Yun Yun : 119453
+56 answerer Zou Yun Yun : 119470
+85 passer Liu Fengxuan : 119485
+429 answerer Zou Yun Yun : 119603
+441 answerer Zou Yun Yun : 119745
+363 passer Liu Fengxuan : 119784
+27 passer Lin Zhen : 119792
+27 passer Lin Zhen : 119792
+27 passer Lin Zhen : 119792
+27 passer Lin Zhen : 119792
+278 answerer Zou Yun Yun : 119814
+81 passer Jimmy Yuan : 119824
+81 passer Jimmy Yuan : 119824
+81 passer Jimmy Yuan : 119824
+81 passer Jimmy Yuan : 119824
+363 answerer Zou Yun Yun : 119829
+81 passer Zou Yun Yun : 119884
+81 passer Zou Yun Yun : 119884
+81 answerer Zou Yun Yun : 119884
+81 passer Zou Yun Yun : 119884
+390 passer Jimmy Yuan : 119900
+390 passer Jimmy Yuan : 119900
+390 passer Jimmy Yuan : 119900
+390 passer Jimmy Yuan : 119900
+390 passer Zou Yun Yun : 119960
+390 passer Zou Yun Yun : 119960
+390 answerer Zou Yun Yun : 119960
+390 passer Zou Yun Yun : 119960
+315 answerer Zou Yun Yun : 120135
+124 passer Zou Yun Yun : 120142
+124 passer Zou Yun Yun : 120142
+124 answerer Zou Yun Yun : 120142
+124 passer Zou Yun Yun : 120142
+Asker Zhang Qi : 120235
+37 answerer Zou Yun Yun : 120252
+Asker Liao Xun weight : 120300
+354 passer Chen Weijun : 120335
+354 passer Chen Weijun : 120335
+354 passer Chen Weijun : 120335
+354 passer Chen Weijun : 120335
+221 answerer Zou Yun Yun : 120360
+448 passer Jimmy Yuan : 120381
+448 passer Jimmy Yuan : 120381
+448 passer Jimmy Yuan : 120381
+448 passer Jimmy Yuan : 120381
+354 passer Liu Fengxuan : 120395
+354 answerer Zou Yun Yun : 120440
+448 passer Zou Yun Yun : 120441
+448 passer Zou Yun Yun : 120441
+448 answerer Zou Yun Yun : 120441
+448 passer Zou Yun Yun : 120441
+337 answerer Zou Yun Yun : 120479
+415 passer Chen Weijun : 120533
+415 passer Chen Weijun : 120533
+415 passer Chen Weijun : 120533
+415 passer Chen Weijun : 120533
+415 passer Liu Fengxuan : 120593
+26 passer Zou Yun Yun : 120594
+26 passer Zou Yun Yun : 120594
+26 answerer Zou Yun Yun : 120594
+26 passer Zou Yun Yun : 120594
+415 answerer Zou Yun Yun : 120638
+113 passer Zou Yun Yun : 120641
+113 passer Zou Yun Yun : 120641
+113 answerer Zou Yun Yun : 120641
+113 passer Zou Yun Yun : 120641
+437 passer Jimmy Yuan : 120687
+437 passer Jimmy Yuan : 120687
+437 passer Jimmy Yuan : 120687
+437 passer Jimmy Yuan : 120687
+217 passer Jimmy Yuan : 120701
+217 passer Jimmy Yuan : 120701
+217 passer Jimmy Yuan : 120701
+217 passer Jimmy Yuan : 120701
+437 passer Zou Yun Yun : 120747
+437 passer Zou Yun Yun : 120747
+437 answerer Zou Yun Yun : 120747
+437 passer Zou Yun Yun : 120747
+267 answerer Zou Yun Yun : 120757
+217 passer Zou Yun Yun : 120761
+217 passer Zou Yun Yun : 120761
+217 answerer Zou Yun Yun : 120761
+217 passer Zou Yun Yun : 120761
+367 passer Zou Yun Yun : 120810
+367 passer Zou Yun Yun : 120810
+367 answerer Zou Yun Yun : 120810
+367 passer Zou Yun Yun : 120810
+330 passer Jimmy Yuan : 120884
+57 answerer Zou Yun Yun : 120925
+330 answerer Zou Yun Yun : 120944
+316 answerer Zou Yun Yun : 120952
+163 passer Jimmy Yuan : 120964
+163 passer Jimmy Yuan : 120964
+163 passer Jimmy Yuan : 120964
+163 passer Jimmy Yuan : 120964
+163 passer Zou Yun Yun : 121024
+163 passer Zou Yun Yun : 121024
+163 answerer Zou Yun Yun : 121024
+163 passer Zou Yun Yun : 121024
+318 passer Jimmy Yuan : 121137
+58 answerer Zou Yun Yun : 121155
+47 answerer Zou Yun Yun : 121161
+318 answerer Zou Yun Yun : 121197
+52 passer Jimmy Yuan : 121247
+52 answerer Zou Yun Yun : 121307
+379 passer High Ze Quan : 121432
+379 answerer Zou Yun Yun : 121477
+362 answerer Zou Yun Yun : 121561
+21 passer Lin Zhen : 121722
+21 passer Lin Zhen : 121722
+21 passer Lin Zhen : 121722
+21 passer Lin Zhen : 121722
+368 passer Zou Yun Yun : 121750
+368 passer Zou Yun Yun : 121750
+368 answerer Zou Yun Yun : 121750
+368 passer Zou Yun Yun : 121750
+317 answerer Zou Yun Yun : 121861
+9 passer Zou Yun Yun : 121863
+9 passer Zou Yun Yun : 121863
+9 answerer Zou Yun Yun : 121863
+9 passer Zou Yun Yun : 121863
+430 answerer Zou Yun Yun : 121984
+247 passer Jimmy Yuan : 122002
+247 passer Jimmy Yuan : 122002
+247 passer Jimmy Yuan : 122002
+247 passer Jimmy Yuan : 122002
+143 answerer Zou Yun Yun : 122029
+154 passer Jimmy Yuan : 122043
+154 passer Jimmy Yuan : 122043
+154 passer Jimmy Yuan : 122043
+154 passer Jimmy Yuan : 122043
+247 passer Zou Yun Yun : 122062
+247 passer Zou Yun Yun : 122062
+247 answerer Zou Yun Yun : 122062
+247 passer Zou Yun Yun : 122062
+154 passer Zou Yun Yun : 122103
+154 passer Zou Yun Yun : 122103
+154 answerer Zou Yun Yun : 122103
+154 passer Zou Yun Yun : 122103
+312 answerer Zou Yun Yun : 122185
+4 passer Jimmy Yuan : 122256
+180 passer Lin Zhen : 122301
+180 passer Lin Zhen : 122301
+180 passer Lin Zhen : 122301
+180 passer Lin Zhen : 122301
+244 answerer Zou Yun Yun : 122309
+236 answerer Zou Yun Yun : 122312
+4 answerer Zou Yun Yun : 122316
+427 answerer Zou Yun Yun : 122428
+216 passer Zou Yun Yun : 122431
+216 passer Zou Yun Yun : 122431
+216 answerer Zou Yun Yun : 122431
+216 passer Zou Yun Yun : 122431
+92 passer Chen Weijun : 122432
+92 passer Chen Weijun : 122432
+92 passer Chen Weijun : 122432
+92 passer Chen Weijun : 122432
+216 answerer Fuzi Rui : 122491
+216 answerer Liao Xun weight : 122491
+92 passer Fuzi Rui : 122492
+92 answerer Fuzi Rui : 122492
+92 passer Liu Fengxuan : 122492
+92 answerer Liao Xun weight : 122492
+399 answerer Liao Xun weight : 122506
+41 answerer Fuzi Rui : 122531
+41 answerer Liao Xun weight : 122531
+428 answerer Liao Xun weight : 122587
+125 answerer Fuzi Rui : 122613
+125 answerer Liao Xun weight : 122613
+186 answerer Liao Xun weight : 122652
+72 answerer Liao Xun weight : 122670
+329 answerer Liao Xun weight : 122703
+72 answerer Fuzi Rui : 122715
+286 answerer Liao Xun weight : 122755
+408 passer Zhang Yan Yu : 122761
+408 passer Zhang Yan Yu : 122761
+408 passer Zhang Yan Yu : 122761
+408 passer Zhang Yan Yu : 122761
+108 answerer Liao Xun weight : 122836
+114 answerer Fuzi Rui : 123019
+114 answerer Liao Xun weight : 123019
+298 answerer Liao Xun weight : 123053
+149 passer Zhang Yan Yu : 123075
+149 passer Zhang Yan Yu : 123075
+149 passer Zhang Yan Yu : 123075
+149 passer Zhang Yan Yu : 123075
+85 answerer Fuzi Rui : 123100
+85 answerer Liao Xun weight : 123100
+429 answerer Liao Xun weight : 123203
+308 passer Zhang Yan Yu : 123285
+308 passer Zhang Yan Yu : 123285
+308 passer Zhang Yan Yu : 123285
+308 passer Zhang Yan Yu : 123285
+441 answerer Liao Xun weight : 123300
+204 answerer Fuzi Rui : 123371
+204 answerer Liao Xun weight : 123371
+363 passer Fuzi Rui : 123384
+363 answerer Fuzi Rui : 123384
+363 answerer Liao Xun weight : 123384
+278 answerer Liao Xun weight : 123429
+27 passer Zhong Xuan can : 123437
+27 passer Zhong Xuan can : 123437
+27 passer Zhong Xuan can : 123437
+27 passer Zhong Xuan can : 123437
+81 answerer Fuzi Rui : 123544
+81 answerer Liao Xun weight : 123544
+390 answerer Fuzi Rui : 123620
+390 answerer Liao Xun weight : 123620
+310 passer Zhang Yan Yu : 123663
+310 passer Zhang Yan Yu : 123663
+310 passer Zhang Yan Yu : 123663
+310 passer Zhang Yan Yu : 123663
+315 answerer Liao Xun weight : 123735
+124 answerer Fuzi Rui : 123802
+124 answerer Liao Xun weight : 123802
+37 answerer Liao Xun weight : 123867
+66 passer Andy Chung : 123895
+66 passer Andy Chung : 123895
+66 passer Andy Chung : 123895
+66 passer Andy Chung : 123895
+66 passer Wen Shi Kai : 123940
+66 passer Wen Shi Kai : 123940
+66 passer Wen Shi Kai : 123940
+66 passer Wen Shi Kai : 123940
+221 answerer Fuzi Rui : 123960
+354 passer Fuzi Rui : 123995
+354 answerer Fuzi Rui : 123995
+354 answerer Liao Xun weight : 123995
+66 passer Zhang Yan Yu : 124000
+66 passer Zhang Yan Yu : 124000
+66 passer Zhang Yan Yu : 124000
+66 passer Zhang Yan Yu : 124000
+337 answerer Liao Xun weight : 124034
+448 answerer Fuzi Rui : 124101
+448 answerer Liao Xun weight : 124101
+Asker Howard Hsu : 124156
+415 passer Fuzi Rui : 124193
+415 answerer Fuzi Rui : 124193
+415 answerer Liao Xun weight : 124193
+26 answerer Fuzi Rui : 124254
+26 answerer Liao Xun weight : 124254
+171 passer Chenjia Ru : 124290
+171 passer Chenjia Ru : 124290
+171 passer Chenjia Ru : 124290
+171 passer Chenjia Ru : 124290
+Asker Lizi Xuan : 124298
+113 answerer Fuzi Rui : 124301
+113 answerer Liao Xun weight : 124301
+274 answerer Fuzi Rui : 124343
+171 answerer Fuzi Rui : 124350
+171 answerer Liao Xun weight : 124350
+267 answerer Liao Xun weight : 124357
+274 answerer Liao Xun weight : 124358
+437 answerer Fuzi Rui : 124407
+437 answerer Liao Xun weight : 124407
+217 answerer Fuzi Rui : 124421
+217 answerer Liao Xun weight : 124421
+367 answerer Fuzi Rui : 124470
+367 answerer Liao Xun weight : 124470
+330 answerer Liao Xun weight : 124544
+309 passer Zhang Yan Yu : 124550
+309 passer Zhang Yan Yu : 124550
+309 passer Zhang Yan Yu : 124550
+309 passer Zhang Yan Yu : 124550
+316 answerer Liao Xun weight : 124552
+195 answerer Liao Xun weight : 124567
+58 passer Chenjia Ru : 124650
+163 answerer Fuzi Rui : 124684
+163 answerer Liao Xun weight : 124684
+58 answerer Liao Xun weight : 124710
+126 passer Zhang Yan Yu : 124746
+126 passer Zhang Yan Yu : 124746
+126 passer Zhang Yan Yu : 124746
+126 passer Zhang Yan Yu : 124746
+47 answerer Liao Xun weight : 124761
+379 passer Chenjia Ru : 125032
+379 answerer Fuzi Rui : 125077
+379 answerer Liao Xun weight : 125092
+302 passer Zhang Yan Yu : 125366
+302 passer Zhang Yan Yu : 125366
+302 passer Zhang Yan Yu : 125366
+302 passer Zhang Yan Yu : 125366
+21 passer Zhong Xuan can : 125367
+21 passer Zhong Xuan can : 125367
+21 passer Zhong Xuan can : 125367
+21 passer Zhong Xuan can : 125367
+368 answerer Fuzi Rui : 125410
+368 answerer Liao Xun weight : 125410
+317 answerer Liao Xun weight : 125461
+9 answerer Fuzi Rui : 125523
+9 answerer Liao Xun weight : 125523
+430 answerer Liao Xun weight : 125584
+143 answerer Liao Xun weight : 125644
+247 answerer Fuzi Rui : 125722
+247 answerer Liao Xun weight : 125722
+Asker Chen Yi Ling : 125723
+196 answerer Liao Xun weight : 125744
+154 answerer Fuzi Rui : 125763
+154 answerer Liao Xun weight : 125763
+16 answerer Fuzi Rui : 125768
+16 answerer Liao Xun weight : 125783
+312 answerer Liao Xun weight : 125785
+346 passer Zhang Yan Yu : 125823
+346 passer Zhang Yan Yu : 125823
+346 passer Zhang Yan Yu : 125823
+346 passer Zhang Yan Yu : 125823
+236 answerer Liao Xun weight : 125852
+244 answerer Liao Xun weight : 125909
+4 answerer Liao Xun weight : 125916
+180 passer Zhong Xuan can : 125946
+180 passer Zhong Xuan can : 125946
+180 passer Zhong Xuan can : 125946
+180 passer Zhong Xuan can : 125946
+427 answerer Liao Xun weight : 126028
+427 answerer Chen Yi Ling : 126073
+216 answerer Chen Yi Ling : 126091
+64 answerer Chen Yi Ling : 126103
+277 answerer Chen Yi Ling : 126109
+41 answerer Chen Yi Ling : 126131
+92 answerer Chen Yi Ling : 126137
+92 answerer Zou Yun Yun : 126137
+399 answerer Chen Yi Ling : 126151
+125 answerer Chen Yi Ling : 126213
+428 answerer Chen Yi Ling : 126232
+186 answerer Chen Yi Ling : 126237
+72 answerer Chen Yi Ling : 126330
+329 answerer Chen Yi Ling : 126348
+296 answerer Chen Yi Ling : 126355
+108 answerer Chen Yi Ling : 126376
+108 passer Chen Yi Ling : 126376
+286 answerer Chen Yi Ling : 126400
+408 passer Jimmy Yuan : 126421
+408 passer Jimmy Yuan : 126421
+408 passer Jimmy Yuan : 126421
+408 passer Jimmy Yuan : 126421
+408 passer Zou Yun Yun : 126481
+408 passer Zou Yun Yun : 126481
+408 answerer Zou Yun Yun : 126481
+408 passer Zou Yun Yun : 126481
+408 answerer Chen Yi Ling : 126541
+136 answerer Chen Yi Ling : 126569
+56 answerer Chen Yi Ling : 126610
+114 answerer Chen Yi Ling : 126619
+298 answerer Chen Yi Ling : 126638
+85 answerer Chen Yi Ling : 126700
+149 passer Jimmy Yuan : 126735
+149 passer Jimmy Yuan : 126735
+149 passer Jimmy Yuan : 126735
+149 passer Jimmy Yuan : 126735
+149 passer Zou Yun Yun : 126795
+149 passer Zou Yun Yun : 126795
+149 answerer Zou Yun Yun : 126795
+149 passer Zou Yun Yun : 126795
+429 answerer Chen Yi Ling : 126848
+149 answerer Chen Yi Ling : 126855
+297 answerer Chen Yi Ling : 126916
+308 passer Jimmy Yuan : 126945
+308 passer Jimmy Yuan : 126945
+308 passer Jimmy Yuan : 126945
+308 passer Jimmy Yuan : 126945
+204 answerer Chen Yi Ling : 126956
+204 passer Chen Yi Ling : 126956
+441 answerer Chen Yi Ling : 126960
+308 passer Zou Yun Yun : 127005
+308 passer Zou Yun Yun : 127005
+308 answerer Zou Yun Yun : 127005
+308 passer Zou Yun Yun : 127005
+204 answerer Zou Yun Yun : 127016
+278 answerer Chen Yi Ling : 127029
+363 answerer Chen Yi Ling : 127029
+99 answerer Chen Yi Ling : 127032
+308 answerer Chen Yi Ling : 127065
+27 passer Jimmy Yuan : 127097
+27 passer Jimmy Yuan : 127097
+27 passer Jimmy Yuan : 127097
+27 passer Jimmy Yuan : 127097
+81 answerer Chen Yi Ling : 127144
+27 passer Zou Yun Yun : 127157
+27 passer Zou Yun Yun : 127157
+27 answerer Zou Yun Yun : 127157
+27 passer Zou Yun Yun : 127157
+27 answerer Chen Yi Ling : 127217
+390 answerer Chen Yi Ling : 127220
+310 passer Jimmy Yuan : 127323
+310 passer Jimmy Yuan : 127323
+310 passer Jimmy Yuan : 127323
+310 passer Jimmy Yuan : 127323
+315 answerer Chen Yi Ling : 127380
+310 passer Zou Yun Yun : 127383
+310 passer Zou Yun Yun : 127383
+310 answerer Zou Yun Yun : 127383
+310 passer Zou Yun Yun : 127383
+124 answerer Chen Yi Ling : 127402
+310 answerer Chen Yi Ling : 127443
+37 answerer Chen Yi Ling : 127467
+221 answerer Chen Yi Ling : 127560
+354 answerer Chen Yi Ling : 127640
+66 passer Jimmy Yuan : 127660
+66 passer Jimmy Yuan : 127660
+66 passer Jimmy Yuan : 127660
+66 passer Jimmy Yuan : 127660
+337 answerer Chen Yi Ling : 127664
+448 answerer Chen Yi Ling : 127701
+66 passer Zou Yun Yun : 127720
+66 passer Zou Yun Yun : 127720
+66 answerer Zou Yun Yun : 127720
+66 passer Zou Yun Yun : 127720
+66 answerer Chen Yi Ling : 127780
+100 passer Weng Zaihao : 127816
+100 passer Weng Zaihao : 127816
+100 passer Weng Zaihao : 127816
+415 answerer Chen Yi Ling : 127838
+26 answerer Chen Yi Ling : 127854
+266 answerer Chen Yi Ling : 127866
+100 answerer Chen Yi Ling : 127876
+100 answerer Zou Yun Yun : 127876
+113 answerer Chen Yi Ling : 127901
+171 answerer Chen Yi Ling : 127935
+171 passer Chen Yi Ling : 127935
+267 answerer Chen Yi Ling : 127957
+274 answerer Chen Yi Ling : 127958
+274 answerer Zou Yun Yun : 127958
+171 answerer Zou Yun Yun : 127995
+437 answerer Chen Yi Ling : 128007
+217 answerer Chen Yi Ling : 128021
+57 answerer Chen Yi Ling : 128065
+367 answerer Chen Yi Ling : 128070
+203 answerer Chen Yi Ling : 128115
+203 passer Chen Yi Ling : 128115
+195 answerer Chen Yi Ling : 128122
+203 answerer Zou Yun Yun : 128175
+330 answerer Chen Yi Ling : 128189
+316 answerer Chen Yi Ling : 128197
+309 passer Jimmy Yuan : 128210
+309 passer Jimmy Yuan : 128210
+309 passer Jimmy Yuan : 128210
+309 passer Jimmy Yuan : 128210
+284 answerer Chen Yi Ling : 128270
+309 passer Zou Yun Yun : 128270
+309 passer Zou Yun Yun : 128270
+309 answerer Zou Yun Yun : 128270
+309 passer Zou Yun Yun : 128270
+163 answerer Chen Yi Ling : 128284
+58 answerer Chen Yi Ling : 128295
+309 answerer Chen Yi Ling : 128330
+98 answerer Chen Yi Ling : 128390
+126 passer Jimmy Yuan : 128406
+126 passer Jimmy Yuan : 128406
+126 passer Jimmy Yuan : 128406
+126 passer Jimmy Yuan : 128406
+47 answerer Chen Yi Ling : 128406
+126 passer Zou Yun Yun : 128466
+126 passer Zou Yun Yun : 128466
+126 answerer Zou Yun Yun : 128466
+126 passer Zou Yun Yun : 128466
+126 answerer Chen Yi Ling : 128526
+243 answerer Chen Yi Ling : 128665
+379 answerer Chen Yi Ling : 128677
+285 answerer Chen Yi Ling : 128708
+362 answerer Chen Yi Ling : 128761
+368 answerer Chen Yi Ling : 129010
+302 passer Jimmy Yuan : 129026
+302 passer Jimmy Yuan : 129026
+302 passer Jimmy Yuan : 129026
+302 passer Jimmy Yuan : 129026
+21 passer Jimmy Yuan : 129027
+21 passer Jimmy Yuan : 129027
+21 passer Jimmy Yuan : 129027
+21 passer Jimmy Yuan : 129027
+302 passer Zou Yun Yun : 129086
+302 passer Zou Yun Yun : 129086
+302 answerer Zou Yun Yun : 129086
+302 passer Zou Yun Yun : 129086
+21 passer Zou Yun Yun : 129087
+21 passer Zou Yun Yun : 129087
+21 answerer Zou Yun Yun : 129087
+21 passer Zou Yun Yun : 129087
+378 answerer Chen Yi Ling : 129089
+317 answerer Chen Yi Ling : 129106
+9 answerer Chen Yi Ling : 129123
+302 answerer Chen Yi Ling : 129146
+21 answerer Chen Yi Ling : 129147
+430 answerer Chen Yi Ling : 129229
+143 answerer Chen Yi Ling : 129229
+361 answerer Chen Yi Ling : 129278
+196 answerer Chen Yi Ling : 129299
+91 answerer Chen Yi Ling : 129300
+247 answerer Chen Yi Ling : 129322
+154 answerer Chen Yi Ling : 129363
+312 answerer Chen Yi Ling : 129370
+16 passer Weng Zaihao : 129383
+16 answerer Zou Yun Yun : 129383
+236 answerer Chen Yi Ling : 129452
+346 passer Jimmy Yuan : 129483
+346 passer Jimmy Yuan : 129483
+346 passer Jimmy Yuan : 129483
+346 passer Jimmy Yuan : 129483
+346 passer Zou Yun Yun : 129543
+346 passer Zou Yun Yun : 129543
+346 answerer Zou Yun Yun : 129543
+346 passer Zou Yun Yun : 129543
+4 answerer Chen Yi Ling : 129546
+244 answerer Chen Yi Ling : 129554
+346 answerer Chen Yi Ling : 129603
+180 passer Jimmy Yuan : 129606
+180 passer Jimmy Yuan : 129606
+180 passer Jimmy Yuan : 129606
+180 passer Jimmy Yuan : 129606
+Asker Yushi Yeap : 129995
+85 answerer Ruan Yushan : 130345
+99 passer Lin Zonghan : 130572
+221 answerer Ruan Yushan : 131160
+100 passer Lin Zonghan : 131416
+210 passer Liven Pan : 131662
+210 passer Liven Pan : 131662
+98 passer Lin Zonghan : 131930
+318 passer Song Pei Hoon : 131937
+318 passer Song Pei Hoon : 131937
+318 passer Song Pei Hoon : 131937
+52 passer Song Pei Hoon : 132047
+52 passer Song Pei Hoon : 132047
+52 passer Song Pei Hoon : 132047
+16 answerer Ruan Yushan : 133043
+180 passer Zou Yun Yun : 133266
+180 passer Zou Yun Yun : 133266
+180 answerer Zou Yun Yun : 133266
+180 passer Zou Yun Yun : 133266
+180 answerer Chen Yi Ling : 133326
+180 answerer Liao Xun weight : 133326
+Asker Song Pei Hoon : 133606
+369 passer Jimmy Yuan : 133655
+369 passer Jimmy Yuan : 133655
+369 passer Jimmy Yuan : 133655
+369 passer Jimmy Yuan : 133655
+137 answerer Liao Xun weight : 133666
+369 passer Zou Yun Yun : 133715
+369 passer Zou Yun Yun : 133715
+369 answerer Zou Yun Yun : 133715
+369 passer Zou Yun Yun : 133715
+408 answerer Liao Xun weight : 133741
+369 answerer Chen Yi Ling : 133775
+369 answerer Liao Xun weight : 133775
+149 answerer Liao Xun weight : 134055
+256 passer Lizi Xuan : 134186
+256 passer Lizi Xuan : 134186
+256 passer Lizi Xuan : 134186
+256 passer Lizi Xuan : 134186
+99 answerer Liao Xun weight : 134232
+256 answerer Chen Yi Ling : 134246
+256 answerer Zou Yun Yun : 134246
+256 answerer Liao Xun weight : 134246
+308 answerer Liao Xun weight : 134265
+27 answerer Liao Xun weight : 134417
+310 answerer Liao Xun weight : 134643
+66 answerer Liao Xun weight : 134980
+100 answerer Liao Xun weight : 135076
+Asker Weng Zaihao : 135111
+197 answerer Chen Yi Ling : 135171
+197 answerer Zou Yun Yun : 135171
+210 passer Lizi Xuan : 135262
+210 passer Lizi Xuan : 135262
+210 answerer Chen Yi Ling : 135307
+210 answerer Zou Yun Yun : 135307
+210 answerer Liao Xun weight : 135322
+309 answerer Liao Xun weight : 135530
+98 answerer Liao Xun weight : 135590
+318 answerer Liao Xun weight : 135597
+52 answerer Liao Xun weight : 135707
+126 answerer Liao Xun weight : 135726
+257 passer Lizi Xuan : 136215
+257 passer Lizi Xuan : 136215
+257 passer Lizi Xuan : 136215
+257 passer Lizi Xuan : 136215
+257 answerer Chen Yi Ling : 136275
+257 answerer Zou Yun Yun : 136275
+257 answerer Liao Xun weight : 136275
+302 answerer Liao Xun weight : 136346
+21 answerer Liao Xun weight : 136347
+255 passer Lizi Xuan : 136558
+255 passer Lizi Xuan : 136558
+255 passer Lizi Xuan : 136558
+255 passer Lizi Xuan : 136558
+255 answerer Chen Yi Ling : 136618
+255 answerer Zou Yun Yun : 136618
+255 answerer Liao Xun weight : 136618
+346 answerer Liao Xun weight : 136803
+180 answerer Fuzi Rui : 136926
+108 answerer Fuzi Rui : 137221
+137 passer Fuzi Rui : 137266
+137 answerer Fuzi Rui : 137266
+137 answerer Chen Yi Ling : 137311
+408 answerer Fuzi Rui : 137341
+369 answerer Fuzi Rui : 137375
+149 answerer Fuzi Rui : 137655
+256 answerer Fuzi Rui : 137831
+308 answerer Fuzi Rui : 137865
+27 answerer Fuzi Rui : 138017
+310 answerer Fuzi Rui : 138243
+66 answerer Fuzi Rui : 138580
+100 answerer Fuzi Rui : 138661
+197 answerer Fuzi Rui : 138756
+197 passer Fuzi Rui : 138756
+210 answerer Fuzi Rui : 138907
+309 answerer Fuzi Rui : 139130
+318 passer Fuzi Rui : 139197
+318 answerer Fuzi Rui : 139197
+318 answerer Chen Yi Ling : 139242
+52 passer Fuzi Rui : 139307
+52 answerer Fuzi Rui : 139307
+126 answerer Fuzi Rui : 139326
+52 answerer Chen Yi Ling : 139352
+257 answerer Fuzi Rui : 139860
+302 answerer Fuzi Rui : 139946
+21 answerer Fuzi Rui : 139947
+255 answerer Fuzi Rui : 140203
+127 passer Chang Chun Peng : 140400
+127 passer Chang Chun Peng : 140400
+127 passer Chang Chun Peng : 140400
+127 passer Chang Chun Peng : 140400
+346 answerer Fuzi Rui : 140403
+127 passer Zhang Yan Yu : 140460
+127 passer Zhang Yan Yu : 140460
+127 passer Zhang Yan Yu : 140460
+127 passer Zhang Yan Yu : 140460
+127 passer Jimmy Yuan : 140520
+127 passer Jimmy Yuan : 140520
+127 passer Jimmy Yuan : 140520
+127 passer Jimmy Yuan : 140520
+127 passer Zou Yun Yun : 140580
+127 passer Zou Yun Yun : 140580
+127 answerer Zou Yun Yun : 140580
+127 passer Zou Yun Yun : 140580
+127 answerer Fuzi Rui : 140640
+137 passer Liu Fengxuan : 140866
+137 answerer Zou Yun Yun : 140911
+127 answerer Liao Xun weight : 144240
+197 answerer Liao Xun weight : 146016
+Asker Zhong Jiajun : 153235
+42 passer Chang Chun Peng : 153295
+42 passer Chang Chun Peng : 153295
+42 passer Chang Chun Peng : 153295
+42 passer Chang Chun Peng : 153295
+127 answerer Chen Yi Ling : 155040
+42 passer Zhang Yan Yu : 156955
+42 passer Zhang Yan Yu : 156955
+42 passer Zhang Yan Yu : 156955
+42 passer Zhang Yan Yu : 156955
+42 passer Jimmy Yuan : 160615
+42 passer Jimmy Yuan : 160615
+42 passer Jimmy Yuan : 160615
+42 passer Jimmy Yuan : 160615
+42 passer Zou Yun Yun : 160675
+42 passer Zou Yun Yun : 160675
+42 answerer Zou Yun Yun : 160675
+42 passer Zou Yun Yun : 160675
+42 answerer Chen Yi Ling : 164335
+42 answerer Fuzi Rui : 164335
+42 answerer Liao Xun weight : 167935
+Asker Qiu Italian View : 175728
+431 passer Winnie Chang : 200988
+431 passer Winnie Chang : 200988
+431 passer Winnie Chang : 200988
+431 passer Winnie Chang : 200988
+431 passer Jimmy Yuan : 208248
+431 answerer Zou Yun Yun : 208308
+431 passer Song Pei Hoon : 219048
+431 passer Song Pei Hoon : 219048
+431 passer Song Pei Hoon : 219048
+431 answerer Liao Xun weight : 222708
+431 passer Fuzi Rui : 226308
+431 answerer Fuzi Rui : 226308
+431 answerer Chen Yi Ling : 226353

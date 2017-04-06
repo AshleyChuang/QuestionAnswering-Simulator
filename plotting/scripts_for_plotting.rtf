@@ -1,0 +1,171 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AndaleMono;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red255\green255\blue0;
+\red85\green142\blue40;\red0\green255\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c0\c0\c0;\csgenericrgb\c100000\c100000\c100000;\csgenericrgb\c100000\c100000\c0;
+\csgenericrgb\c33333\c55686\c15686;\csgenericrgb\c0\c100000\c0;\csgenericrgb\c100000\c0\c0;\csgenericrgb\c0\c0\c100000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww13120\viewh12000\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx5947\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs36 \cf2 \cb4 \CocoaLigature0 get_response_time_one_question.py
+\fs28 \cb3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \
+You can get response time of all the answerers for a question by both Bottleneck and iASK algorithms. \
+\
+>> python get_response_time_one_question.py arg1 arg2 arg3 arg4 arg5\
+\
+** arg1: arrival rate following a Poisson process (0~4: default->2)\
+** arg2: the seed for generate questions randomly\
+** arg3: predictability(a real from 0 to 1)\
+** arg4: the number of expertises per question\
+** arg5: question ID\
+\
+EXAMPLE:\
+If you want to know the response time of \cf5 question 4\cf2  from \'93Bottleneck_14400_1_0.6_4_question_info.txt\'94 and \'93iASK_14400_1_0.6_4_question_info.txt\'94. You can run as follows:\
+\
+>>python get_response_time_one_question.py 14400 1 1.0 4 4\
+\cb6 [\
+1.03333333333 1.03333333333;\
+1.05 1.03333333333;\
+3.09416666667 2.02916666667;\
+3.1125 2.04166666667;\
+];\cb3 \
+\
+Then you can copy the results (green part) and replace the \cb7 response_time\cb3  matrix in \'93response_time_for_1_question.m\'94. After running \'93response_time_for_1_question.m\'94, you\'92ll get a figure.\
+\
+
+\fs36 \cb4 get_CDF_maximal_response_time.py\cf8 \cb3 \
+
+\fs28 \cf2 \
+You can get the CDF of maximal response time of all the questions for both Bottleneck and iASK from a simple run of simulator.\
+\
+>> python get_CDF_maximal_response_time.py arg1 arg2 arg3 arg4\
+** arg1: arrival rate following a Poisson process (0~4: default->2)\
+** arg2: the seed for generate questions randomly\
+** arg3: predictability(a real from 0 to 1)\
+** arg4: the number of expertises per question\
+\
+EXAMPLE:\
+If you want to get CDF of maximal response time of all the questions from \'93Bottleneck_14400_1_0.6_4_question_info.txt\'94 and \'93iASK_14400_1_0.6_4_question_info.txt\'94.\
+\
+>> python get_CDF_maximal_response_time.py 14400 1 1.0 4\
+\cb6 bottle = [\'85\'85\'85\'85\'85\'85]\
+iask = [\'85\'85\'85\'85\'85\'85]\
+\cb3 \
+Then you will get two long lists as above, and copy \ul all\ulnone  of them(including the name of the lists) and replace \ul first two lines\ulnone  in \'93CDF_maximal_response_time.m\'94.After running \'93CDF_maximal_response_time.m\'94, you\'92ll get a figure.\
+\
+
+\fs36 \cb4 get_max_time_95_confidence_interval.py\
+
+\fs28 \cb3 \
+You can the average and 95% confidence interval error of the maximal response Time(hr) for each run of simulator. (It will go through all the output files in both \ul results/questions/Bottleneck\ulnone  and \ul results/questions/iASK.\ulnone )\
+\
+>> python get_max_time_95_confidence_interval.py\
+\
+** Remember that the number of files in \ul results/questions/Bottleneck\ulnone  and \ul results/questions/Bottleneck\ulnone  \cf3 \cb8 MUST BE THE SAME\cf2 \cb3 .\
+\
+EXAMPLE:\
+>> python get_max_time_95_confidence_interval.py\
+\cb6 [\
+9.26739509105 6.65891779789;\
+26.8349722222 13.7481860552;\
+15.6617997543 9.84137655763;\
+9.44415277778 6.60714342949;\
+9.24185560859 6.78899796748;\
+9.37515205371 6.39169463087;\
+9.58346682848 6.71335149314;\
+9.4910235732 6.50417078189;\
+9.32177462121 6.64290665064;\
+9.08379069767 6.84552059497;\
+9.66431989924 6.75544724771;\
+9.13301007557 6.627673454;\
+];\
+[\
+3.37503919787 2.27338554832;\
+5.14338969458 3.91204610665;\
+4.54303088883 2.71697676067;\
+3.35301267553 2.178851984;\
+2.94508302143 2.18780784717;\
+2.97719554124 2.25590533989;\
+3.30141950809 2.32111249957;\
+3.53811930831 2.23209188225;\
+3.2715180175 2.25060769188;\
+3.15719312467 2.34725543973;\
+3.4836248963 2.23231216374;\
+3.23733612732 2.2945217765;\
+];\
+
+\fs36 \cb3 \
+
+\fs28 There\'92re two matrices in the output. And please replace \cb7 max_mean\cb3  and \cb7 max_error\cb3  these two matrices in \'93maximal_response_time_confidence_interval.m\'94 with the above two metrics respectively.
+\fs36 \
+\
+\cb4 get_CDF_response_rate.py\cf8 \cb3 \
+
+\fs28 \cf2 \
+You can get the CDF of response rate of all the questions for both Bottleneck and iASK from a simple run of simulator.\
+\
+>> python get_CDF_response_rate.py arg1 arg2 arg3 arg4\
+** arg1: arrival rate following a Poisson process (0~4: default->2)\
+** arg2: the seed for generate questions randomly\
+** arg3: predictability(a real from 0 to 1)\
+** arg4: the number of expertises per question\
+\
+EXAMPLE:\
+If you want to get CDF of response rate of all the questions from \'93Bottleneck_14400_1_0.6_4_question_info.txt\'94 and \'93iASK_14400_1_0.6_4_question_info.txt\'94.\
+\
+>> python get_CDF_response_rate.py 14400 1 1.0 4\
+\cb6 bottle = [\'85\'85\'85\'85\'85\'85]\
+iask = [\'85\'85\'85\'85\'85\'85]\
+\cb3 \
+Then you will get two long lists as above, and copy \ul all\ulnone  of them(including the name of the lists) and replace \ul first two lines\ulnone  in \'93CDF_response_rate.m\'94.After running \'93CDF_response_rate.m\'94, you\'92ll get a figure.\
+\
+\
+
+\fs36 \cb4 get_response_rate_95_confidence_interval.py\
+
+\fs28 \cb3 \
+You can the average and 95% confidence interval error of the response rate for each run of simulator. (It will go through all the output files in both \ul results/questions/Bottleneck\ulnone  and \ul results/questions/iASK.\ulnone )\
+\
+>> python get_response_rate_95_confidence_interval.py\
+\
+** Remember that the number of files in \ul results/questions/Bottleneck\ulnone  and \ul results/questions/Bottleneck\ulnone  \cf3 \cb8 MUST BE THE SAME\cf2 \cb3 .\
+\
+EXAMPLE:\
+>> python get_response_rate_95_confidence_interval.py\
+\cb6 [\
+9.26739509105 6.65891779789;\
+26.8349722222 13.7481860552;\
+15.6617997543 9.84137655763;\
+9.44415277778 6.60714342949;\
+9.24185560859 6.78899796748;\
+9.37515205371 6.39169463087;\
+9.58346682848 6.71335149314;\
+9.4910235732 6.50417078189;\
+9.32177462121 6.64290665064;\
+9.08379069767 6.84552059497;\
+9.66431989924 6.75544724771;\
+9.13301007557 6.627673454;\
+];\
+[\
+3.37503919787 2.27338554832;\
+5.14338969458 3.91204610665;\
+4.54303088883 2.71697676067;\
+3.35301267553 2.178851984;\
+2.94508302143 2.18780784717;\
+2.97719554124 2.25590533989;\
+3.30141950809 2.32111249957;\
+3.53811930831 2.23209188225;\
+3.2715180175 2.25060769188;\
+3.15719312467 2.34725543973;\
+3.4836248963 2.23231216374;\
+3.23733612732 2.2945217765;\
+];\
+
+\fs36 \cb3 \
+
+\fs28 There\'92re two matrices in the output. And please replace \cb7 rate_mean\cb3  and \cb7 rate_error\cb3  these two matrices in \'93response_rate_confidence_interval.m\'94 with the above two metrics respectively.}
